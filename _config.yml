@@ -14,3 +14,6 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 theme: jekyll-theme-cayman
+title: CCPA Home
+description: Home of the Coalition for Content Provenance and Authenticity
+show_downloads: false
