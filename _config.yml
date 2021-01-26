@@ -1,4 +1,3 @@
-theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -14,4 +13,4 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
