@@ -1,0 +1,13 @@
+# plugins:
+#  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+
+# theme: jekyll-theme-cayman
+title: CCPA Home
+description: Home of the Coalition for Content Provenance and Authenticity
+show_downloads: false
