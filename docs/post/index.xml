@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News &amp; Events on C2PA</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://c2pa-org.github.io/post/</link>
     <description>Recent content in News &amp; Events on C2PA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Feb 2021 19:11:21 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 19:11:21 +0000</lastBuildDate><atom:link href="https://c2pa-org.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to the C2PA</title>
-      <link>http://localhost:1313/post/welcome/</link>
-      <pubDate>Tue, 16 Feb 2021 01:58:20 +0000</pubDate>
+      <title>C2PA Founding Press Release</title>
+      <link>https://c2pa-org.github.io/post/c2pa_initial_pr/</link>
+      <pubDate>Fri, 19 Feb 2021 20:59:12 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/welcome/</guid>
-      <description>Something goes here&amp;hellip;</description>
+      <guid>https://c2pa-org.github.io/post/c2pa_initial_pr/</guid>
+      <description>Technology and media entities join forces to create standards group aimed at building trust in online content Adobe, Arm, BBC, Intel, Microsoft and Truepic form coalition to develop end-to-end, open standard for tracing the origin and evolution of digital content
+SAN JOSE, Calif., and REDMOND, Wash. &amp;mdash; Feb. 22, 2021 &amp;mdash; A group of influential technology and media companies has partnered to form the Coalition for Content Provenance and Authenticity (C2PA), a Joint Development Foundation project established to address the prevalence of disinformation, misinformation and online content fraud through developing technical standards for certifying the source and history or provenance of media content.</description>
     </item>
     
   </channel>
