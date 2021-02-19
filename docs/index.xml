@@ -2,28 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coalition for Content Provenance and Authenticity on C2PA</title>
-    <link>http://localhost:1313/</link>
+    <link>https://c2pa-org.github.io/</link>
     <description>Recent content in Coalition for Content Provenance and Authenticity on C2PA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Feb 2021 01:58:20 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 19:11:21 +0000</lastBuildDate><atom:link href="https://c2pa-org.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction to the C2PA</title>
-      <link>http://localhost:1313/post/chapter-1/</link>
-      <pubDate>Tue, 16 Feb 2021 01:58:20 +0000</pubDate>
+      <title>About</title>
+      <link>https://c2pa-org.github.io/about/about/</link>
+      <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/chapter-1/</guid>
-      <description>Something else goes here&amp;hellip;</description>
+      <guid>https://c2pa-org.github.io/about/about/</guid>
+      <description>The Coalition for Content Provenance and Authenticity (C2PA) is a Joint Development Foundation project that brings together the efforts of the Content Authenticity Initiative (CAI) and Project Origin.
+Founded in late 2019 by Adobe in collaboration with the New York Times and Twitter, the CAI is building a system to provide to provide provenance and history for digital media, providing a tool for creators to claim authorship while empowering consumers to make informed decisions about what to trust.</description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <title>Charter</title>
+      <link>https://c2pa-org.github.io/about/charter/</link>
+      <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
+      
+      <guid>https://c2pa-org.github.io/about/charter/</guid>
+      <description>Coalition for Content Provenance and Authenticity (C2PA) Charter
+February 2021
+With the digital transformation of information sharing, the ability to trace the provenance of media has become critical. To address this issue at scale for publishers, creators and consumers, the Consortium will develop technical specifications for establishing content provenance and authenticity. The specifications will be informed by scenarios, workflows and requirements gathered from industry experts and partner organizations, including the Project Origin Alliance and the Content Authenticity Initiative (CAI.</description>
+    </item>
+    
+    <item>
+      <title>Our Members</title>
+      <link>https://c2pa-org.github.io/membership/members/</link>
+      <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
+      
+      <guid>https://c2pa-org.github.io/membership/members/</guid>
+      <description>Adobe
+Arm
+BBC
+Intel
+Microsoft
+Truepic</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://c2pa-org.github.io/about/resources/</link>
+      <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
+      
+      <guid>https://c2pa-org.github.io/about/resources/</guid>
+      <description>Content Authenticity Initiative (CAI)   Overview: Content Authenticity Initiative (CAI)
+  Case Study: Content Authenticity Initiative
+  WhitePaper
+  Project Origin   Overview: Project Origin
+  Paper: AMP: Authentication of Media vis Provenance
+  Videos:
+  BBC | Project Origin
+  Microsoft | Project Origin
+  Authentication of Media via Provenance (AMP)
+    </description>
+    </item>
+    
+    <item>
+      <title>Welcome to the C2PA</title>
+      <link>https://c2pa-org.github.io/post/welcome/</link>
+      <pubDate>Tue, 16 Feb 2021 01:58:20 +0000</pubDate>
+      
+      <guid>https://c2pa-org.github.io/post/welcome/</guid>
+      <description>Something goes here&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Join C2PA</title>
+      <link>https://c2pa-org.github.io/membership/join/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
-Your Name Email Address An email address is required.  Message   </description>
+      <guid>https://c2pa-org.github.io/membership/join/</guid>
+      <description>Are you interested in joining C2PA in its effort to develop open standards to certify the source and provenance of online content? Reach out to us at membership@c2pa.org to apply.</description>
     </item>
     
   </channel>

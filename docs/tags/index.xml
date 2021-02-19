@@ -2,19 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on C2PA</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://c2pa-org.github.io/tags/</link>
     <description>Recent content in Tags on C2PA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 16 Feb 2021 01:58:20 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>intro</title>
-      <link>http://localhost:1313/tags/intro/</link>
-      <pubDate>Tue, 16 Feb 2021 01:58:20 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/intro/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://c2pa-org.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
