@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on C2PA</title>
-    <link>http://localhost:1313/about/</link>
+    <link>https://c2pa-org.github.io/about/</link>
     <description>Recent content in About on C2PA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Feb 2021 15:32:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 15:32:00 +0000</lastBuildDate><atom:link href="https://c2pa-org.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/about/</link>
+      <link>https://c2pa-org.github.io/about/about/</link>
       <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/about/</guid>
+      <guid>https://c2pa-org.github.io/about/about/</guid>
       <description>The Coalition for Content Provenance and Authenticity (C2PA) is a Joint Development Foundation project brings together the efforts of the Content Authenticity Initiative (CAI) and Project Origin.
 Founded in late 2019 by Adobe in collaboration with the New York Times and Twitter, the CAI is building a system to provide to provide provenance and history for digital media, providing a tool for creators to claim authorship while empowering consumers to make informed decisions about what to trust.</description>
     </item>
     
     <item>
       <title>Additional Resources</title>
-      <link>http://localhost:1313/about/resources/</link>
+      <link>https://c2pa-org.github.io/about/resources/</link>
       <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/resources/</guid>
+      <guid>https://c2pa-org.github.io/about/resources/</guid>
       <description>Additional Resources
 Content Authenticity Initiative (CAI) •	Overview: Content Authenticity Initiative (CAI) •	Case Study/Videos: o	Case Study — Content Authenticity Initiative
 Project Origin •	Overview: Project Origin •	Case Study/Papers: o	AMP: Authentication of Media vis Provenance •	Videos: o	BBC | Project Origin o	Microsoft | Project Origin o	Authentication of Media via Provenance (AMP)</description>
