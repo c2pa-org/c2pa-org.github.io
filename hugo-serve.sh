@@ -8,6 +8,7 @@ set -eux
 # define the docker container and its version
 HUGO_VERS=0.80.0-ext-alpine
 DOCKER_IMG=klakegg/hugo
+OUTPUT_DIR=docs
 
 #detect platform that we're running on...
 unameOut="$(uname -s)"
@@ -34,5 +35,6 @@ fi
 
 # run it!
 docker run --rm -it -v "${curPath}":/src -p 1313:1313 \
-	"${DOCKER_IMG}":"${HUGO_VERS}" server
+	"${DOCKER_IMG}":"${HUGO_VERS}" server -d "${OUTPUT_DIR}"
+
 

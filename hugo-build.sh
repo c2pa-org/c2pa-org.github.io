@@ -8,6 +8,7 @@ set -eux
 # define the docker container and its version
 HUGO_VERS=0.80.0
 DOCKER_IMG=klakegg/hugo
+OUTPUT_DIR=docs
 
 #detect platform that we're running on...
 unameOut="$(uname -s)"
@@ -33,4 +34,4 @@ if [ "${machine}" == "MinGw" ]; then
 fi
 
 # run it!
-docker run --rm -it -v "${curPath}":/src "${DOCKER_IMG}":"${HUGO_VERS}"
+docker run --rm -it -v "${curPath}":/src "${DOCKER_IMG}":"${HUGO_VERS}" -d "${OUTPUT_DIR}"
