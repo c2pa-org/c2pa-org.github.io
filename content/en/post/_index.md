@@ -1,5 +1,8 @@
 ---
-title: "Articles"
-date: 2017-03-02T12:00:00-05:00
+title: "News & Events"
+date: 2021-02-19T19:11:21.518Z
 ---
-Articles are paginated with only three posts here for example. You can set the number of entries to show on this page with the "pagination" setting in the config file.
+
+Newsroom with press releases by C2PA, news links about C2PA, section for press inquiries (dupe on contact page)
+
+Events Calendar, details about events, registration links

@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://c2pa-org.github.io/</loc>
+    <lastmod>2021-02-19T19:11:21+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://c2pa-org.github.io/post/</loc>
+    <lastmod>2021-02-19T19:11:21+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://c2pa-org.github.io/about/</loc>
     <lastmod>2021-02-19T15:32:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -17,6 +31,27 @@
   </url>
   
   <url>
+    <loc>https://c2pa-org.github.io/about/charter/</loc>
+    <lastmod>2021-02-19T15:32:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://c2pa-org.github.io/membership/</loc>
+    <lastmod>2021-02-19T15:32:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://c2pa-org.github.io/membership/members/</loc>
+    <lastmod>2021-02-19T15:32:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://c2pa-org.github.io/about/resources/</loc>
     <lastmod>2021-02-19T15:32:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -24,36 +59,8 @@
   </url>
   
   <url>
-    <loc>https://c2pa-org.github.io/</loc>
-    <lastmod>2021-02-19T15:32:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://c2pa-org.github.io/tags/intro/</loc>
+    <loc>https://c2pa-org.github.io/post/welcome/</loc>
     <lastmod>2021-02-16T01:58:20+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://c2pa-org.github.io/post/chapter-1/</loc>
-    <lastmod>2021-02-16T01:58:20+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://c2pa-org.github.io/tags/</loc>
-    <lastmod>2021-02-16T01:58:20+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://c2pa-org.github.io/post/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -65,13 +72,19 @@
   </url>
   
   <url>
-    <loc>https://c2pa-org.github.io/contact/</loc>
+    <loc>https://c2pa-org.github.io/faq/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://c2pa-org.github.io/faq/</loc>
+    <loc>https://c2pa-org.github.io/membership/join/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://c2pa-org.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

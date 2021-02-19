@@ -5,7 +5,7 @@ featured_image: ''
 ---
 
 ## What is the Coalition for Content Provenance and Authenticity (C2PA)?
-The C2PA is a Joint Development Foundation project https://www.jointdevelopment.org/ to collectively build an end-to-end open technical standard to provide publishers, creators, and consumers the ability to trace the origin of different types of media.
+The C2PA is a [Joint Development Foundation](https://www.jointdevelopment.org/) project to collectively build an end-to-end open technical standard to provide publishers, creators, and consumers the ability to trace the origin of different types of media.
 
 ## What is content provenance?
 Provenance refers to the basic, trustworthy facts about the origins of a piece of digital content (image, video, audio recording, document) including who created it and how, when, and where it was created or edited. 
