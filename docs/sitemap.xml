@@ -3,8 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2021-02-19T15:32:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/about/</loc>
+    <lastmod>2021-02-19T15:32:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/resources/</loc>
+    <lastmod>2021-02-19T15:32:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2021-02-16T01:58:20+00:00</lastmod>
+    <lastmod>2021-02-19T15:32:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -38,12 +59,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -51,6 +66,12 @@
   
   <url>
     <loc>http://localhost:1313/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/faq/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

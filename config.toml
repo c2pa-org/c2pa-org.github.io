@@ -10,6 +10,9 @@ Paginate = 3 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = true
 
+# don't pluralize About->Abouts
+pluralizelisttitles = false
+
 [languages]
   [languages.en]
     title = "C2PA"
