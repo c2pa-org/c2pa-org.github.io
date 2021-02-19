@@ -25,8 +25,8 @@ pluralizelisttitles = false
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
-  site_logo = ""
+  favicon = "favicon.ico"
+  site_logo = "/images/c2pa-logo.png"
   description = "Coalition for Content Provenance and Authenticity"
   facebook = ""
   twitter = ""
