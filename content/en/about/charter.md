@@ -4,9 +4,7 @@ featured_image: ''
 date: 2021-02-19T15:32:00.711Z
 ---
 
-Coalition for Content Provenance and Authenticity (C2PA) Charter
-
-February 2021
+## Coalition for Content Provenance and Authenticity (C2PA) Charter
 
 With the digital transformation of information sharing, the ability to
 trace the provenance of media has become critical. To address this issue

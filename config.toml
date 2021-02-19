@@ -40,6 +40,6 @@ pluralizelisttitles = false
   stackoverflow = ""
   rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  background_color_class = "bg-mid-gray"
+  featured_image = ""
   recent_posts_number = 0
