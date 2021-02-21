@@ -3,6 +3,7 @@ title: "Resources"
 description: "More material about the C2PA"
 featured_image: ''
 date: 2021-02-19T15:32:00.711Z
+summary: "A collection of resources for additional reading about the C2PA including whitepapers and videos from the CAI and Project Origin."
 ---
 ## Content Authenticity Initiative (CAI)
 

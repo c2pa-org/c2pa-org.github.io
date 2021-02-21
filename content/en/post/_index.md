@@ -1,5 +1,5 @@
 ---
-title: "News & Events"
+title: "News"
 date: 2021-02-19T19:11:21.518Z
 ---
 
