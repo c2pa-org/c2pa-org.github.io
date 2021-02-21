@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C2PA</title>
-    <link>http://localhost:1313/</link>
+    <link>https://c2pa.org/</link>
     <description>Recent content on C2PA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Feb 2021 20:59:12 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 20:59:12 +0000</lastBuildDate><atom:link href="https://c2pa.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C2PA Founding Press Release</title>
-      <link>http://localhost:1313/post/c2pa_initial_pr/</link>
+      <link>https://c2pa.org/post/c2pa_initial_pr/</link>
       <pubDate>Fri, 19 Feb 2021 20:59:12 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/c2pa_initial_pr/</guid>
+      <guid>https://c2pa.org/post/c2pa_initial_pr/</guid>
       <description>&lt;strong&gt;SAN JOSE, Calif., and REDMOND, Wash. &amp;mdash; Feb. 22, 2021 &amp;mdash;&lt;/strong&gt; A group of influential technology and media companies has partnered to form the Coalition for Content Provenance and Authenticity (C2PA), a Joint Development Foundation project established to address the prevalence of disinformation, misinformation and online content fraud through developing technical standards for certifying the source and history or provenance of media content.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/about/</link>
+      <link>https://c2pa.org/about/about/</link>
       <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/about/</guid>
+      <guid>https://c2pa.org/about/about/</guid>
       <description>The Coalition for Content Provenance and Authenticity (C2PA) is a &lt;a href=&#34;https://www.jointdevelopment.org/&#34;&gt;Joint Development Foundation&lt;/a&gt; project that brings together the efforts of the &lt;a href=&#34;https://contentauthenticity.org/&#34;&gt;Content Authenticity Initiative (CAI)&lt;/a&gt; and &lt;a href=&#34;https://www.originproject.info/&#34;&gt;Project Origin&lt;/a&gt;.</description>
     </item>
     
     <item>
       <title>Charter</title>
-      <link>http://localhost:1313/about/charter/</link>
+      <link>https://c2pa.org/about/charter/</link>
       <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/charter/</guid>
+      <guid>https://c2pa.org/about/charter/</guid>
       <description>With the digital transformation of information sharing, the ability to trace the provenance of media has become critical. To address this issue at scale for publishers, creators and consumers, the Consortium will develop technical specifications for establishing content provenance and authenticity. The specifications will be informed by scenarios, workflows and requirements gathered from industry experts and partner organizations, including the Project Origin Alliance and the Content Authenticity Initiative (CAI.)</description>
     </item>
     
     <item>
       <title>Our Members</title>
-      <link>http://localhost:1313/membership/members/</link>
+      <link>https://c2pa.org/membership/members/</link>
       <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/membership/members/</guid>
+      <guid>https://c2pa.org/membership/members/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.adobe.com/&#34;&gt;Adobe&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.arm.com/&#34;&gt;Arm&lt;/a&gt;&lt;/li&gt;
@@ -53,19 +53,19 @@
     
     <item>
       <title>Resources</title>
-      <link>http://localhost:1313/about/resources/</link>
+      <link>https://c2pa.org/about/resources/</link>
       <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/resources/</guid>
+      <guid>https://c2pa.org/about/resources/</guid>
       <description>A collection of resources for additional reading about the C2PA including whitepapers and videos from the CAI and Project Origin.</description>
     </item>
     
     <item>
       <title>Join C2PA</title>
-      <link>http://localhost:1313/membership/join/</link>
+      <link>https://c2pa.org/membership/join/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/membership/join/</guid>
+      <guid>https://c2pa.org/membership/join/</guid>
       <description>Are you interested in joining C2PA in its effort to develop open standards to certify the source and provenance of online content? Reach out to us at &lt;a href=&#34;mailto:membership@c2pa.org&#34;&gt;membership@c2pa.org&lt;/a&gt; to apply.</description>
     </item>
     
