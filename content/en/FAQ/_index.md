@@ -1,6 +1,5 @@
 ---
 title: "FAQ"
-description: "Frequently Asked Questions"
 featured_image: ''
 ---
 
