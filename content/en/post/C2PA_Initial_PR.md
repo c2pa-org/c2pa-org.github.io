@@ -2,6 +2,7 @@
 date: 2021-02-19T20:59:12.840Z
 description: "Technology and media entities join forces to create standards group aimed at building trust in online content"
 title: "C2PA Founding Press Release"
+summary: "**SAN JOSE, Calif., and REDMOND, Wash. --- Feb. 22, 2021 ---** A group of influential technology and media companies has partnered to form the Coalition for Content Provenance and Authenticity (C2PA), a Joint Development Foundation project established to address the prevalence of disinformation, misinformation and online content fraud through developing technical standards for certifying the source and history or provenance of media content."
 ---
 
 # Technology and media entities join forces to create standards group aimed at building trust in online content

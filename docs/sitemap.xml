@@ -3,88 +3,88 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://c2pa-org.github.io/</loc>
     <lastmod>2021-02-19T20:59:12+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/c2pa_initial_pr/</loc>
+    <loc>https://c2pa-org.github.io/post/c2pa_initial_pr/</loc>
     <lastmod>2021-02-19T20:59:12+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://c2pa-org.github.io/post/</loc>
     <lastmod>2021-02-19T19:11:21+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://c2pa-org.github.io/about/</loc>
     <lastmod>2021-02-19T15:32:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/about/</loc>
+    <loc>https://c2pa-org.github.io/about/about/</loc>
     <lastmod>2021-02-19T15:32:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/charter/</loc>
+    <loc>https://c2pa-org.github.io/about/charter/</loc>
     <lastmod>2021-02-19T15:32:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/membership/</loc>
+    <loc>https://c2pa-org.github.io/membership/</loc>
     <lastmod>2021-02-19T15:32:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/membership/members/</loc>
+    <loc>https://c2pa-org.github.io/membership/members/</loc>
     <lastmod>2021-02-19T15:32:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/resources/</loc>
+    <loc>https://c2pa-org.github.io/about/resources/</loc>
     <lastmod>2021-02-19T15:32:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://c2pa-org.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/faq/</loc>
+    <loc>https://c2pa-org.github.io/faq/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/membership/join/</loc>
+    <loc>https://c2pa-org.github.io/membership/join/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://c2pa-org.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

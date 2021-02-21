@@ -2,6 +2,14 @@
 title: "Charter"
 featured_image: ''
 date: 2021-02-19T15:32:00.711Z
+summary: "With the digital transformation of information sharing, the ability to
+trace the provenance of media has become critical. To address this issue
+at scale for publishers, creators and consumers, the Consortium will
+develop technical specifications for establishing content provenance and
+authenticity. The specifications will be informed by scenarios,
+workflows and requirements gathered from industry experts and partner
+organizations, including the Project Origin Alliance and the Content
+Authenticity Initiative (CAI.)"
 ---
 
 ## Coalition for Content Provenance and Authenticity (C2PA) Charter

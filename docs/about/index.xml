@@ -2,46 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on C2PA</title>
-    <link>http://localhost:1313/about/</link>
+    <link>https://c2pa-org.github.io/about/</link>
     <description>Recent content in About on C2PA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Feb 2021 15:32:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 15:32:00 +0000</lastBuildDate><atom:link href="https://c2pa-org.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/about/</link>
+      <link>https://c2pa-org.github.io/about/about/</link>
       <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/about/</guid>
-      <description>The Coalition for Content Provenance and Authenticity (C2PA) is a Joint Development Foundation project that brings together the efforts of the Content Authenticity Initiative (CAI) and Project Origin.
-Founded in late 2019 by Adobe in collaboration with the New York Times and Twitter, the CAI is building a system to provide to provide provenance and history for digital media, providing a tool for creators to claim authorship while empowering consumers to make informed decisions about what to trust.</description>
+      <guid>https://c2pa-org.github.io/about/about/</guid>
+      <description>The Coalition for Content Provenance and Authenticity (C2PA) is a &lt;a href=&#34;https://www.jointdevelopment.org/&#34;&gt;Joint Development Foundation&lt;/a&gt; project that brings together the efforts of the &lt;a href=&#34;https://contentauthenticity.org/&#34;&gt;Content Authenticity Initiative (CAI)&lt;/a&gt; and &lt;a href=&#34;https://www.originproject.info/&#34;&gt;Project Origin&lt;/a&gt;.</description>
     </item>
     
     <item>
       <title>Charter</title>
-      <link>http://localhost:1313/about/charter/</link>
+      <link>https://c2pa-org.github.io/about/charter/</link>
       <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/charter/</guid>
-      <description>Coalition for Content Provenance and Authenticity (C2PA) Charter With the digital transformation of information sharing, the ability to trace the provenance of media has become critical. To address this issue at scale for publishers, creators and consumers, the Consortium will develop technical specifications for establishing content provenance and authenticity. The specifications will be informed by scenarios, workflows and requirements gathered from industry experts and partner organizations, including the Project Origin Alliance and the Content Authenticity Initiative (CAI.</description>
+      <guid>https://c2pa-org.github.io/about/charter/</guid>
+      <description>With the digital transformation of information sharing, the ability to trace the provenance of media has become critical. To address this issue at scale for publishers, creators and consumers, the Consortium will develop technical specifications for establishing content provenance and authenticity. The specifications will be informed by scenarios, workflows and requirements gathered from industry experts and partner organizations, including the Project Origin Alliance and the Content Authenticity Initiative (CAI.)</description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>http://localhost:1313/about/resources/</link>
+      <link>https://c2pa-org.github.io/about/resources/</link>
       <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/resources/</guid>
-      <description>Content Authenticity Initiative (CAI)   Overview: Content Authenticity Initiative (CAI)
-  Case Study: Content Authenticity Initiative
-  WhitePaper
-  Project Origin   Overview: Project Origin
-  Paper: AMP: Authentication of Media vis Provenance
-  Videos:
-  BBC | Project Origin
-  Microsoft | Project Origin
-  Authentication of Media via Provenance (AMP)
-    </description>
+      <guid>https://c2pa-org.github.io/about/resources/</guid>
+      <description>A collection of resources for additional reading about the C2PA including whitepapers and videos from the CAI and Project Origin.</description>
     </item>
     
   </channel>

@@ -1,8 +1,8 @@
 ---
 title: "About"
-description: "About text goes here..."
 featured_image: ''
 date: 2021-02-19T15:32:00.711Z
+summary: "The Coalition for Content Provenance and Authenticity (C2PA) is a [Joint Development Foundation](https://www.jointdevelopment.org/) project that brings together the efforts of the [Content Authenticity Initiative (CAI)](https://contentauthenticity.org/) and [Project Origin](https://www.originproject.info/)."
 ---
 The Coalition for Content Provenance and Authenticity (C2PA) is a [Joint Development Foundation](https://www.jointdevelopment.org/) project that brings together the efforts of the [Content Authenticity Initiative (CAI)](https://contentauthenticity.org/) and [Project Origin](https://www.originproject.info/). 
 
