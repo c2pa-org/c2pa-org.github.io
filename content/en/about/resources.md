@@ -17,13 +17,14 @@ summary: "A collection of resources for additional reading about the C2PA includ
 
 -   Overview: [Project Origin](https://www.originproject.info/)
 
--   Paper: [AMP: Authentication of Media vis Provenance](https://arxiv.org/pdf/2001.07886.pdf)
+-   Papers: 
+
+    - [AMP: Authentication of Media via Provenance](https://arxiv.org/pdf/2001.07886.pdf)
+    
+    - [AMP: Authentication of Media via Provenance](https://www.microsoft.com/en-us/research/project/amp-authentication-of-media-via-provenance/)
 
 -   Videos:
 
     -   [BBC \| Project Origin](https://www.youtube.com/watch?v=mdTTl-C4PTM&feature=youtu.be)
 
     -   [Microsoft \| Project Origin](https://www.youtube.com/watch?v=_W3Om9Xbj2k&feature=youtu.be)
-
-    -   [Authentication of Media via Provenance](https://www.microsoft.com/en-us/research/project/amp-authentication-of-media-via-provenance/)
-        (AMP)

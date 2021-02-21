@@ -10,19 +10,18 @@ Founded in late 2019 by Adobe in collaboration with the New York Times and Twitt
 
 The C2PA binds the efforts of these two groups and focuses exclusively on the development of open, global technical standards to channel the content provenance efforts of the CAI and Project Origin. C2PA is tasked with:
 
-•	Documenting workflow requirements as informed by CAI, Project Origin and other partner organizations
+- Documenting workflow requirements as informed by CAI, Project Origin and other partner organizations
 
-•	Applying those requirements in development of content provenance specifications
+- Applying those requirements in development of content provenance specifications
 
-•	Developing best practices and reference designs for applying those standards
+- Developing best practices and reference designs for applying those standards
 
-•	Promoting selected specifications to become global standards
+- Promoting selected specifications to become global standards
 
-•	Promoting global adoption of digital provenance techniques 
+- Promoting global adoption of digital provenance techniques 
 
-•	Promoting adoption of digital Coalition’s specifications and standards by social and media platforms
+- Promoting adoption of digital Coalition’s specifications and standards by social and media platforms
 
-•	Ensuring content remains accessible even with digital provenance techniques applied
+- Ensuring content remains accessible even with digital provenance techniques applied
 
-[Graphic showing CAI and Project Origin Logos along with C2PA logo]
 
