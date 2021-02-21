@@ -1,5 +1,5 @@
 title = "Coalition for Content Provenance and Authenticity"
-baseURL = "https://c2pa-org.github.io/"
+baseURL = "https://c2pa.org/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 resourceDir = "../resources"

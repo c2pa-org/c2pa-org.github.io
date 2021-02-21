@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on C2PA</title>
-    <link>https://c2pa-org.github.io/about/</link>
+    <link>https://c2pa.org/about/</link>
     <description>Recent content in About on C2PA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Feb 2021 15:32:00 +0000</lastBuildDate><atom:link href="https://c2pa-org.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 15:32:00 +0000</lastBuildDate><atom:link href="https://c2pa.org/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://c2pa-org.github.io/about/about/</link>
+      <link>https://c2pa.org/about/about/</link>
       <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
       
-      <guid>https://c2pa-org.github.io/about/about/</guid>
+      <guid>https://c2pa.org/about/about/</guid>
       <description>The Coalition for Content Provenance and Authenticity (C2PA) is a &lt;a href=&#34;https://www.jointdevelopment.org/&#34;&gt;Joint Development Foundation&lt;/a&gt; project that brings together the efforts of the &lt;a href=&#34;https://contentauthenticity.org/&#34;&gt;Content Authenticity Initiative (CAI)&lt;/a&gt; and &lt;a href=&#34;https://www.originproject.info/&#34;&gt;Project Origin&lt;/a&gt;.</description>
     </item>
     
     <item>
       <title>Charter</title>
-      <link>https://c2pa-org.github.io/about/charter/</link>
+      <link>https://c2pa.org/about/charter/</link>
       <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
       
-      <guid>https://c2pa-org.github.io/about/charter/</guid>
+      <guid>https://c2pa.org/about/charter/</guid>
       <description>With the digital transformation of information sharing, the ability to trace the provenance of media has become critical. To address this issue at scale for publishers, creators and consumers, the Consortium will develop technical specifications for establishing content provenance and authenticity. The specifications will be informed by scenarios, workflows and requirements gathered from industry experts and partner organizations, including the Project Origin Alliance and the Content Authenticity Initiative (CAI.)</description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>https://c2pa-org.github.io/about/resources/</link>
+      <link>https://c2pa.org/about/resources/</link>
       <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
       
-      <guid>https://c2pa-org.github.io/about/resources/</guid>
+      <guid>https://c2pa.org/about/resources/</guid>
       <description>A collection of resources for additional reading about the C2PA including whitepapers and videos from the CAI and Project Origin.</description>
     </item>
     

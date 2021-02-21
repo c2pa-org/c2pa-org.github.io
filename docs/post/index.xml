@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on C2PA</title>
-    <link>https://c2pa-org.github.io/post/</link>
+    <link>https://c2pa.org/post/</link>
     <description>Recent content in News on C2PA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Feb 2021 19:11:21 +0000</lastBuildDate><atom:link href="https://c2pa-org.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 19:11:21 +0000</lastBuildDate><atom:link href="https://c2pa.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C2PA Founding Press Release</title>
-      <link>https://c2pa-org.github.io/post/c2pa_initial_pr/</link>
+      <link>https://c2pa.org/post/c2pa_initial_pr/</link>
       <pubDate>Fri, 19 Feb 2021 20:59:12 +0000</pubDate>
       
-      <guid>https://c2pa-org.github.io/post/c2pa_initial_pr/</guid>
+      <guid>https://c2pa.org/post/c2pa_initial_pr/</guid>
       <description>&lt;strong&gt;SAN JOSE, Calif., and REDMOND, Wash. &amp;mdash; Feb. 22, 2021 &amp;mdash;&lt;/strong&gt; A group of influential technology and media companies has partnered to form the Coalition for Content Provenance and Authenticity (C2PA), a Joint Development Foundation project established to address the prevalence of disinformation, misinformation and online content fraud through developing technical standards for certifying the source and history or provenance of media content.</description>
     </item>
     

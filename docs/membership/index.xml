@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Membership on C2PA</title>
-    <link>https://c2pa-org.github.io/membership/</link>
+    <link>https://c2pa.org/membership/</link>
     <description>Recent content in Membership on C2PA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Feb 2021 15:32:00 +0000</lastBuildDate><atom:link href="https://c2pa-org.github.io/membership/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 15:32:00 +0000</lastBuildDate><atom:link href="https://c2pa.org/membership/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Our Members</title>
-      <link>https://c2pa-org.github.io/membership/members/</link>
+      <link>https://c2pa.org/membership/members/</link>
       <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
       
-      <guid>https://c2pa-org.github.io/membership/members/</guid>
+      <guid>https://c2pa.org/membership/members/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.adobe.com/&#34;&gt;Adobe&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.arm.com/&#34;&gt;Arm&lt;/a&gt;&lt;/li&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Join C2PA</title>
-      <link>https://c2pa-org.github.io/membership/join/</link>
+      <link>https://c2pa.org/membership/join/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://c2pa-org.github.io/membership/join/</guid>
+      <guid>https://c2pa.org/membership/join/</guid>
       <description>Are you interested in joining C2PA in its effort to develop open standards to certify the source and provenance of online content? Reach out to us at &lt;a href=&#34;mailto:membership@c2pa.org&#34;&gt;membership@c2pa.org&lt;/a&gt; to apply.</description>
     </item>
     
