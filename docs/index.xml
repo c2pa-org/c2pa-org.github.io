@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C2PA</title>
-    <link>https://c2pa-org.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on C2PA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Feb 2021 20:59:12 +0000</lastBuildDate><atom:link href="https://c2pa-org.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 20:59:12 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C2PA Founding Press Release</title>
-      <link>https://c2pa-org.github.io/post/c2pa_initial_pr/</link>
+      <link>http://localhost:1313/post/c2pa_initial_pr/</link>
       <pubDate>Fri, 19 Feb 2021 20:59:12 +0000</pubDate>
       
-      <guid>https://c2pa-org.github.io/post/c2pa_initial_pr/</guid>
+      <guid>http://localhost:1313/post/c2pa_initial_pr/</guid>
       <description>Technology and media entities join forces to create standards group aimed at building trust in online content Adobe, Arm, BBC, Intel, Microsoft and Truepic form coalition to develop end-to-end, open standard for tracing the origin and evolution of digital content
 SAN JOSE, Calif., and REDMOND, Wash. &amp;mdash; Feb. 22, 2021 &amp;mdash; A group of influential technology and media companies has partnered to form the Coalition for Content Provenance and Authenticity (C2PA), a Joint Development Foundation project established to address the prevalence of disinformation, misinformation and online content fraud through developing technical standards for certifying the source and history or provenance of media content.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://c2pa-org.github.io/about/about/</link>
+      <link>http://localhost:1313/about/about/</link>
       <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
       
-      <guid>https://c2pa-org.github.io/about/about/</guid>
+      <guid>http://localhost:1313/about/about/</guid>
       <description>The Coalition for Content Provenance and Authenticity (C2PA) is a Joint Development Foundation project that brings together the efforts of the Content Authenticity Initiative (CAI) and Project Origin.
 Founded in late 2019 by Adobe in collaboration with the New York Times and Twitter, the CAI is building a system to provide to provide provenance and history for digital media, providing a tool for creators to claim authorship while empowering consumers to make informed decisions about what to trust.</description>
     </item>
     
     <item>
       <title>Charter</title>
-      <link>https://c2pa-org.github.io/about/charter/</link>
+      <link>http://localhost:1313/about/charter/</link>
       <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
       
-      <guid>https://c2pa-org.github.io/about/charter/</guid>
+      <guid>http://localhost:1313/about/charter/</guid>
       <description>Coalition for Content Provenance and Authenticity (C2PA) Charter With the digital transformation of information sharing, the ability to trace the provenance of media has become critical. To address this issue at scale for publishers, creators and consumers, the Consortium will develop technical specifications for establishing content provenance and authenticity. The specifications will be informed by scenarios, workflows and requirements gathered from industry experts and partner organizations, including the Project Origin Alliance and the Content Authenticity Initiative (CAI.</description>
     </item>
     
     <item>
       <title>Our Members</title>
-      <link>https://c2pa-org.github.io/membership/members/</link>
+      <link>http://localhost:1313/membership/members/</link>
       <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
       
-      <guid>https://c2pa-org.github.io/membership/members/</guid>
+      <guid>http://localhost:1313/membership/members/</guid>
       <description>Adobe
 Arm
 BBC
@@ -52,10 +52,10 @@ Truepic</description>
     
     <item>
       <title>Resources</title>
-      <link>https://c2pa-org.github.io/about/resources/</link>
+      <link>http://localhost:1313/about/resources/</link>
       <pubDate>Fri, 19 Feb 2021 15:32:00 +0000</pubDate>
       
-      <guid>https://c2pa-org.github.io/about/resources/</guid>
+      <guid>http://localhost:1313/about/resources/</guid>
       <description>Content Authenticity Initiative (CAI)   Overview: Content Authenticity Initiative (CAI)
   Case Study: Content Authenticity Initiative
   WhitePaper
@@ -70,10 +70,10 @@ Truepic</description>
     
     <item>
       <title>Join C2PA</title>
-      <link>https://c2pa-org.github.io/membership/join/</link>
+      <link>http://localhost:1313/membership/join/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://c2pa-org.github.io/membership/join/</guid>
+      <guid>http://localhost:1313/membership/join/</guid>
       <description>Are you interested in joining C2PA in its effort to develop open standards to certify the source and provenance of online content? Reach out to us at membership@c2pa.org to apply.</description>
     </item>
     

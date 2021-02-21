@@ -16,3 +16,5 @@ date: 2021-02-19T15:32:00.711Z
 [Microsoft](https://www.microsoft.com/en-us/)
 
 [Truepic](https://truepic.com/)
+
+![Company Logos](/images/C2PA-Member-Logos-Line.png)
