@@ -25,3 +25,4 @@ The C2PA binds the efforts of these two groups and focuses exclusively on the de
 - Ensuring content remains accessible even with digital provenance techniques applied
 
 
+![CAI and Origin Logos](/images/CAI-Origin-logos.png)
