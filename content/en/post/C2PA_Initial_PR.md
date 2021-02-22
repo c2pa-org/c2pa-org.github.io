@@ -63,3 +63,6 @@ Microsoft Media Relations, WE Communications for Microsoft, (425) 638-7777, <rrt
 Fenot Tekle, Adobe, <tekle@adobe.com>, or Joe Berg, Adobe, <joe.berg@fgh.com>
 
 *Note to editors:* For more information, news and perspectives from Microsoft, please visit the Microsoft News Center at [http://news.microsoft.com](http://news.microsoft.com/). Web links, telephone numbers and titles were correct at time of publication, but may have changed. For additional assistance, journalists and analysts may contact Microsoft's Rapid Response Team or other appropriate contacts listed at [https://news.microsoft.com/microsoft-public-relations-contacts](https://news.microsoft.com/microsoft-public-relations-contacts/).
+
+
+[Download a PDF version](https://c2pa.org/files/C2PA_Press_Release_Final.pdf)
