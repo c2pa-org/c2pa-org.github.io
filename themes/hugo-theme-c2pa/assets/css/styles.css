@@ -6,3 +6,24 @@
 @import "assets/css/site";
 /* Tailwind's utility classes - generated based on config file */
 @import "node_modules/tailwindcss/utilities";
+
+a.button {
+  @apply inline-flex bg-gray-700 text-white font-bold px-4 py-2 rounded-md items-center justify-between;
+}
+a.button .icon {
+  @apply ml-4;
+}
+a.button svg {
+  @apply text-white fill-current;
+}
+
+h1.page-title {
+  @apply text-3xl py-6 text-gray-700;
+}
+p {
+  @apply text-base leading-relaxed;
+}
+
+.hero-shadow {
+  box-shadow: 0 5px 20px 0 rgba(85, 106, 150, 0.18);
+}

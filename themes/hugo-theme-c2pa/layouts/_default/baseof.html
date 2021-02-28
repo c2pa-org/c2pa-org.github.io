@@ -1,13 +1,32 @@
+{{ $hasHero := eq .Kind "home" }}
 <!DOCTYPE html>
-<html lang='{{ .Site.LanguageCode }}'>
-    {{ partial "head.html" . }}
-    <body class="flex flex-col min-h-screen">
-        {{- partial "dev-size-indicator.html" . -}}
+<html lang="{{ .Site.LanguageCode }}">
+  {{ partial "head.html" . }}
+  <body class="flex flex-col min-h-screen text-base">
+    {{- partial "dev-size-indicator.html" . -}}
+    <section class="relative overflow-hidden">
+      <div
+        class="absolute top-0 left-0 right-0 bg-gradient-to-b from-white to-gray-300"
+        style="height: 560px; z-index: -1;"
+      ></div>
+      <div class="container mx-auto xl:px-12 z-10">
         {{- partial "header.html" . -}}
-        <main class="flex-1 mx-4 md:mx-12 lg:mx-24 mt-4 sm:mt-16">
-        {{- block "main" . }}{{- end }}
-        </main>
-        {{- partial "dev-parameters.html" . -}}
-        {{- partial "footer.html" . -}}
-    </body>
+        {{- if $hasHero }}
+          {{- partial "hero.html" . -}}
+          {{ else }}
+          <h1 class="page-title">{{ .Title }}</h1>
+        {{- end }}
+      </div>
+      {{- if $hasHero }}
+        <div
+          class="absolute bottom-0 left-0 right-0 bg-white"
+          style="height: 45px; z-index: -1;"
+        ></div>
+      {{- end }}
+    </section>
+    <main class="container mx-auto xl:px-12">
+      {{- block "main" . }}{{- end }}
+    </main>
+    {{- partial "footer.html" . -}}
+  </body>
 </html>
