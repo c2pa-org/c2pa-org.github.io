@@ -1,0 +1,17 @@
+{{ $heroImage := resources.Get "images/hero-illustration.png" }}
+{{ $caretIcon := "themes/hugo-theme-c2pa/assets/images/caret.svg" | readFile | safeHTML }}
+<div class="grid grid-cols-12 justify-between my-10 items-center">
+  <div class="col-span-5">
+    <h2 class="text-2xl">{{ .Description }}</h2>
+    <a href="" class="button mt-5"
+      ><span>Learn more</span><span class="icon">{{ $caretIcon }}</span></a
+    >
+  </div>
+  <div class="col-end-13 col-span-6 flex">
+    <img src="{{ $heroImage.Permalink }}" alt="" />
+  </div>
+</div>
+<div
+  class="rounded-sm mb-5 hero-shadow"
+  style="background-color: #b9bec9; height: 85px;"
+></div>
