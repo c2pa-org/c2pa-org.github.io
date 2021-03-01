@@ -1,5 +1,6 @@
 {{ $logo := resources.Get "images/logo.svg" }}
 {{ $textLogo := resources.Get "images/text-logo.svg" }}
+{{ $githubLogo := "themes/hugo-theme-c2pa/assets/images/github-logo.svg" | readFile | safeHTML }}
 <header class="w-full" style="height: 100px;">
   {{/*  CSS functionality for menu toggle  */}}
   <style type="text/css">
@@ -67,22 +68,27 @@
 
     <ul
       id="nav-menu"
-      class="md:flex w-full sm:w-auto hidden md:block mt-2 sm:mt-0 md:space-x-8 lg:space-x-12 xl:space-x-16 font-bold text-base"
+      class="md:flex items-center w-full sm:w-auto hidden md:block mt-2 sm:mt-0 md:space-x-6 lg:space-x-12 xl:space-x-16 font-bold text-base"
     >
-      {{ with .Site.GetPage "/about" }}
+      {{ range $path := $.Site.Params.headerLinks }}
+        {{ with $.Site.GetPage $path }}
         <li>
-          <a href="{{ .Permalink }}" class="text-gray-600 hover:text-blue-600"
+          <a
+            href="{{ .Permalink }}"
+            class="text-gray-600 hover:text-blue-600"
             >{{ .Title }}</a
           >
         </li>
+        {{ end }}
       {{ end }}
-      {{ range .Site.Sections }}
-        <li>
-          <a href="{{ .Permalink }}" class="text-gray-600 hover:text-blue-600"
-            >{{ .Title }}</a
-          >
-        </li>
-      {{ end }}
+      <li>
+        <a
+          href="{{ $.Site.Params.github }}"
+          target="_blank"
+          class="text-gray-600 hover:text-blue-600"
+          >{{ $githubLogo }}</a
+        >
+      </li>
     </ul>
   </nav>
 </header>

@@ -7,8 +7,11 @@
 /* Tailwind's utility classes - generated based on config file */
 @import "node_modules/tailwindcss/utilities";
 
+a {
+  @apply text-blue-600 underline;
+}
 a.button {
-  @apply inline-flex bg-gray-700 text-white font-bold px-4 py-2 rounded-md items-center justify-between;
+  @apply inline-flex bg-gray-700 text-white no-underline font-bold px-4 py-2 rounded-md items-center justify-between;
 }
 a.button .icon {
   @apply ml-4;
@@ -21,7 +24,7 @@ h1.page-title {
   @apply text-3xl py-6 text-gray-700;
 }
 p {
-  @apply text-base leading-relaxed;
+  @apply text-base leading-relaxed mb-6;
 }
 
 .hero-members {
