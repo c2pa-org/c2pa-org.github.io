@@ -24,6 +24,11 @@ p {
   @apply text-base leading-relaxed;
 }
 
-.hero-shadow {
+.hero-members {
+  @apply rounded-sm mb-5 flex items-center justify-center;
+  background-color: #b9bec9;
+  height: 85px;
   box-shadow: 0 5px 20px 0 rgba(85, 106, 150, 0.18);
+}
+.hero-members img {
 }
