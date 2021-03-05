@@ -78,6 +78,12 @@
   </url>
   
   <url>
+    <loc>https://c2pa.org/principles/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://c2pa.org/membership/join/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
