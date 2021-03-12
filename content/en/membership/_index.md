@@ -1,7 +1,7 @@
 ---
 title: Get Involved
 omit_header_text: true
-description: "Are you interested in joining C2PA in its effort to develop open standards to certify the source and provenance of online content?."
+description: "Are you interested in joining C2PA to develop open standards that certify the source and provenance of online content?"
 summary: ""
 ---
 # Members
@@ -10,6 +10,6 @@ summary: ""
 
 ![Company Logos](/images/C2PA-Member-Logos-Line.png)
 
-# Apply Here ..
+# Apply Here
 
 {{< join >}}
