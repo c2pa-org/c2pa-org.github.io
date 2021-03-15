@@ -1,8 +1,6 @@
 ---
 title: "Contact Us"
 omit_header_text: true
-description: "We'd love to hear from you"
-summary: ""
 ---
 
 # Contact Form
