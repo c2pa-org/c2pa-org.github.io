@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Membership on C2PA</title>
-    <link>https://c2pa.org/membership/</link>
+    <link>http://localhost:1313/membership/</link>
     <description>Recent content in Membership on C2PA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://c2pa.org/membership/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/membership/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
