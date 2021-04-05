@@ -1,0 +1,13 @@
+{{ $urlpath := "/images/sponsor-logos/" }}
+
+<div class="bg-white">
+<div class="flex flex-wrap">
+{{ range (readDir "./static/images/sponsor-logos") }}
+        <div class="flex items-center mw6 mw7-ns ml3 pa1 h4 center">
+                <img src="{{$urlpath}}{{ .Name }}" class="">
+        </div>
+{{ end }}
+</div>
+</div>
+
+
