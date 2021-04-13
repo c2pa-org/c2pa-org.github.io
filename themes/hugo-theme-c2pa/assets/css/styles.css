@@ -8,7 +8,7 @@
 @import "node_modules/tailwindcss/utilities";
 
 a {
-  @apply text-blue-600 underline;
+  @apply text-blue-600;
 }
 a.button {
   @apply inline-flex bg-gray-700 text-white no-underline font-bold px-4 py-2 rounded-md items-center justify-between;
@@ -23,8 +23,28 @@ a.button svg {
 h1.page-title {
   @apply text-3xl py-6 text-gray-700;
 }
+h1 {
+  @apply text-2xl py-4;
+}
+h2 {
+  @apply text-xl py-2 font-bold;
+}
+h3 {
+  @apply text-lg py-2;
+}
 p {
   @apply text-base leading-relaxed mb-6;
+}
+
+ul {
+  @apply list-disc list-inside;
+}
+
+main {
+  @apply pt-6;
+}
+.with-hero main {
+  @apply pt-0;
 }
 
 .hero-members {
