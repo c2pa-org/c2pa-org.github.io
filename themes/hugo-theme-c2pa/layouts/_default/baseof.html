@@ -2,7 +2,9 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
   {{ partial "head.html" . }}
-  <body class="relative pb-32 flex flex-col min-h-screen text-base">
+  <body
+    class="{{- if $hasHero }}with-hero{{- end }} relative pb-32 flex flex-col min-h-screen text-base"
+  >
     {{- partial "dev-size-indicator.html" . -}}
     <section class="relative overflow-hidden">
       <div
