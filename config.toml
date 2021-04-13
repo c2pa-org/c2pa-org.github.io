@@ -28,7 +28,7 @@ priority = 0.5
 description = "Coalition for Content Provenance and Authenticity"
 favicon = "favicon.ico"
 github = "https://github.com/c2pa-org"
-headerLinks = ["/about", "/faq", "/membership", "/post"]
+headerLinks = ["/about", "/faq", "/principles", "/membership", "/post", "/contact"]
 
 [build]
 writeStats = true

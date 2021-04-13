@@ -37,10 +37,10 @@
     <label
       id="show-button"
       for="nav-toggle"
-      class="flex items-center block md:hidden text-gray-500 hover:text-blue-500"
+      class="flex items-center block lg:hidden text-gray-500 hover:text-blue-500"
     >
       <svg
-        class="fill-current h-4 w-4"
+        class="fill-current h-5 w-5"
         viewBox="0 0 20 20"
         xmlns="http://www.w3.org/2000/svg"
       >
@@ -48,47 +48,51 @@
         <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z" />
       </svg>
     </label>
-    <label
-      id="hide-button"
-      for="nav-toggle"
-      class="flex items-center hidden text-gray-700 hover:text-blue-500"
-    >
-      <svg
-        class="fill-current h-4 w-4"
-        viewBox="0 0 20 20"
-        xmlns="http://www.w3.org/2000/svg"
-      >
-        <title>Menu Close</title>
-        <polygon
-          points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
-          transform="rotate(45 10 10)"
-        />
-      </svg>
-    </label>
 
-    <ul
+    <div
       id="nav-menu"
-      class="md:flex items-center w-full sm:w-auto hidden md:block mt-2 sm:mt-0 md:space-x-6 lg:space-x-12 xl:space-x-16 font-bold text-base"
+      class="hidden fixed inset-y-0 right-0 w-72 p-8 pt-6 bg-white z-20 shadow-lg lg:inset-auto lg:shadow-none lg:p-0 lg:relative lg:bg-transparent lg:flex lg:w-auto"
     >
-      {{ range $path := $.Site.Params.headerLinks }}
-        {{ with $.Site.GetPage $path }}
+      <label
+        id="hide-button"
+        for="nav-toggle"
+        class="lg:hidden absolute top-6 right-6 flex items-center text-gray-700 hover:text-blue-500"
+      >
+        <svg
+          class="fill-current h-4 w-4"
+          viewBox="0 0 20 20"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <title>Menu Close</title>
+          <polygon
+            points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
+            transform="rotate(45 10 10)"
+          />
+        </svg>
+      </label>
+      <ul
+        class="space-y-2 lg:flex lg:items-center lg:space-y-0 lg:space-x-8 xl:space-x-16 font-bold text-base"
+      >
+        {{ range $path := $.Site.Params.headerLinks }}
+          {{ with $.Site.GetPage $path }}
+            <li>
+              <a
+                href="{{ .Permalink }}"
+                class="text-gray-600 hover:text-blue-600 no-underline"
+                >{{ .Title }}</a
+              >
+            </li>
+          {{ end }}
+        {{ end }}
         <li>
           <a
-            href="{{ .Permalink }}"
-            class="text-gray-600 hover:text-blue-600"
-            >{{ .Title }}</a
+            href="{{ $.Site.Params.github }}"
+            target="_blank"
+            class="text-gray-600 hover:text-blue-600 no-underline"
+            >{{ $githubLogo }}</a
           >
         </li>
-        {{ end }}
-      {{ end }}
-      <li>
-        <a
-          href="{{ $.Site.Params.github }}"
-          target="_blank"
-          class="text-gray-600 hover:text-blue-600"
-          >{{ $githubLogo }}</a
-        >
-      </li>
-    </ul>
+      </ul>
+    </div>
   </nav>
 </header>
