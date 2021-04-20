@@ -4,7 +4,9 @@
   <div
     class="col-span-12 sm:col-span-5 order-2 sm:order-1 text-center sm:text-left"
   >
-    <h2 class="text-xl md:text-2xl">{{ .Description }}</h2>
+    <h2 class="text-xl font-medium text-gray-800 md:text-2xl">
+      {{ .Description }}
+    </h2>
     <a
       href="{{ with .Site.GetPage "/about" }}{{ .Permalink }}{{ end }}"
       class="button mt-5"

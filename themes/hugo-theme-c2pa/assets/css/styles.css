@@ -8,7 +8,7 @@
 @import "node_modules/tailwindcss/utilities";
 
 a {
-  @apply text-blue-600;
+  @apply text-indigo-600 underline;
 }
 a.button {
   @apply inline-flex bg-gray-700 text-white no-underline font-bold px-4 py-2 rounded-md items-center justify-between;
@@ -37,7 +37,17 @@ p {
 }
 
 ul {
-  @apply list-disc list-inside;
+  @apply list-disc ml-5 mb-5;
+}
+ul p {
+  @apply mb-2;
+}
+ul ul {
+  list-style: circle;
+}
+ul ul ul {
+  @apply mb-0;
+  list-style: square;
 }
 
 main {
