@@ -1,3 +1,4 @@
+{{ $currentPage := . }}
 {{ $logo := resources.Get "images/logo.svg" }}
 {{ $textLogo := resources.Get "images/text-logo.svg" }}
 {{ $githubLogo := "themes/hugo-theme-c2pa/assets/images/github-logo.svg" | readFile | safeHTML }}
@@ -20,16 +21,15 @@
   <nav class="flex h-full items-center justify-between flex-wrap xl:px-0">
     <div class="flex h-full items-center">
       <div>
-        <a
-          href="{{ .Site.Home.Permalink }}"
-          class="flex items-center text-gray-700 font-bold"
-        >
-          <img src="{{ $logo.Permalink }}" alt="{{ .Site.Title }}" />
+        <a href="{{ .Site.Home.RelPermalink }}">
+          <img src="{{ $logo.RelPermalink }}" alt="{{ .Site.Title }}" />
         </a>
       </div>
       <div class="bg-gray-300 mx-5 h-full" style="width: 1px;"></div>
       <div>
-        <img src="{{ $textLogo.Permalink }}" alt="{{ .Site.Title }}" />
+        <a href="{{ .Site.Home.RelPermalink }}">
+          <img src="{{ $textLogo.RelPermalink }}" alt="{{ .Site.Title }}" />
+        </a>
       </div>
     </div>
 
@@ -73,25 +73,26 @@
       <ul
         class="list-none space-y-2 lg:flex lg:items-center lg:space-y-0 lg:space-x-8 xl:space-x-16 font-bold text-base"
       >
-        {{ range $path := $.Site.Params.headerLinks }}
-          {{ with $.Site.GetPage $path }}
+        {{ range .Site.Menus.main }}
+          {{ if eq .Identifier "_github" }}
             <li>
               <a
-                href="{{ .Permalink }}"
+                href="{{ $.Site.Params.github }}"
+                target="_blank"
                 class="text-gray-600 hover:text-blue-600 no-underline"
+                >{{ $githubLogo }}</a
+              >
+            </li>
+            {{ else }}
+            <li>
+              <a
+                href="{{ .URL }}"
+                class="{{ if $currentPage.HasMenuCurrent "main" . }}text-gray-900 border-b border-gray-300 pb-1 cursor-default{{ else }}text-gray-600 hover:text-blue-600{{ end}} no-underline"
                 >{{ .Title }}</a
               >
             </li>
           {{ end }}
         {{ end }}
-        <li>
-          <a
-            href="{{ $.Site.Params.github }}"
-            target="_blank"
-            class="text-gray-600 hover:text-blue-600 no-underline"
-            >{{ $githubLogo }}</a
-          >
-        </li>
       </ul>
     </div>
   </nav>

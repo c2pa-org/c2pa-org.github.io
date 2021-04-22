@@ -69,7 +69,7 @@ During the build process Hugo Pipes checks this variable too and build the `styl
 }}
 <link
   rel="stylesheet"
-  href="{{ $styles.Permalink }}"
+  href="{{ $styles.RelPermalink }}"
   integrity="{{ $styles.Data.Integrity }}"
 />
 {{ end }}

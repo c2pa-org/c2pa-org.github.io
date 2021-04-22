@@ -4,10 +4,10 @@ resourceDir = "../resources"
 theme = "hugo-theme-c2pa"
 title = "Coalition for Content Provenance and Authenticity"
 
-DefaultContentLanguage = "en" 
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-SectionPagesMenu = "main" 
-enableRobotsTXT = true 
+defaultContentLanguage = "en" 
+paginate = 10
+sectionPagesMenu = "main" 
+enableRobotsTXT = false
 googleAnalytics = "" 
 
 # don't pluralize About->Abouts
@@ -28,7 +28,42 @@ priority = 0.5
 description = "Coalition for Content Provenance and Authenticity"
 favicon = "favicon.ico"
 github = "https://github.com/c2pa-org"
-headerLinks = ["/about", "/faq", "/principles", "/membership", "/post", "/contact"]
+
+[menu]
+[[menu.main]]
+identifier = "about"
+title = "About"
+url = "/about/"
+weight = 5
+[[menu.main]]
+identifier = "faq"
+title = "FAQ"
+url = "/faq/"
+weight = 10
+[[menu.main]]
+identifier = "principles"
+title = "Guiding Principles"
+url = "/principles/"
+weight = 20
+[[menu.main]]
+identifier = "membership"
+title = "Membership"
+url = "/membership/"
+weight = 30
+[[menu.main]]
+identifier = "post"
+title = "News"
+url = "/post/"
+weight = 40
+[[menu.main]]
+identifier = "contact"
+title = "Contact"
+url = "/contact/"
+weight = 50
+[[menu.main]]
+identifier = "_github"
+title = "GitHub"
+weight = 60
 
 [build]
 writeStats = true

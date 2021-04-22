@@ -8,7 +8,7 @@
       {{ .Description }}
     </h2>
     <a
-      href="{{ with .Site.GetPage "/about" }}{{ .Permalink }}{{ end }}"
+      href="{{ with .Site.GetPage "/about" }}{{ .RelPermalink }}{{ end }}"
       class="button mt-5"
       ><span>Learn more</span><span class="icon">{{ $caretIcon }}</span></a
     >
@@ -16,7 +16,7 @@
   <div
     class="col-span-12 sm:col-end-13 sm:col-span-6 flex order-1 sm:order-2 px-8 sm:px-0"
   >
-    <img src="{{ $heroImage.Permalink }}" alt="" />
+    <img src="{{ $heroImage.RelPermalink }}" alt="" />
   </div>
 </div>
 <div class="hero-members lg:px-10 xl:px-14">

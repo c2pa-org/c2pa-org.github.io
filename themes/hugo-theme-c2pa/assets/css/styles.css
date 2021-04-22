@@ -8,7 +8,7 @@
 @import "node_modules/tailwindcss/utilities";
 
 a {
-  @apply text-indigo-600 underline;
+  @apply text-blue-700 underline;
 }
 a.button {
   @apply inline-flex bg-gray-700 text-white no-underline font-bold px-4 py-2 rounded-md items-center justify-between;
@@ -27,10 +27,15 @@ h1 {
   @apply text-2xl py-4;
 }
 h2 {
-  @apply text-xl py-2 font-bold;
+  @apply text-xl pt-0 pb-4 font-bold;
 }
 h3 {
-  @apply text-lg py-2;
+  @apply text-lg pt-0 pb-2;
+}
+h1 a,
+h2 a,
+h3 a {
+  @apply no-underline;
 }
 p {
   @apply text-base leading-relaxed mb-6;
