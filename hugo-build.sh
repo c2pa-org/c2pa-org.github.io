@@ -6,7 +6,7 @@
 set -eu
 
 # define the docker container and its version
-HUGO_VERS=0.80.0
+HUGO_VERS=0.82.0-ext-alpine
 DOCKER_IMG=klakegg/hugo
 OUTPUT_DIR=docs
 

@@ -8,10 +8,26 @@ It was bootstrapped with the [Hugo + Tailwind CSS starter theme](https://github.
 
 Make sure to install `postcss-cli` and `autoprefixer` globally in your environment, as Hugo Pipe’s PostCSS requires it. This is mentioned in the [Hugo Docs](https://gohugo.io/hugo-pipes/postcss/).
 
+**Note:** Please use Node v12 for this, via [nvm](https://github.com/nvm-sh/nvm) or otherwise.
+
 ```bash
 npm install -g postcss-cli
 npm install -g autoprefixer
 ```
+
+Then, install the dependencies for the theme:
+
+```bash
+npm install
+```
+
+You can run hugo for development by running the following (if you have the `hugo` CLI installed locally):
+
+```bash
+hugo server --disableFastRender
+```
+
+You should now be able to make changes to the theme files and see the site autoreload in your browser.
 
 Make sure to use a minimum Hugo version of v0.69.0 and above.
 
@@ -21,6 +37,8 @@ Set the `writeStats` option in your Hugo `config` file, so that purging of CSS c
 [build]
   writeStats = true
 ```
+
+##
 
 ### Environment variables
 
