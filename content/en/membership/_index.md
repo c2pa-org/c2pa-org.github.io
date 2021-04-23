@@ -7,7 +7,7 @@ Are you interested in joining C2PA to develop open standards that certify the so
 
 # Steering Committee
 
-{{< memberlogos type="steering" class="grid-cols-2 md:grid-cols-3 lg:grid-cols-4 2xl:grid-cols-5" >}}
+{{< memberlogos type="steering" class="grid-cols-2 md:grid-cols-3 lg:grid-cols-4 2xl:grid-cols-6" >}}
 
 # General Members
 

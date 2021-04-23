@@ -37,7 +37,7 @@
       "ul"
     ],
     "classes": [
-      "2xl:grid-cols-5",
+      "2xl:grid-cols-6",
       "2xl:grid-cols-8",
       "absolute",
       "auto-cols-fr",
