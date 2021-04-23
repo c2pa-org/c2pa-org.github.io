@@ -26,6 +26,8 @@ With these items installed and running, you are ready to build the site:
 
 ## Editing the site
 
+## Content updates
+
 Most changes to the site will be content-related. All content is in the `/content/en` directory and is captured in markdown. You do not need to edit html files to add or edit copy on the website.
 
 For example, to make a change to the about page (c2pa.org/about/about), edit the `about.md` file under `/content/en/about/`. To edit the "about summary", which can be seen at c2pa.org/about under the 'About' heading, you will edit the `summary:` key in the frontmatter of the `about.md` file under `/content/en/about/`. All content sections follow this pattern.
@@ -34,7 +36,28 @@ You can create a new content page by creating a new markdown file in the appropr
 
 Changes to content on the homepage, c2pa.org, are made by editing the `/content/en/_index.md` file. You should not need to edit the files in the `/docs` folder.
 
+### Membership/logo updates
+
+To add/remove members, you'll have to do two things:
+
+1. Put a square SVG of their logo in `static/images/logos/<tier>`. This should optimally be sized in relation to the other
+   logos (reference the others for padding, etc.) so that it appears consistent.
+2. Update the `[params.members]` table in [`config.toml`](config.toml) by adding a map with the `name`, path (`img`), and
+   URL (`href`) of the new member.
+
+Adding a steering committee member to the homepage hero section is a bit more involved due to sizing and adjusting responsive layouts. Please open up an issue if you wish to update this section of the site.
+
+### Menu updates
+
+You can add/edit global nav options in the `[menu]` table in [`config.toml`](config.toml). This configuration is based
+on [Hugo's menu system][hugo_menu].
+
+### Updating the theme
+
+To update the theme, please view the instructions in the [custom theme README][c2pa_theme].
+
 [hugo]: https://gohugo.io/
+[hugo_menu]: https://gohugo.io/content-management/menus/
 [c2pa_theme]: themes/hugo-theme-c2pa
 [docker]: https://www.docker.com/
 [clone]: https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository

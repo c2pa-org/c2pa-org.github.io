@@ -38,8 +38,6 @@ Set the `writeStats` option in your Hugo `config` file, so that purging of CSS c
   writeStats = true
 ```
 
-##
-
 ### Environment variables
 
 To make the distinction between `development` and `production` environments work, add an environment variable `HUGO_ENV = "production"` to your site settings under `Settings` → `Build & deploy` → `Environment`.
