@@ -1,0 +1,11 @@
+{{ $baseDir := "images/logos" }}
+{{ $category := (.Get "type") }}
+{{ $class := (.Get "class" )}}
+{{ $logos := (index $.Site.Params.members $category) }}
+<div class="grid auto-cols-fr auto-rows-auto items-center {{ $class }} ">
+  {{ range sort $logos "name" "asc" }}
+    <a href="{{ .href }}" target="_blank" class="rounded transition transform hover:scale-105 cursor-pointer">
+      <img src="/{{ $baseDir }}/{{ .img }}" alt="{{ .name }}" class="max-w-full h-auto" />
+    </a>
+  {{ end }}
+</div>

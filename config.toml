@@ -28,6 +28,21 @@ priority = 0.5
 description = "Coalition for Content Provenance and Authenticity"
 favicon = "favicon.ico"
 github = "https://github.com/c2pa-org"
+[params.members]
+steering = [
+    { name="Adobe", img = "steering/adobe.svg", href="https://www.adobe.com/" },
+    { name="Arm", img = "steering/arm.svg", href="https://www.arm.com/" },
+    { name="BBC", img = "steering/bbc.svg", href="https://www.bbc.com/" },
+    { name="Intel", img = "steering/intel.svg", href="https://www.intel.com/" },
+    { name="Microsoft", img = "steering/microsoft.svg", href="https://www.microsoft.com/" },
+    { name="Truepic", img = "steering/truepic.svg", href="https://truepic.com/" },
+]
+general = [
+    { name = "WITNESS", img = "general/witness.svg", href="https://www.witness.org/"}
+]
+contributor = [
+    { name = "Digimarc", img = "contributor/digimarc.svg", href="hhttps://www.digimarc.com/"}
+]
 
 [menu]
 [[menu.main]]

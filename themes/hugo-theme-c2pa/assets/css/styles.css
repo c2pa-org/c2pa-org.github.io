@@ -11,7 +11,7 @@ a {
   @apply text-blue-700 underline;
 }
 a.button {
-  @apply inline-flex bg-gray-700 text-white no-underline font-bold px-4 py-2 rounded-md items-center justify-between;
+  @apply inline-flex bg-gray-700 hover:bg-gray-800 transition-colors text-white no-underline font-bold px-4 py-2 rounded-md items-center justify-between;
 }
 a.button .icon {
   @apply ml-4;

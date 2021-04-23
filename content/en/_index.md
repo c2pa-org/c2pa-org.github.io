@@ -2,22 +2,22 @@
 title: "Overview"
 description: "An open technical standard providing publishers, creators, and consumers the ability to trace the origin of different types of media."
 members:
-  - image: /images/logos/adobe.png
+  - image: /images/logos/hero/adobe.png
     alt: Adobe
     height: 32
-  - image: /images/logos/arm.png
+  - image: /images/logos/hero/arm.png
     alt: Arm
     height: 24
-  - image: /images/logos/bbc.png
+  - image: /images/logos/hero/bbc.png
     alt: BBC
     height: 34
-  - image: /images/logos/intel.png
+  - image: /images/logos/hero/intel.png
     alt: Intel
     height: 30
-  - image: /images/logos/microsoft.png
+  - image: /images/logos/hero/microsoft.png
     alt: Microsoft
     height: 33
-  - image: /images/logos/truepic.png
+  - image: /images/logos/hero/truepic.png
     alt: Truepic
     height: 44
 ---

@@ -6,5 +6,6 @@ min_version = "0.69"
 name = "hugo-theme-c2pa"
 
 [author]
-homepage = "https://github.com/dkozma"
 name = "Dave Kozma"
+email = "dkozma@adobe.com"
+homepage = "https://github.com/dkozma"

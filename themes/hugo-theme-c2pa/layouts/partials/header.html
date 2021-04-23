@@ -87,7 +87,7 @@
             <li>
               <a
                 href="{{ .URL }}"
-                class="{{ if $currentPage.HasMenuCurrent "main" . }}text-gray-900 border-b border-gray-300 pb-1 cursor-default{{ else }}text-gray-600 hover:text-blue-600{{ end}} no-underline"
+                class="{{ if $currentPage.HasMenuCurrent "main" . }}text-gray-900 border-b border-gray-300 pb-1 cursor-default{{ else }}text-gray-600 hover:text-blue-600 cursor-pointer{{ end}} no-underline"
                 >{{ .Title }}</a
               >
             </li>
