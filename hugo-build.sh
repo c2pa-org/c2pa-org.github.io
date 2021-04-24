@@ -31,4 +31,4 @@ fi
 docker run --rm -it -v "${curPath}/${OUTPUT_DIR}":/src/${OUTPUT_DIR} -e "HUGO_DESTINATION=/src/${OUTPUT_DIR}" "${DOCKER_IMG}"
 
 # make sure we add the CNAME file for Github pages
-cp etc/CNAME ${OUTPUT_DIR}
+\cp -fv etc/CNAME docs
