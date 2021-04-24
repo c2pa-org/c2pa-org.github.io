@@ -1,46 +1,84 @@
-title = "Coalition for Content Provenance and Authenticity"
 baseURL = "https://c2pa.org/"
 languageCode = "en-us"
-theme = "gohugo-theme-ananke"
 resourceDir = "../resources"
+theme = "hugo-theme-c2pa"
+title = "Coalition for Content Provenance and Authenticity"
 
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
-enableRobotsTXT = true
+defaultContentLanguage = "en" 
+paginate = 10
+sectionPagesMenu = "main" 
+enableRobotsTXT = false
+googleAnalytics = "" 
 
 # don't pluralize About->Abouts
 pluralizelisttitles = false
 
 [languages]
-  [languages.en]
-    title = "C2PA"
-    weight = 1
-    contentDir = "content/en"
+[languages.en]
+contentDir = "content/en"
+title = "C2PA"
+weight = 1
 
 [sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
 
 [params]
-  favicon = "favicon.ico"
-  site_logo = "/images/c2pa-logo.png"
-  description = "Coalition for Content Provenance and Authenticity"
-  facebook = ""
-  twitter = ""
-  instagram = ""
-  youtube = ""
-  github = "https://github.com/c2pa-org"
-  gitlab = ""
-  linkedin = ""
-  mastodon = ""
-  slack = ""
-  stackoverflow = ""
-  rss = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black-40"
-  cover_dimming_class = "bg-black-40"
-  featured_image = ""
-  recent_posts_number = 0
+description = "Coalition for Content Provenance and Authenticity"
+favicon = "favicon.ico"
+github = "https://github.com/c2pa-org"
+[params.members]
+steering = [
+    { name="Adobe", img = "steering/adobe.svg", href="https://www.adobe.com/" },
+    { name="Arm", img = "steering/arm.svg", href="https://www.arm.com/" },
+    { name="BBC", img = "steering/bbc.svg", href="https://www.bbc.com/" },
+    { name="Intel", img = "steering/intel.svg", href="https://www.intel.com/" },
+    { name="Microsoft", img = "steering/microsoft.svg", href="https://www.microsoft.com/" },
+    { name="Truepic", img = "steering/truepic.svg", href="https://truepic.com/" },
+]
+general = [
+    { name = "WITNESS", img = "general/witness.svg", href="https://www.witness.org/"}
+]
+contributor = [
+    { name = "Digimarc", img = "contributor/digimarc.svg", href="hhttps://www.digimarc.com/"}
+]
+
+[menu]
+[[menu.main]]
+identifier = "about"
+title = "About"
+url = "/about/"
+weight = 5
+[[menu.main]]
+identifier = "faq"
+title = "FAQ"
+url = "/faq/"
+weight = 10
+[[menu.main]]
+identifier = "principles"
+title = "Guiding Principles"
+url = "/principles/"
+weight = 20
+[[menu.main]]
+identifier = "membership"
+title = "Membership"
+url = "/membership/"
+weight = 30
+[[menu.main]]
+identifier = "post"
+title = "News"
+url = "/post/"
+weight = 40
+[[menu.main]]
+identifier = "contact"
+title = "Contact"
+url = "/contact/"
+weight = 50
+[[menu.main]]
+identifier = "_github"
+title = "GitHub"
+weight = 60
+
+[build]
+writeStats = true

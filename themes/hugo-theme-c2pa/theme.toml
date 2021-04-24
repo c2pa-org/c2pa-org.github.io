@@ -1,0 +1,11 @@
+description = "A Hugo theme for the c2pa.org web site"
+features = []
+homepage = "https://github.com/c2pa-org"
+license = "UNLICENSED"
+min_version = "0.69"
+name = "hugo-theme-c2pa"
+
+[author]
+name = "Dave Kozma"
+email = "dkozma@adobe.com"
+homepage = "https://github.com/dkozma"

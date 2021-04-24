@@ -6,8 +6,7 @@
 set -eu
 
 # define the docker container and its version
-HUGO_VERS=0.80.0-ext-alpine
-DOCKER_IMG=klakegg/hugo
+DOCKER_IMG=hugo-build-container
 OUTPUT_DIR=docs
 
 #detect platform that we're running on...
@@ -20,11 +19,7 @@ case "${unameOut}" in
     *)          machine="UNKNOWN:${unameOut}"
 esac
 
-# make sure we have the docker image
-if [[ "$(docker images -q "${DOCKER_IMG}" 2> /dev/null)" == "" ]]; then
-	echo "Pulling Hugo Docker image"
-	docker pull "${DOCKER_IMG}"
-fi
+docker build -t "${DOCKER_IMG}" .
 
 # setup the current path currently for Mac, Win or Linux
 curPath=`pwd`
@@ -34,7 +29,8 @@ if [ "${machine}" == "MinGw" ]; then
 fi
 
 # run it!
-docker run --rm -it -v "${curPath}":/src -p 1313:1313 \
-	"${DOCKER_IMG}":"${HUGO_VERS}" server -d "${OUTPUT_DIR}"
+docker run --rm -it -v "${curPath}":/src -v /src/themes/hugo-theme-c2pa -p 1313:1313 \
+	"${DOCKER_IMG}" server
+
 
 

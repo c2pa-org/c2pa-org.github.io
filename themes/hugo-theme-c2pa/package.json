@@ -1,0 +1,29 @@
+{
+  "name": "hugo-theme-c2pa",
+  "version": "0.2.1",
+  "description": "Hugo theme for c2pa.org",
+  "main": "index.js",
+  "repository": "https://github.com/c2pa-org/c2pa-org.github.io",
+  "author": "Dave Kozma <dkozma@adobe.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "hugo --gc"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^3.1.3",
+    "@tailwindcss/typography": "^0.3.1",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.10",
+    "postcss-cli": "^8.3.1",
+    "postcss-import": "^14.0.0",
+    "prettier": "^2.2.1",
+    "prettier-plugin-go-template": "^0.0.10",
+    "tailwindcss": "^2.1.1"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "maintained node versions",
+    "not dead"
+  ]
+}

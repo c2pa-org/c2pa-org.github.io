@@ -1,0 +1,72 @@
+/* Tailwind base - put variables under: tailwind.config.js */
+@import "node_modules/tailwindcss/base";
+/* Tailwind component classes registered by plugins*/
+@import "node_modules/tailwindcss/components";
+/* Site Specific */
+@import "assets/css/site";
+/* Tailwind's utility classes - generated based on config file */
+@import "node_modules/tailwindcss/utilities";
+
+a {
+  @apply text-blue-700 underline;
+}
+a.button {
+  @apply inline-flex bg-gray-700 hover:bg-gray-800 transition-colors text-white no-underline font-bold px-4 py-2 rounded-md items-center justify-between;
+}
+a.button .icon {
+  @apply ml-4;
+}
+a.button svg {
+  @apply text-white fill-current;
+}
+
+h1.page-title {
+  @apply text-3xl py-6 text-gray-700;
+}
+h1 {
+  @apply text-2xl py-4;
+}
+h2 {
+  @apply text-xl pt-0 pb-4 font-bold;
+}
+h3 {
+  @apply text-lg pt-0 pb-2;
+}
+h1 a,
+h2 a,
+h3 a {
+  @apply no-underline;
+}
+p {
+  @apply text-base leading-relaxed mb-6;
+}
+
+ul {
+  @apply list-disc ml-5 mb-5;
+}
+ul p {
+  @apply mb-2;
+}
+ul ul {
+  list-style: circle;
+}
+ul ul ul {
+  @apply mb-0;
+  list-style: square;
+}
+
+main {
+  @apply pt-6;
+}
+.with-hero main {
+  @apply pt-0;
+}
+
+.hero-members {
+  @apply rounded-sm mb-5 flex items-center justify-center;
+  background-color: #b9bec9;
+  height: 85px;
+  box-shadow: 0 5px 20px 0 rgba(85, 106, 150, 0.18);
+}
+.hero-members img {
+}

@@ -1,4 +1,6 @@
 _site
+.DS_Store
 .sass-cache
 .jekyll-metadata
 vendor/bundle/*
+public

@@ -1,0 +1,17 @@
+{{ $caretIcon := "themes/hugo-theme-c2pa/assets/images/caret.svg" | readFile | safeHTML }}
+<div>
+  <div>
+    <h1>
+        {{ .Title }}
+    </h1>
+    <div>
+      {{ .Summary }}
+      <div>
+        <a href="{{ .RelPermalink }}" class="inline-flex items-center space-x-2 rounded mt-5 px-3 py-1.5 text-sm font-bold border-gray-300 bg-gray-100 hover:bg-gray-50 hover:border-gray-400 hover:text-blue-500 transition-colors border-b text-gray-600 no-underline">
+          <span>Read more</span>
+          <span class="transform scale-75">{{ $caretIcon }}</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>

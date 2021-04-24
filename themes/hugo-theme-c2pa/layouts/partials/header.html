@@ -1,0 +1,99 @@
+{{ $currentPage := . }}
+{{ $logo := resources.Get "images/logo.svg" }}
+{{ $textLogo := resources.Get "images/text-logo.svg" }}
+{{ $githubLogo := "themes/hugo-theme-c2pa/assets/images/github-logo.svg" | readFile | safeHTML }}
+<header class="w-full" style="height: 100px;">
+  {{/*  CSS functionality for menu toggle  */}}
+  <style type="text/css">
+    input#nav-toggle:checked ~ label#show-button {
+      display: none;
+    }
+
+    input#nav-toggle:checked ~ label#hide-button {
+      display: flex;
+    }
+
+    input#nav-toggle:checked ~ #nav-menu {
+      display: block;
+    }
+  </style>
+
+  <nav class="flex h-full items-center justify-between flex-wrap xl:px-0">
+    <div class="flex h-full items-center">
+      <div>
+        <a href="{{ .Site.Home.RelPermalink }}">
+          <img src="{{ $logo.RelPermalink }}" alt="{{ .Site.Title }}" />
+        </a>
+      </div>
+      <div class="bg-gray-300 mx-5 h-full" style="width: 1px;"></div>
+      <div>
+        <a href="{{ .Site.Home.RelPermalink }}">
+          <img src="{{ $textLogo.RelPermalink }}" alt="{{ .Site.Title }}" />
+        </a>
+      </div>
+    </div>
+
+    <input id="nav-toggle" type="checkbox" class="hidden" />
+    <label
+      id="show-button"
+      for="nav-toggle"
+      class="flex items-center block lg:hidden text-gray-500 hover:text-blue-500"
+    >
+      <svg
+        class="fill-current h-5 w-5"
+        viewBox="0 0 20 20"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <title>Menu Open</title>
+        <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z" />
+      </svg>
+    </label>
+
+    <div
+      id="nav-menu"
+      class="hidden fixed inset-y-0 right-0 w-72 p-8 pt-6 bg-white z-20 shadow-lg lg:inset-auto lg:shadow-none lg:p-0 lg:relative lg:bg-transparent lg:flex lg:w-auto"
+    >
+      <label
+        id="hide-button"
+        for="nav-toggle"
+        class="lg:hidden absolute top-6 right-6 flex items-center text-gray-700 hover:text-blue-500"
+      >
+        <svg
+          class="fill-current h-4 w-4"
+          viewBox="0 0 20 20"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <title>Menu Close</title>
+          <polygon
+            points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
+            transform="rotate(45 10 10)"
+          />
+        </svg>
+      </label>
+      <ul
+        class="list-none space-y-2 lg:flex lg:items-center lg:space-y-0 lg:space-x-8 xl:space-x-16 font-bold text-base"
+      >
+        {{ range .Site.Menus.main }}
+          {{ if eq .Identifier "_github" }}
+            <li>
+              <a
+                href="{{ $.Site.Params.github }}"
+                target="_blank"
+                class="text-gray-600 hover:text-blue-600 no-underline"
+                >{{ $githubLogo }}</a
+              >
+            </li>
+            {{ else }}
+            <li>
+              <a
+                href="{{ .URL }}"
+                class="{{ if $currentPage.HasMenuCurrent "main" . }}text-gray-900 border-b border-gray-300 pb-1 cursor-default{{ else }}text-gray-600 hover:text-blue-600 cursor-pointer{{ end}} no-underline"
+                >{{ .Title }}</a
+              >
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+  </nav>
+</header>

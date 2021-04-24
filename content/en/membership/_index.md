@@ -4,11 +4,18 @@ omit_header_text: true
 ---
 
 Are you interested in joining C2PA to develop open standards that certify the source and provenance of online content?
-# Members
 
-[Adobe](https://www.adobe.com/), [Arm](https://www.arm.com/), [BBC](https://www.bbc.com/), [Intel](https://www.intel.com/content/www/us/en/homepage.html), [Microsoft](https://www.microsoft.com/en-us/), [Truepic](https://truepic.com/)
+# Steering Committee
 
-![Company Logos](/images/C2PA-Member-Logos-Line.png)
+{{< memberlogos type="steering" class="grid-cols-2 md:grid-cols-3 lg:grid-cols-4 2xl:grid-cols-6" >}}
+
+# General Members
+
+{{< memberlogos type="general" class="grid-cols-3 md:grid-cols-4 lg:grid-cols-6 2xl:grid-cols-8" >}}
+
+# Contributor Members
+
+{{< memberlogos type="contributor" class="grid-cols-3 md:grid-cols-4 lg:grid-cols-6 2xl:grid-cols-8" >}}
 
 # Apply Here
 
