@@ -5,9 +5,7 @@
 #       -x  Print commands and their arguments as they are executed.
 set -eu
 
-# define the docker container and its version
-HUGO_VERS=0.82.0-ext-alpine
-DOCKER_IMG=klakegg/hugo
+DOCKER_IMG=hugo-build-container
 OUTPUT_DIR=docs
 
 #detect platform that we're running on...
@@ -20,11 +18,7 @@ case "${unameOut}" in
     *)          machine="UNKNOWN:${unameOut}"
 esac
 
-# make sure we have the docker image
-if [[ "$(docker images -q "${DOCKER_IMG}" 2> /dev/null)" == "" ]]; then
-	echo "Pulling Hugo Docker image"
-	docker pull "${DOCKER_IMG}"
-fi
+docker build -t "${DOCKER_IMG}" .
 
 # setup the current path currently for Mac, Win or Linux
 curPath=`pwd`
@@ -34,4 +28,4 @@ if [ "${machine}" == "MinGw" ]; then
 fi
 
 # run it!
-docker run --rm -it -v "${curPath}":/src "${DOCKER_IMG}":"${HUGO_VERS}" -d "${OUTPUT_DIR}"
+docker run --rm -it -v "${curPath}/${OUTPUT_DIR}":/src/${OUTPUT_DIR} -e "HUGO_DESTINATION=/src/${OUTPUT_DIR}" "${DOCKER_IMG}"

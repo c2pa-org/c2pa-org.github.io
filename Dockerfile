@@ -1,0 +1,1 @@
+FROM klakegg/hugo:0.82.1-ext-alpine-onbuild
