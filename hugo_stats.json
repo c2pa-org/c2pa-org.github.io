@@ -69,6 +69,8 @@
       "font-medium",
       "font-normal",
       "from-white",
+      "gap-2",
+      "gap-4",
       "gap-x-8",
       "grid",
       "grid-cols-12",
