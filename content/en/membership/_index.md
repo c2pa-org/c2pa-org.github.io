@@ -11,11 +11,11 @@ Are you interested in joining C2PA to develop open standards that certify the so
 
 # General Members
 
-{{< memberlogos type="general" class="grid-cols-3 md:grid-cols-4 lg:grid-cols-6 2xl:grid-cols-8" >}}
+{{< memberlogos type="general" class="grid-cols-3 md:grid-cols-4 lg:grid-cols-6 2xl:grid-cols-8 gap-4" >}}
 
 # Contributor Members
 
-{{< memberlogos type="contributor" class="grid-cols-3 md:grid-cols-4 lg:grid-cols-6 2xl:grid-cols-8" >}}
+{{< memberlogos type="contributor" class="grid-cols-3 md:grid-cols-4 lg:grid-cols-6 2xl:grid-cols-8 gap-4" >}}
 
 # Apply Here
 

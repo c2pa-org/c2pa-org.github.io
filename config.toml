@@ -38,10 +38,12 @@ steering = [
     { name="Truepic", img = "steering/truepic.svg", href="https://truepic.com/" },
 ]
 general = [
-    { name = "WITNESS", img = "general/witness.svg", href="https://www.witness.org/"}
+    { name = "WITNESS", img = "general/witness.svg", href="https://www.witness.org/" }
 ]
 contributor = [
-    { name = "Digimarc", img = "contributor/digimarc.svg", href="hhttps://www.digimarc.com/"}
+    { name = "CBC", img = "contributor/cbc.svg", href="https://www.cbc.ca/" },
+    { name = "CLink", img = "contributor/clink.svg", href="https://clink.media/" },
+    { name = "Digimarc", img = "contributor/digimarc.svg", href="https://www.digimarc.com/" }
 ]
 
 [menu]
