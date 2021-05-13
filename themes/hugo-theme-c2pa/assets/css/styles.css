@@ -69,14 +69,14 @@ main {
   box-shadow: 0 5px 20px 0 rgba(85, 106, 150, 0.18);
 }
 .hero-members > a {
-  @apply flex flex-wrap items-center justify-center transform origin-center -space-x-4 relative top-1 left-1.5;
+  @apply flex flex-wrap items-center justify-center transform origin-center -space-x-4;
 }
 .hero-members > a > img {
   @apply transform origin-center scale-55;
 }
 @screen sm {
   .hero-members > a {
-    @apply flex flex-nowrap scale-60 space-x-8 relative top-0 left-0;
+    @apply flex flex-nowrap scale-60 space-x-8;
   }
   .hero-members > a > img {
     @apply scale-100;
