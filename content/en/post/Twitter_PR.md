@@ -1,5 +1,5 @@
 ---
-date: 2021-05-12T20:50:12.840Z
+date: 2021-05-13T20:50:12.840Z
 description: "Addition of Twitter advances The Coalition for Content Provenance and Authenticity (C2PA) effort to develop a standardized content provenance solution"
 title: "Twitter Joins C2PA"
 summary: "**SAN FRANCISCO, Calif. --- May 13, 2021 ---** Today, Twitter joins the cross-industry Coalition for Content Provenance and Authenticity (C2PA), a Joint Development Foundation project established to scale trust in online content."
