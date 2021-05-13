@@ -3,7 +3,7 @@ title: Membership
 omit_header_text: true
 ---
 
-Are you interested in joining C2PA to develop open standards that certify the source and provenance of online content?
+Are you interested in joining C2PA to develop open standards that certify the source and provenance of online content? Please complete the membership application below.
 
 # Steering Committee
 

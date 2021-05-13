@@ -36,6 +36,7 @@ steering = [
     { name="Intel", img = "steering/intel.svg", href="https://www.intel.com/" },
     { name="Microsoft", img = "steering/microsoft.svg", href="https://www.microsoft.com/" },
     { name="Truepic", img = "steering/truepic.svg", href="https://truepic.com/" },
+    { name="Twitter", img = "steering/twitter.svg", href="https://twitter.com/" },
 ]
 general = [
     { name = "WITNESS", img = "general/witness.svg", href="https://www.witness.org/" }
