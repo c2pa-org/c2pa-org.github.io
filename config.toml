@@ -44,7 +44,11 @@ general = [
 contributor = [
     { name = "CBC", img = "contributor/cbc.svg", href="https://www.cbc.ca/" },
     { name = "CLink", img = "contributor/clink.svg", href="https://clink.media/" },
-    { name = "Digimarc", img = "contributor/digimarc.svg", href="https://www.digimarc.com/" }
+    { name = "Digimarc", img = "contributor/digimarc.svg", href="https://www.digimarc.com/" },
+    { name = "Dalet", img = "contributor/Dalet-Blue.svg", href="https://www.dalet.com/"},
+    { name = "Serum of Truth", img = "contributor/serumoftruth.JPG", href="https://serumoftruth.com/"},
+    { name = "Ravnur", img = "contributor/ravnur.svg", href="https://www.ravnur.com/"},
+    { name = "Web Commodore", img = "contributor/webcommodore.png", href="https://www.webcommodore.com/"},
 ]
 
 [menu]
