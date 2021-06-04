@@ -39,7 +39,8 @@ steering = [
     { name="Twitter", img = "steering/twitter.svg", href="https://twitter.com/" },
 ]
 general = [
-    { name = "WITNESS", img = "general/witness.svg", href="https://www.witness.org/" }
+    { name = "WITNESS", img = "general/witness.svg", href="https://www.witness.org/" },
+    { name = "RIAA", img = "general/riaa.svg", href="https://www.riaa.com/" },
 ]
 contributor = [
     { name = "CBC", img = "contributor/cbc.svg", href="https://www.cbc.ca/" },
