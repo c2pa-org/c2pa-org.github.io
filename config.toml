@@ -50,6 +50,7 @@ contributor = [
     { name = "Serum of Truth", img = "contributor/serumoftruth.JPG", href="https://serumoftruth.com/"},
     { name = "Ravnur", img = "contributor/ravnur.svg", href="https://www.ravnur.com/"},
     { name = "Web Commodore", img = "contributor/webcommodore.png", href="https://www.webcommodore.com/"},
+    { name = "Akamai", img = "contributor/akamai.png", href="https://www.akamai.com/"},
 ]
 
 [menu]
