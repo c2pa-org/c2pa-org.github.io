@@ -41,6 +41,7 @@ steering = [
 general = [
     { name = "WITNESS", img = "general/witness.svg", href="https://www.witness.org/" },
     { name = "RIAA", img = "general/riaa.svg", href="https://www.riaa.com/" },
+    { name = "FRANCEtv", img = "general/France.tv_Logo.svg", href="https://www.francetvlab.fr/en" },
 ]
 contributor = [
     { name = "CBC", img = "contributor/cbc.svg", href="https://www.cbc.ca/" },
