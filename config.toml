@@ -42,6 +42,7 @@ general = [
     { name = "WITNESS", img = "general/witness.svg", href="https://www.witness.org/" },
     { name = "RIAA", img = "general/riaa.svg", href="https://www.riaa.com/" },
     { name = "FRANCEtv", img = "general/France.tv_Logo.svg", href="https://www.francetvlab.fr/en" },
+    { name = "Numbers Protocol", img = "general/numbers-logo-square.svg", href="https://numbersprotocol.io/" },
 ]
 contributor = [
     { name = "CBC", img = "contributor/cbc.svg", href="https://www.cbc.ca/" },
@@ -52,6 +53,10 @@ contributor = [
     { name = "Ravnur", img = "contributor/ravnur.svg", href="https://www.ravnur.com/"},
     { name = "Web Commodore", img = "contributor/webcommodore.png", href="https://www.webcommodore.com/"},
     { name = "Akamai", img = "contributor/akamai.png", href="https://www.akamai.com/"},
+    { name = "Melcher Systems", img = "contributor/melcher-systems.svg", href="https://melchersystem.com/"},
+    { name = "The New York Times", img = "contributor/new-york-times.png", href="hhttps://www.nytimes.com/"},
+    { name = "Steg AI", img = "contributor/stegai.png", href="https://steg.ai/"},
+
 ]
 
 [menu]
