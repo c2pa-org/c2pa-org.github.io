@@ -33,4 +33,4 @@ C2PA unifies the efforts of the Adobe-led [Content Authenticity Initiative (CAI)
 
 A public draft of the C2PA Specification is available in both [PDF](https://c2pa.org/public-draft/C2PA_Specification.pdf) and [HTML](https://c2pa.org/public-draft) formats from its [GitHub repository](https://github.com/c2pa-org/public-draft).
 
-Feedback on the draft specification can be provided [here](https://docs.google.com/forms/d/18U-ruQqHu11u3wTg21YQAfPeJ7w5DvCL8KkgMtWnUiQ/edit?ts=61294615&no_redirect=true).
+Feedback on the draft specification can be provided [here](https://docs.google.com/forms/d/e/1FAIpQLSevOsvZKHIc_4Dljk7IkoW37mcuItUEV3I6hoUZhR2suxRVPg/viewform?usp=sf_link).
