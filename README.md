@@ -20,7 +20,7 @@ With these items installed and running, you are ready to build the site:
 1. If this is your first time running the site locally, you will also need to get the theme files. In your terminal, execute `git submodule init`
 1. Run the build script with `./hugo-build.sh`
 1. Run the server script with `./hugo-serve.sh`
-1. In your browser, navigate to `localhost://1313` to see the site.
+1. In your browser, navigate to `http://localhost:1313/` to see the site.
 1. Any changes you make will be automatically updated in the browser.
 1. Commit changes to a separate branch (not main/master) and file a Pull Request when you are ready for review.
 

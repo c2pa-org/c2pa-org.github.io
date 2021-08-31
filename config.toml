@@ -43,6 +43,7 @@ general = [
     { name = "RIAA", img = "general/riaa.svg", href="https://www.riaa.com/" },
     { name = "FRANCEtv", img = "general/France.tv_Logo.svg", href="https://www.francetvlab.fr/en" },
     { name = "Numbers Protocol", img = "general/numbers-logo-square.svg", href="https://numbersprotocol.io/" },
+    { name = "Society Library", img = "general/societylibrary.svg", href="https://www.societylibrary.org/" },
 ]
 contributor = [
     { name = "CBC", img = "contributor/cbc.svg", href="https://www.cbc.ca/" },
@@ -56,8 +57,9 @@ contributor = [
     { name = "Melcher Systems", img = "contributor/melcher-systems.svg", href="https://melchersystem.com/"},
     { name = "The New York Times", img = "contributor/new-york-times.png", href="hhttps://www.nytimes.com/"},
     { name = "Steg AI", img = "contributor/stegai.png", href="https://steg.ai/"},
-    { name = "Fastly", img = "contributor/fastly.svg", href="http://fastify.com//"},
-
+    { name = "Fastly", img = "contributor/fastly.svg", href="http://fastify.com/"},
+    { name = "SafeCast Limited", img = "contributor/safecast.svg", href="https://safecast.co.uk/"},
+    { name = "Serelay", img = "contributor/serelay.png", href="https://www.serelay.com/"},
 ]
 
 [menu]
@@ -76,6 +78,11 @@ identifier = "principles"
 title = "Guiding Principles"
 url = "/principles/"
 weight = 20
+[[menu.main]]
+identifier = "spec"
+title = "Specification"
+url = "https://c2pa.org/public-draft/"
+weight = 25
 [[menu.main]]
 identifier = "membership"
 title = "Membership"
