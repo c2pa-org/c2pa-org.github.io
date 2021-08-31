@@ -77,6 +77,11 @@ title = "Guiding Principles"
 url = "/principles/"
 weight = 20
 [[menu.main]]
+identifier = "spec"
+title = "Specification"
+url = "https://c2pa.org/public-draft/"
+weight = 25
+[[menu.main]]
 identifier = "membership"
 title = "Membership"
 url = "/membership/"
