@@ -26,6 +26,7 @@ priority = 0.5
 
 [params]
 description = "Coalition for Content Provenance and Authenticity"
+images = ['static/images/c2pa-hero.png']
 favicon = "favicon.ico"
 github = "https://github.com/c2pa-org"
 [params.members]
