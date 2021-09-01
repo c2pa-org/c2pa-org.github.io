@@ -6,7 +6,16 @@
     <description>Recent content in Overview on C2PA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 May 2021 12:00:00 +0000</lastBuildDate><atom:link href="https://c2pa.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Sep 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://c2pa.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C2PA Releases Draft Spec</title>
+      <link>https://c2pa.org/post/draft_1_pr/</link>
+      <pubDate>Wed, 01 Sep 2021 09:00:00 +0000</pubDate>
+      
+      <guid>https://c2pa.org/post/draft_1_pr/</guid>
+      <description>&lt;strong&gt;SAN FRANCISCO, Calif. &amp;mdash; September 1, 2021 &amp;mdash;&lt;/strong&gt; Today, the Coalition for Content Provenance and Authenticity (C2PA), a Joint Development Foundation project established to scale trust in online content, released its content provenance specifications – in draft form – for community review and feedback.</description>
+    </item>
+    
     <item>
       <title>Twitter Joins C2PA</title>
       <link>https://c2pa.org/post/twitter_pr/</link>
