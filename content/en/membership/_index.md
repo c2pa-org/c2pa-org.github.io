@@ -3,9 +3,12 @@ title: Membership
 omit_header_text: true
 ---
 
-Are you interested in joining C2PA to develop open standards that certify the source and provenance of online content? Please complete the membership application below.
+# Apply Now
+Are you interested in joining C2PA to develop open standards that certify the source and provenance of online content? [Apply now](https://enrollment.lfx.linuxfoundation.org/?project=c2pa-fund) to join our incredible roster of members.
 
-# Steering Committee
+{{< join >}}
+
+# Steering Committee Members
 
 {{< memberlogos type="steering" class="grid-cols-2 md:grid-cols-3 lg:grid-cols-4 2xl:grid-cols-6" >}}
 
@@ -16,7 +19,3 @@ Are you interested in joining C2PA to develop open standards that certify the so
 # Contributor Members
 
 {{< memberlogos type="contributor" class="grid-cols-3 md:grid-cols-4 lg:grid-cols-6 2xl:grid-cols-8 gap-4" >}}
-
-# Apply Here
-
-{{< join >}}
