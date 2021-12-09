@@ -29,6 +29,14 @@ The Coalition for Content Provenance and Authenticity (C2PA) addresses the preva
 
 C2PA unifies the efforts of the Adobe-led [Content Authenticity Initiative (CAI)](https://contentauthenticity.org/) which focuses on systems to provide context and history for digital media, and [Project Origin](https://www.originproject.info/), a Microsoft- and BBC-led initiative that tackles disinformation in the digital news ecosystem.
 
+## Join us in January - Digital Content Provenance: Possibilities & opportunities for the future of the internet in the deepfake and disinformation era
+
+[![Save the date](images/save-the-date.png)](/register)
+
+You are invited to attend a special online event on January 26, 2022 featuring conversations with experts in the field. [Register now!](/register)
+
+{{< register-button >}}
+
 ## Draft Specification
 
 A public draft of the C2PA Specification is available in both [PDF](https://c2pa.org/public-draft/C2PA_Specification.pdf) and [HTML](https://c2pa.org/public-draft) formats from its [GitHub repository](https://github.com/c2pa-org/public-draft).
