@@ -61,5 +61,15 @@
       <description>A collection of resources for additional reading about the C2PA including whitepapers and videos from the CAI and Project Origin.</description>
     </item>
     
+    <item>
+      <title>Event Registration</title>
+      <link>https://c2pa.org/register/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://c2pa.org/register/</guid>
+      <description>Register to Attend our online event January 26 This free, online event is open to all. Registrants will receive links and periodic event reminders from C2PA. Have questions? Email event-team@c2pa.org for support.
+  hbspt.forms.create({ region: &#34;na1&#34;, portalId: &#34;8112310&#34;, formId: &#34;3ded83b2-a3cc-4973-b872-d33e72745bbe&#34;, sfdcCampaignId: &#34;7012M000001rd5AQAQ&#34; });  </description>
+    </item>
+    
   </channel>
 </rss>
