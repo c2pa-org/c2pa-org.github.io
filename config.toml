@@ -45,6 +45,7 @@ general = [
     { name = "FRANCEtv", img = "general/France.tv_Logo.svg", href="https://www.francetvlab.fr/en" },
     { name = "Numbers Protocol", img = "general/numbers-logo-square.svg", href="https://numbersprotocol.io/" },
     { name = "Society Library", img = "general/societylibrary.svg", href="https://www.societylibrary.org/" },
+    { name = "Nikon", img = "general/nikon.svg", href="https://nikon.com/" },
 ]
 contributor = [
     { name = "CBC", img = "contributor/cbc.svg", href="https://www.cbc.ca/" },
