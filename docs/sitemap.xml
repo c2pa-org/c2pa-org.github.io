@@ -55,10 +55,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://c2pa.org/digital-content-provenance-event/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://c2pa.org/register/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -72,6 +68,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://c2pa.org/membership/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://c2pa.org/digital-content-provenance-event/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
