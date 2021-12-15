@@ -107,3 +107,6 @@ weight = 60
 
 [build]
 writeStats = true
+
+[markup.goldmark.renderer]
+  unsafe = true
