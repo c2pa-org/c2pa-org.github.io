@@ -42,15 +42,17 @@ steering = [
 general = [
     { name = "WITNESS", img = "general/witness.svg", href="https://www.witness.org/" },
     { name = "RIAA", img = "general/riaa.svg", href="https://www.riaa.com/" },
-    { name = "FRANCEtv", img = "general/France.tv_Logo.svg", href="https://www.francetvlab.fr/en" },
     { name = "Numbers Protocol", img = "general/numbers-logo-square.svg", href="https://numbersprotocol.io/" },
     { name = "Society Library", img = "general/societylibrary.svg", href="https://www.societylibrary.org/" },
     { name = "Nikon", img = "general/nikon.svg", href="https://nikon.com/" },
+    { name = "Identity Technologies", img = "general/identity.png", href="https://www.identity.com/"},
+    { name = "ATEME SA", img = "general/ateme.png", href="https://www.ateme.com/"},
 ]
 contributor = [
     { name = "CBC", img = "contributor/cbc.svg", href="https://www.cbc.ca/" },
     { name = "CLink", img = "contributor/clink.svg", href="https://clink.media/" },
     { name = "Digimarc", img = "contributor/digimarc.svg", href="https://www.digimarc.com/" },
+    { name = "FRANCEtv", img = "contributor/France.tv_Logo.svg", href="https://www.francetvlab.fr/en" },
     { name = "Dalet", img = "contributor/Dalet-Blue.svg", href="https://www.dalet.com/"},
     { name = "Serum of Truth", img = "contributor/serumoftruth.JPG", href="https://serumoftruth.com/"},
     { name = "Ravnur", img = "contributor/ravnur.svg", href="https://www.ravnur.com/"},
@@ -61,7 +63,10 @@ contributor = [
     { name = "Steg AI", img = "contributor/stegai.png", href="https://steg.ai/"},
     { name = "Fastly", img = "contributor/fastly.svg", href="http://fastify.com/"},
     { name = "SafeCast Limited", img = "contributor/safecast.svg", href="https://safecast.co.uk/"},
-    { name = "Serelay", img = "contributor/serelay.png", href="https://www.serelay.com/"},
+    { name = "Metadata Authoring Systems", img = "contributor/is_logo_5sm.png", href="https://imagesnippets.com"},
+    { name = "ISCC Foundation", img = "contributor/serelay.png", href="https://iscc.foundation/"},
+    { name = "Sedicii", img = "contributor/sedicii.svg", href="https://sedicii.com/"},
+    { name = "Sequence Key", img = "contributor/sequencekey.png", href="http://sequencekey.com/"},
 ]
 
 [menu]
