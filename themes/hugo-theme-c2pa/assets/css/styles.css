@@ -55,6 +55,33 @@ ul ul ul {
   list-style: square;
 }
 
+table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead th:nth-child(1) {
+  width: 10%;
+}
+
+thead th:nth-child(2) {
+  width: 30%;
+}
+
+thead th:nth-child(3) {
+  width: 35%;
+}
+
+th, td {
+  padding: 10px;
+}
+
+thead {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
 main {
   @apply pt-6;
 }
