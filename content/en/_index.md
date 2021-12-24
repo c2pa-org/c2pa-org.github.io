@@ -37,8 +37,8 @@ You are invited to attend a special online event on January 26, 2022 featuring c
 
 {{< register-button >}}
 
-## Draft Specification
+## Specification
 
-A public draft of the C2PA Specification is available in both [PDF](https://c2pa.org/public-draft/C2PA_Specification.pdf) and [HTML](https://c2pa.org/public-draft) formats from its [GitHub repository](https://github.com/c2pa-org/public-draft).
+The C2PA Specification along with a series of companion documents can be found [here](https://c2pa.org/specifications/specifications/1.0/index.html). That site offers a "Downloads" menu where PDF versions of each of the documents can be obtained.
 
-Feedback on the draft specification can be provided [here](https://docs.google.com/forms/d/e/1FAIpQLSevOsvZKHIc_4Dljk7IkoW37mcuItUEV3I6hoUZhR2suxRVPg/viewform?usp=sf_link).
+Feedback on the specification can be provided [here](https://docs.google.com/forms/d/e/1FAIpQLSevOsvZKHIc_4Dljk7IkoW37mcuItUEV3I6hoUZhR2suxRVPg/viewform?usp=sf_link) or directly in our [github issues](https://github.com/c2pa-org/specifications/issues).
