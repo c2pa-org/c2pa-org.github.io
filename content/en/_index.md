@@ -31,7 +31,7 @@ C2PA unifies the efforts of the Adobe-led [Content Authenticity Initiative (CAI)
 
 ## Join us in January - Digital Content Provenance: Possibilities & opportunities for the future of the internet in the deepfake and disinformation era
 
-[![Save the date](images/save-the-date_update_1.jpg)](/register)
+[![Save the date](images/save-the-date.png)](/register)
 
 You are invited to attend a special online event on January 26, 2022 featuring conversations with experts in the field. [Register now!](/register)
 
