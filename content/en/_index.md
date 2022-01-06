@@ -43,3 +43,4 @@ You are invited to attend a special online event on January 26, 2022 featuring c
 
 {{< register-button >}}
 
+Feedback on the specification can be provided [here](https://docs.google.com/forms/d/e/1FAIpQLSevOsvZKHIc_4Dljk7IkoW37mcuItUEV3I6hoUZhR2suxRVPg/viewform?usp=sf_link) or directly in our [github issues](https://github.com/c2pa-org/specifications/issues).
