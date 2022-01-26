@@ -37,6 +37,6 @@ Feedback on the specification can be provided [here](https://docs.google.com/for
 
 ## Introduction Video
 
-This video will introduce the technology used to power the C2PA.
+This video will introduce the technology used to power the C2PA Specification.
 
 {{< video "https://media.githubusercontent.com/media/c2pa-org/c2pa-org.github.io/master/docs/videos/release_demo.mp4" "" >}}
