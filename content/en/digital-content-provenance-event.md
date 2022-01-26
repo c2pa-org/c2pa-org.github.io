@@ -5,7 +5,7 @@ title: "Save the Date: January 26, 2022"
 # Digital Content Provenance: Possibilities & opportunities for the future of the internet in the deepfake and disinformation era
 Join us for the release and demonstration of the 1.0 version of the end-to-end open technical standard for certifying the source and history of media content. Policymakers, academics and industry leaders will discuss the future of responsible digital media creation, publication and sharing. 
 
-{{< register-button >}}
+Click [here](https://aka.ms/C2PAcoalition) to attend!
 
 # Schedule and Agenda
 
