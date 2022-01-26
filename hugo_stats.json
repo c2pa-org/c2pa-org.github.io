@@ -31,7 +31,6 @@
       "script",
       "script\r",
       "section",
-      "source",
       "span",
       "strong",
       "style",
@@ -43,8 +42,7 @@
       "thead",
       "title",
       "tr",
-      "ul",
-      "video"
+      "ul"
     ],
     "classes": [
       "2xl:grid-cols-6",
@@ -123,7 +121,6 @@
       "mt-5",
       "mx-5",
       "mx-auto",
-      "my-5",
       "my-6",
       "no-underline",
       "order-1",
