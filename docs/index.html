@@ -282,16 +282,31 @@
 <h2 id="specification">Specification</h2>
 <p>The C2PA Specification along with a series of companion documents can be found <a href="https://c2pa.org/specifications/specifications/1.0/index.html">here</a>. That site offers a &ldquo;Downloads&rdquo; menu where PDF versions of each of the documents can be obtained.</p>
 <p>Feedback on the specification can be provided <a href="https://docs.google.com/forms/d/e/1FAIpQLSevOsvZKHIc_4Dljk7IkoW37mcuItUEV3I6hoUZhR2suxRVPg/viewform?usp=sf_link">here</a> or directly in our <a href="https://github.com/c2pa-org/specifications/issues">github issues</a>.</p>
-<h2 id="join-us-in-january---digital-content-provenance-possibilities--opportunities-for-the-future-of-the-internet-in-the-deepfake-and-disinformation-era">Join us in January - Digital Content Provenance: Possibilities &amp; Opportunities for the Future of the Internet in the Deepfake and Disinformation Era</h2>
-<p><a href="/register"><img src="images/jan-26-event.png" alt="Invitation"></a></p>
-<p>You are invited to attend a special online event on January 26, 2022 featuring conversations with experts in the field. <a href="/register">Register now!</a></p>
-<div style="text-align: left; margin-bottom: 20px;">
-  <a href="/register">
-  <button style="background-color:#3298dc;margin-top:6px;margin-bottom:16px;color:white;border-radius:4px;padding:8px 20px;float:none !important;text-shadow:0 1px 1px rgba(0,0,0,0.2)">
-  Register for the Event
-  </button>
-  </a>
-</div>
+<h2 id="introduction-video">Introduction Video</h2>
+<p>This video will introduce the technology used to power the C2PA.</p>
+<div class="container">
+	<div id="player-wrapper" class=""></div>
+  </div>
+  
+  <script 
+	type="text/javascript" 
+	src="https://cdn.jsdelivr.net/npm/@clappr/player@latest/dist/clappr.min.js"
+  >
+  </script>
+  
+  <script>
+	var playerElement = document.getElementById("player-wrapper");
+  
+	var player = new Clappr.Player({
+	  source: "/videos/release_demo.mp4",
+	  mute: true,
+	  height: 360,
+	  width: 640
+	});
+  
+	player.attachTo(playerElement);  
+  </script>
+  
 
   </article>
 

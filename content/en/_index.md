@@ -35,12 +35,8 @@ The C2PA Specification along with a series of companion documents can be found [
 
 Feedback on the specification can be provided [here](https://docs.google.com/forms/d/e/1FAIpQLSevOsvZKHIc_4Dljk7IkoW37mcuItUEV3I6hoUZhR2suxRVPg/viewform?usp=sf_link) or directly in our [github issues](https://github.com/c2pa-org/specifications/issues).
 
-## Join us in January - Digital Content Provenance: Possibilities & Opportunities for the Future of the Internet in the Deepfake and Disinformation Era
+## Introduction Video
 
-[![Invitation](images/jan-26-event.png)](/register)
+This video will introduce the technology used to power the C2PA.
 
-You are invited to attend a special online event on January 26, 2022 featuring conversations with experts in the field. [Register now!](/register)
-
-{{< register-button >}}
-
-Feedback on the specification can be provided [here](https://docs.google.com/forms/d/e/1FAIpQLSevOsvZKHIc_4Dljk7IkoW37mcuItUEV3I6hoUZhR2suxRVPg/viewform?usp=sf_link) or directly in our [github issues](https://github.com/c2pa-org/specifications/issues).
+{{< video "/videos/release_demo.mp4" "" >}}

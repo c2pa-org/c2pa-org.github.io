@@ -1,0 +1,234 @@
+
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>
+    C2PA Releases Specification of World&#39;s First Industry Standard for Content Provenance - C2PA
+  </title>
+    <meta name="description" content="C2PA Releases Specification of World&#39;s First Industry Standard for Content Provenance" />
+  <meta name="generator" content="Hugo 0.82.1" />
+
+  <link rel="stylesheet" href="https://use.typekit.net/tsb3xic.css" /><link
+      rel="stylesheet"
+      href="/css/styles.min.1f4904549128b94b47aee5e63a74a50466d21e464668c3430767c17e3309d0a6.css"
+      integrity="sha256-H0kEVJEouUtHruXmOnSlBGbSHkZGaMNDB2fBfjMJ0KY="
+    />
+  </head>
+
+  <body
+    class=" relative pb-32 flex flex-col min-h-screen text-base"
+  >
+<section class="relative overflow-hidden">
+      <div
+        class="absolute top-0 left-0 right-0 bg-gradient-to-b from-white to-gray-300"
+        style="height: 600px; z-index: -1;"
+      ></div>
+      <div class="container mx-auto xl:px-12 z-10">
+
+
+
+<header class="w-full" style="height: 100px;">
+  
+  <style type="text/css">
+    input#nav-toggle:checked ~ label#show-button {
+      display: none;
+    }
+
+    input#nav-toggle:checked ~ label#hide-button {
+      display: flex;
+    }
+
+    input#nav-toggle:checked ~ #nav-menu {
+      display: block;
+    }
+  </style>
+
+  <nav class="flex h-full items-center justify-between flex-wrap xl:px-0">
+    <div class="flex h-full items-center">
+      <div>
+        <a href="/">
+          <img src="/images/logo.svg" alt="C2PA" />
+        </a>
+      </div>
+      <div class="bg-gray-300 mx-5 h-full" style="width: 1px;"></div>
+      <div>
+        <a href="/">
+          <img src="/images/text-logo.svg" alt="C2PA" />
+        </a>
+      </div>
+    </div>
+
+    <input id="nav-toggle" type="checkbox" class="hidden" />
+    <label
+      id="show-button"
+      for="nav-toggle"
+      class="flex items-center block lg:hidden text-gray-500 hover:text-blue-500"
+    >
+      <svg
+        class="fill-current h-5 w-5"
+        viewBox="0 0 20 20"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <title>Menu Open</title>
+        <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z" />
+      </svg>
+    </label>
+
+    <div
+      id="nav-menu"
+      class="hidden fixed inset-y-0 right-0 w-72 p-8 pt-6 bg-white z-20 shadow-lg lg:inset-auto lg:shadow-none lg:p-0 lg:relative lg:bg-transparent lg:flex lg:w-auto"
+    >
+      <label
+        id="hide-button"
+        for="nav-toggle"
+        class="lg:hidden absolute top-6 right-6 flex items-center text-gray-700 hover:text-blue-500"
+      >
+        <svg
+          class="fill-current h-4 w-4"
+          viewBox="0 0 20 20"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <title>Menu Close</title>
+          <polygon
+            points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
+            transform="rotate(45 10 10)"
+          />
+        </svg>
+      </label>
+      <ul
+        class="list-none space-y-2 lg:flex lg:items-center lg:space-y-0 lg:space-x-8 xl:space-x-16 font-bold text-base"
+      >
+        
+          
+            <li>
+              <a
+                href="/about/"
+                class="text-gray-600 hover:text-blue-600 cursor-pointer no-underline"
+                >About</a
+              >
+            </li>
+          
+        
+          
+            <li>
+              <a
+                href="/faq/"
+                class="text-gray-600 hover:text-blue-600 cursor-pointer no-underline"
+                >FAQ</a
+              >
+            </li>
+          
+        
+          
+            <li>
+              <a
+                href="/principles/"
+                class="text-gray-600 hover:text-blue-600 cursor-pointer no-underline"
+                >Guiding Principles</a
+              >
+            </li>
+          
+        
+          
+            <li>
+              <a
+                href="https://c2pa.org/specifications/specifications/1.0/index.html"
+                class="text-gray-600 hover:text-blue-600 cursor-pointer no-underline"
+                >Specification</a
+              >
+            </li>
+          
+        
+          
+            <li>
+              <a
+                href="/membership/"
+                class="text-gray-600 hover:text-blue-600 cursor-pointer no-underline"
+                >Membership</a
+              >
+            </li>
+          
+        
+          
+            <li>
+              <a
+                href="/post/"
+                class="text-gray-900 border-b border-gray-300 pb-1 cursor-default no-underline"
+                >News</a
+              >
+            </li>
+          
+        
+          
+            <li>
+              <a
+                href="/contact/"
+                class="text-gray-600 hover:text-blue-600 cursor-pointer no-underline"
+                >Contact</a
+              >
+            </li>
+          
+        
+          
+            <li>
+              <a
+                href="https://github.com/c2pa-org"
+                target="_blank"
+                class="text-gray-600 hover:text-blue-600 no-underline"
+                ><svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 32.579 31.775">
+  <path
+    d="M152.608,107.44a16.291,16.291,0,0,0-5.148,31.747c.815.149,1.112-.353,1.112-.785,0-.387-.014-1.411-.022-2.771-4.531.985-5.487-2.183-5.487-2.183a4.315,4.315,0,0,0-1.809-2.383c-1.479-1.011.112-.99.112-.99a3.42,3.42,0,0,1,2.495,1.678,3.468,3.468,0,0,0,4.741,1.354,3.482,3.482,0,0,1,1.034-2.178c-3.617-.411-7.42-1.808-7.42-8.051a6.3,6.3,0,0,1,1.677-4.371,5.852,5.852,0,0,1,.16-4.311s1.367-.438,4.479,1.67a15.448,15.448,0,0,1,8.156,0c3.11-2.108,4.475-1.67,4.475-1.67a5.854,5.854,0,0,1,.163,4.311A6.286,6.286,0,0,1,163,122.878c0,6.258-3.809,7.635-7.438,8.038a3.889,3.889,0,0,1,1.106,3.017c0,2.178-.02,3.935-.02,4.469,0,.435.294.942,1.12.783a16.292,16.292,0,0,0-5.16-31.745Z"
+    transform="translate(-136.32 -107.44)" fill="currentColor" fill-rule="evenodd" /></svg></a
+              >
+            </li>
+            
+        
+      </ul>
+    </div>
+  </nav>
+</header>
+
+          <h1 class="page-title">C2PA Releases Specification of World&#39;s First Industry Standard for Content Provenance</h1>
+      </div>
+    </section>
+    <main class="container mx-auto xl:px-12">
+  <div class="grid grid-cols-12 gap-x-8">
+    <div class="col-span-12 lg:col-span-9">
+      <h1 id="c2pa-releases-specification-of-worlds-first-industry-standard-for-content-provenance">C2PA Releases Specification of World&rsquo;s First Industry Standard for Content Provenance</h1>
+<p><em>Designed for Broad Adoption of Tools to Identify Source and History of Digital Content</em></p>
+<p><strong>SAN FRANCISCO, Calif. &mdash; January 26, 2022 &mdash;</strong> Today, the <a href="https://c2pa.org/">Coalition for Content Provenance and Authenticity</a> (C2PA), an organization established to provide publishers, creators, and consumers with opt-in, flexible ways to understand the authenticity and provenance across various media types, released <a href="https://c2pa.org/specifications/specifications/1.0/index.html">version 1.0 of its technical specification</a> for digital provenance. This specification is the first of its kind and empowers content creators and editors worldwide to create tamper-evident media, by enabling them to selectively disclose information about who created or changed digital content and how it was altered. The C2PA&rsquo;s work is the result of industry-wide collaborations focused on digital media transparency that will accelerate progress toward global adoption of content provenance.</p>
+<p>Given the deluge of digital content and rapidly advancing technology, it is challenging for consumers to trust what they see online. Deceptive content, such as deepfakes generated by artificial intelligence or more traditionally manipulated media, can be indistinguishable from the real thing, so establishing the provenance of media is critical to ensure transparency, understanding, and trust. This C2PA specification will provide platforms with a method to define what information is associated with each type of asset (e.g., images, videos, audio, or documents), how that information is presented and stored, and how evidence of tampering can be identified. As an open standard, it is designed to be adopted by any software, device, or online platform as well as by regulatory bodies and government agencies to establish standards for digital provenance.</p>
+<p>In conjunction with this announcement, today at 1:00 p.m. ET, the C2PA will host a public virtual event: <a href="https://c2pa.org/register/">Digital Content Provenance: Possibilities &amp; Opportunities for the Future of the Internet in the Deepfake and Disinformation Era</a> Policymakers, academics, and industry leaders will discuss the future of responsible digital media creation, publication, and sharing &ndash; in addition to providing a presentation and demonstration of the C2PA&rsquo;s new technical specification. Free registration and more details for this virtual event are available <a href="https://c2pa.org/register/">here</a>.</p>
+<p>&ldquo;Today&rsquo;s announcement marks a significant step toward addressing the rise in disinformation and facilitating trust online,&rdquo; said Leonard Rosenthol, Chair of the C2PA Technical Working Group and Senior Principal Scientist, Adobe. &ldquo;As the C2PA pursues the implementation of open digital provenance standards, broad adoption, prototyping and communication from coalition members and other external stakeholders will be critical to establish a system of verifiable integrity on the internet.&rdquo;</p>
+<p>The C2PA was <a href="https://c2pa.org/post/c2pa_initial_pr/">launched in February 2021</a> with founding members <a href="https://www.adobe.com/">Adobe</a>, <a href="https://www.arm.com/">Arm</a>, <a href="https://www.bbc.com/">BBC</a>, <a href="https://www.intel.com/">Intel</a>, <a href="https://www.microsoft.com/">Microsoft</a> and <a href="https://truepic.com/">Truepic</a>, and has since expanded with additional members including <a href="https://www.akamai.com/">Akamai</a>, <a href="https://cbc.radio-canada.ca/en">Canadian Broadcasting Corporation</a>, <a href="https://www.fastly.com/">Fastly</a>, <a href="https://twitter.com/">Twitter</a>, <a href="https://www.witness.org/">WITNESS</a> and <a href="https://c2pa.org/membership/">others</a>. This specification is informed by scenarios, workflows, and requirements gathered from industry experts, community feedback and partner organizations, including the <a href="https://www.originproject.info/">Project Origin Alliance</a> and the <a href="https://contentauthenticity.org/">Content Authenticity Initiative (CAI)</a>. Following the release of its draft specification in <a href="https://c2pa.org/post/draft_1_pr/">September 2021</a>, the C2PA went through a deliberate and thorough community review and feedback period to finalize the specification and ensure it reflects the complex nature of this effort. It is designed to enable global, opt-in adoption of digital provenance techniques through the creation of a rich ecosystem of digital provenance-enabled hardware and software for various individuals and organizations while meeting appropriate security requirements.</p>
+<p>Moving forward, the C2PA remains focused on ensuring that the specification is used in ways that respect privacy and personal control of data with a critical eye toward potential abuse and misuse. More details are available <a href="https://c2pa.org/specifications/specifications/1.0/security/Harms_Modelling.html">here</a>. Ongoing public feedback on the C2PA&rsquo;s technical specification can be submitted <a href="https://docs.google.com/forms/d/e/1FAIpQLSevOsvZKHIc_4Dljk7IkoW37mcuItUEV3I6hoUZhR2suxRVPg/viewform">online</a> and organizations interested in joining the C2PA can learn more through its <a href="https://c2pa.org/membership/">website</a>.</p>
+<h2 id="c2pa-steering-committee-member-quotes">C2PA Steering Committee Member Quotes</h2>
+<h3 id="adobe">Adobe</h3>
+<p>&ldquo;The C2PA&rsquo;s release of the technical industry specification for digital content provenance is a monumental step for creators, publishers, and consumers everywhere, and Adobe is proud to help lead this effort to create a more trustworthy online ecosystem. With the specification published, we will continue to drive industry awareness of the importance of provenance and work to pursue broad adoption to fight the rise of inauthentic content online.&rdquo; &ndash; <strong>Andy Parsons, Senior Director of the Content Authenticity Initiative (CAI), Adobe</strong></p>
+<h3 id="bbc">BBC</h3>
+<p>&ldquo;The release of the C2PA&rsquo;s first specification for media provenance is a huge achievement in the way that the industry has come together to tackle the issues in such a short timescale. It is an important and exciting tool to help us tackle disinformation and for everyone to be able to determine where their content originated.&rdquo; &ndash; <strong>Jatin Aythora, Director of Research &amp; Development, BBC</strong></p>
+<h3 id="intel">Intel</h3>
+<p>&ldquo;The C2PA&rsquo;s release of its first specification is a significant milestone in establishing a technical standard designed to help address misleading information online through content provenance. Content creators, distributors and consumers worldwide should be able to take advantage of this technology by establishing and communicating the source and history of digital content. At Intel, we believe in creating world-changing technology that improves the life of every person on the planet, and the C2PA specification / technology is another step in that endeavor.&rdquo; &ndash; <strong>Stephen Balogh, Technology Policy Specialist, Intel Corporation</strong></p>
+<h3 id="microsoft">Microsoft</h3>
+<p>&ldquo;Today marks a watershed moment in trusted media online. The C2PA specification delivers an interoperable standard for media provenance across diverse digital ecosystems, providers, and markets. It enables technical solutions to help address problems of digital trust that challenge each of us on a daily basis. Microsoft is proud to have helped develop and lead this work through our commitment to the organization and looks forward to seeing this technology adopted.&rdquo; &ndash; <strong>Andrew Jenks, C2PA Chair and Principal Program Manager, Microsoft</strong></p>
+<h3 id="truepic">Truepic</h3>
+<p>&ldquo;We have long believed that secure media provenance is the best way to relay high-integrity, authentic digital content online. An open standard in which any platform, website, app, or organization can ingest, preserve, and publish that content to consumers will be critical to achieving trust at internet scale. At a time of unprecedented fraud &amp; visual disinformation, we are honored to deploy the first C2PA-compliant mobile camera.&rdquo; &ndash; <strong>Jeff McGregor, CEO, Truepic</strong></p>
+<h2 id="about-the-c2pa">About the C2PA</h2>
+<p>The Coalition for Content Provenance and Authenticity (C2PA) is an open, technical standards body addressing the prevalence of misleading information online through the development of technical standards for certifying the source and history (or provenance) of digital content. C2PA is a Joint Development Foundation project. For more information, visit <a href="http://www.c2pa.org/">c2pa.org</a>.</p>
+<h2 id="media-contacts">Media Contacts</h2>
+<p>Craig Corica, Adobe, <a href="mailto:ccorica@adobe.com">ccorica@adobe.com</a></p>
+<p>Jill Pike, Finsbury Glover Hering, <a href="mailto:jill.pike@fgh.com">jill.pike@fgh.com</a></p>
+
+    </div>
+    
+  </div>
+
+    </main><footer
+  class="absolute bottom-0 w-full text-center border-t border-gray-200 p-4 text-sm text-gray-400"
+>
+  © C2PA 2022
+</footer>
+</body>
+</html>
