@@ -4,7 +4,7 @@ omit_header_text: true
 ---
 
 # Apply Now
-Are you interested in joining C2PA to develop open standards that certify the source and provenance of online content? [Apply now](https://enrollment.lfx.linuxfoundation.org/?project=c2pa-fund) to join our incredible roster of members. [C2PA Introduction](https://github.com/c2pa-org/documentation/blob/main/recruitment/C2PA%20Introduction%20Deck.pdf)
+Are you interested in joining C2PA to develop open standards that certify the source and provenance of online content? [Apply now](https://enrollment.lfx.linuxfoundation.org/?project=c2pa-fund) to join our incredible roster of members. [C2PA Introduction](https://c2pa.org/files/C2PA_Introduction_Deck.pdf)
 
 {{< join >}}
 
