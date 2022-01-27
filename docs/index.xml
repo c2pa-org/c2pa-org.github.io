@@ -70,25 +70,5 @@
       <description>A collection of resources for additional reading about the C2PA including whitepapers and videos from the CAI and Project Origin.</description>
     </item>
     
-    <item>
-      <title>Event Registration</title>
-      <link>https://c2pa.org/register/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://c2pa.org/register/</guid>
-      <description>Register to Attend our online event January 26 This free, online event is open to all. Click here to attend!</description>
-    </item>
-    
-    <item>
-      <title>Save the Date: January 26, 2022</title>
-      <link>https://c2pa.org/digital-content-provenance-event/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://c2pa.org/digital-content-provenance-event/</guid>
-      <description>Digital Content Provenance: Possibilities &amp;amp; opportunities for the future of the internet in the deepfake and disinformation era Join us for the release and demonstration of the 1.0 version of the end-to-end open technical standard for certifying the source and history of media content. Policymakers, academics and industry leaders will discuss the future of responsible digital media creation, publication and sharing.
-Click here to attend!
-Schedule and Agenda This is a free, online event.</description>
-    </item>
-    
   </channel>
 </rss>
