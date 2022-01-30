@@ -60,6 +60,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://c2pa.org/jan-2022_event/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://c2pa.org/faq/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
