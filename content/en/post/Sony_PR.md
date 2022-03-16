@@ -1,5 +1,5 @@
 ---
-date: 2022-01-26T14:28:00.000Z
+date: 2022-03-16T14:28:00.000Z
 description: "Industry Leaders Advancing Digital Media Transparency and Global Adoption of Content Provenance"
 title: "Sony Corporation Joins C2PA as Steering Committee Member"
 summary: "**SAN FRANCISCO, Calif. --- March 16, 2022 ---** Today, the Coalition for Content Provenance and Authenticity (C2PA) has added Sony Corporation (“Sony”) as the latest steering committee member to help provide creators, consumers, and others with opt-in, flexible ways to understand the authenticity and provenance of various media types. The C2PA recently released the world’s first industry-standard specification for content provenance to promote widespread adoption of tools to identify the source and history of digital content. Sony’s membership marks a major addition to the coalition as one of the world’s leading providers of electronics products and solutions for consumer and professional markets."
