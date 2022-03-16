@@ -104,6 +104,7 @@
       "lg:hidden",
       "lg:inset-auto",
       "lg:items-center",
+      "lg:mt-8",
       "lg:p-0",
       "lg:px-10",
       "lg:relative",
@@ -188,8 +189,10 @@
       "z-20"
     ],
     "ids": [
+      "_industry-leaders-advancing-digital-media-transparency-and-global-adoption-of-content-provenance_",
       "about-adobe",
       "about-microsoft",
+      "about-sony-corporation",
       "about-the-c2pa",
       "adobe",
       "agenda",
