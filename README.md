@@ -7,15 +7,7 @@ c2pa.org uses [Hugo][hugo], a static site generator, a [custom theme][c2pa_theme
 Please build the site locally if you are adding new content pages, changing layouts, adding images, or making other substantive changes.
 For minor changes to existing pages such as typo fixes, grammar, or refreshing content, you can use the GitHub UI.
 
-### Requirements (Codespaces):
-
-1. Start a new codespace
-1. Run `make watch`
-1. Click "Open in Browser" when prompted
-1. Make changes to the site
-1. When done, run `make build`
-
-### Requirements (Local):
+### Requirements
 
 - [Docker][docker] - download and install docker for your operating system. The docker container holds your deploy environment, webserver, and other software you'll need without requiring you to download it all to your local computer.
 - A terminal, text editor, and browser.
