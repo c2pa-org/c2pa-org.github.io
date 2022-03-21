@@ -73,7 +73,8 @@ thead th:nth-child(3) {
   width: 35%;
 }
 
-th, td {
+th,
+td {
   padding: 10px;
 }
 
@@ -90,8 +91,7 @@ main {
 }
 
 .hero-members {
-  @apply rounded-sm mb-5 flex items-center justify-center;
-  background-color: #b9bec9;
+  @apply rounded-sm mb-5 flex items-center justify-center bg-white px-8;
   height: 85px;
   box-shadow: 0 5px 20px 0 rgba(85, 106, 150, 0.18);
 }
@@ -116,11 +116,11 @@ main {
 }
 @screen lg {
   .hero-members > a {
-    @apply scale-90 space-x-12;
+    @apply scale-90 space-x-8;
   }
 }
 @screen xl {
   .hero-members > a {
-    @apply justify-between w-full scale-100;
+    @apply justify-between w-full scale-90;
   }
 }
