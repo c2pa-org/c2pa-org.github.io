@@ -12,14 +12,24 @@
 
   <link rel="stylesheet" href="https://use.typekit.net/tsb3xic.css" /><link
       rel="stylesheet"
-      href="/css/styles.min.1f4904549128b94b47aee5e63a74a50466d21e464668c3430767c17e3309d0a6.css"
-      integrity="sha256-H0kEVJEouUtHruXmOnSlBGbSHkZGaMNDB2fBfjMJ0KY="
+      href="/css/styles.min.e8d62d0cef27fbc9b02956ca74d246783da0445a446cd46ecc0eb2ba774d1262.css"
+      integrity="sha256-6NYtDO8n+8mwKVbKdNJGeD2gRFpEbNRuzA6yundNEmI="
     />
   </head>
 
   <body
     class=" relative pb-32 flex flex-col min-h-screen text-base"
   >
+  <div
+    class="flex items-center justify-center fixed top-0 right-0 mt-12 mr-8 z-50 w-8 h-8 rounded-full text-gray-700 text-sm uppercase bg-gray-200 sm:bg-orange-200 md:bg-green-200 lg:bg-purple-200 xl:bg-red-200"
+  >
+    <span class="block sm:hidden">all</span>
+    <span class="hidden sm:block md:hidden">sm</span>
+    <span class="hidden md:block lg:hidden">md</span>
+    <span class="hidden lg:block xl:hidden">lg</span>
+    <span class="hidden xl:block">xl</span>
+  </div>
+
 <section class="relative overflow-hidden">
       <div
         class="absolute top-0 left-0 right-0 bg-gradient-to-b from-white to-gray-300"
@@ -46,7 +56,7 @@
   </style>
 
   <nav class="flex h-full items-center justify-between flex-wrap xl:px-0">
-    <div class="flex h-full items-center">
+    <div class="flex h-full items-center transform origin-top-left scale-90 xl:scale-100">
       <div>
         <a href="/">
           <img src="/images/logo.svg" alt="C2PA" />
@@ -98,7 +108,7 @@
         </svg>
       </label>
       <ul
-        class="list-none space-y-2 lg:flex lg:items-center lg:space-y-0 lg:space-x-8 xl:space-x-16 font-bold text-base"
+        class="list-none space-y-2 lg:flex lg:items-center lg:space-y-0 lg:space-x-6 xl:space-x-10 font-bold text-md xl:text-base"
       >
         
           
@@ -190,7 +200,7 @@
   </nav>
 </header>
 
-          <h1 class="page-title lg:mt-8">C2PA Releases Draft Spec</h1>
+          <h1 class="page-title">C2PA Releases Draft Spec</h1>
       </div>
     </section>
     <main class="container mx-auto xl:px-12">

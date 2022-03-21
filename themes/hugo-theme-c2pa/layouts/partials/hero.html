@@ -19,12 +19,11 @@
     <img src="{{ $heroImage.RelPermalink }}" alt="" />
   </div>
 </div>
-<div class="hero-members lg:px-10 xl:px-14">
-  <a
-    href="{{ with .Site.GetPage "/membership" }}{{ .RelPermalink }}{{ end }}"
-  >
+<div class="hero-members">
+  <a href="{{ with .Site.GetPage "/membership" }}{{ .RelPermalink }}{{ end }}">
     {{ range .Params.members }}
       <img
+        id="member-{{ lower .alt }}"
         src="{{ .image }}"
         alt="{{ .alt }}"
         style="height: {{ .height }}px;"
