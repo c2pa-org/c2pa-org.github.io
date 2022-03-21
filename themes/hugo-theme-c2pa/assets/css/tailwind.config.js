@@ -4,6 +4,9 @@ module.exports = {
       colors: {
         base: "#231F20",
       },
+      fontSize: {
+        'md': ['15px', '22px'],
+      },
       scale: {
         55: ".55",
         60: ".6",
