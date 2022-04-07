@@ -43,7 +43,7 @@ steering = [
 general = [
     { name = "WITNESS", img = "general/witness.svg", href="https://www.witness.org/" },
     { name = "RIAA", img = "general/riaa.svg", href="https://www.riaa.com/" },
-    { name = "Numbers Protocol", img = "general/numbers-logo-square.svg", href="https://numbersprotocol.io/" },
+    { name = "Numbers Protocol", img = "general/Numbers_Stacked Block Black.svg", href="https://numbersprotocol.io/" },
     { name = "Society Library", img = "general/societylibrary.svg", href="https://www.societylibrary.org/" },
     { name = "Nikon", img = "general/nikon.svg", href="https://nikon.com/" },
     { name = "Identity Technologies", img = "general/identity.png", href="https://www.identity.com/"},
