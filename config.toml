@@ -43,7 +43,7 @@ steering = [
 general = [
     { name = "WITNESS", img = "general/witness.svg", href="https://www.witness.org/" },
     { name = "RIAA", img = "general/riaa.svg", href="https://www.riaa.com/" },
-    { name = "Numbers Protocol", img = "general/numbers-logo-square.svg", href="https://numbersprotocol.io/" },
+    { name = "Numbers Protocol", img = "general/Numbers_Stacked Block Black.svg", href="https://numbersprotocol.io/" },
     { name = "Society Library", img = "general/societylibrary.svg", href="https://www.societylibrary.org/" },
     { name = "Nikon", img = "general/nikon.svg", href="https://nikon.com/" },
     { name = "Identity Technologies", img = "general/identity.png", href="https://www.identity.com/"},
@@ -68,6 +68,10 @@ contributor = [
     { name = "ISCC Foundation", img = "contributor/serelay.png", href="https://iscc.foundation/"},
     { name = "Sedicii", img = "contributor/sedicii.svg", href="https://sedicii.com/"},
     { name = "Sequence Key", img = "contributor/sequencekey.png", href="http://sequencekey.com/"},
+    { name = "Sequence Key", img = "contributor/wopolli_logo.svg", href="https://www.woplli.com/"},
+    { name = "Sequence Key", img = "contributor/smartframe_logo.svg", href="https://smartframe.io/"},
+    { name = "Sequence Key", img = "contributor/Truefy_logo.svg", href="https://truefi.io/"},
+    { name = "Sequence Key", img = "contributor/PAI_logo.svg", href="https://partnershiponai.org/"},
 ]
 
 [menu]
