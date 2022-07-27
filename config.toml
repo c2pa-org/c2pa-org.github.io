@@ -70,7 +70,7 @@ contributor = [
     { name = "Sequence Key", img = "contributor/sequencekey.png", href="http://sequencekey.com/"},
     { name = "Sequence Key", img = "contributor/wopolli_logo.svg", href="https://www.woplli.com/"},
     { name = "Sequence Key", img = "contributor/smartframe_logo.svg", href="https://smartframe.io/"},
-    { name = "Sequence Key", img = "contributor/Truefy_logo.svg", href="https://truefi.io/"},
+    { name = "Sequence Key", img = "contributor/Truefy_logo.svg", href="https://truefy.ai/"},
     { name = "Sequence Key", img = "contributor/PAI_logo.svg", href="https://partnershiponai.org/"},
 ]
 
