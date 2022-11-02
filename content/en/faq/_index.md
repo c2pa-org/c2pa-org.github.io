@@ -16,7 +16,7 @@ Detecting whether or not digital content is fake is currently impossible at inte
 The C2PA was founded February 2021 by Microsoft and Adobe and includes Arm, BBC, Intel, and Truepic.
 
 ## When will C2PA deliver the technical standard?
-C2PA is targeting 2021 to deliver technical standards for content provenance and authenticity. 
+C2PA delivered version 1.0 of its technical standard for content provenance and authenticity in 2021.  It has since updated that with version 1.1 and then 1.2 in 2022. Work continues to support new file formats, alignment with Generative AI, Live Video & Audio and more.
 
 ## How can we join C2PA?
 To apply, please contact membership@c2pa.org.
