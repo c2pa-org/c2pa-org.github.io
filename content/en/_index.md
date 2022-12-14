@@ -36,7 +36,7 @@ The C2PA held a [major event on January 26, 2022](./jan-2022_event) where policy
 
 ## Specification
 
-The C2PA Specification along with a series of companion documents can be found [here](https://c2pa.org/specifications/specifications/1.1/index.html). That site offers a "Downloads" menu where PDF versions of each of the documents can be obtained.
+The C2PA Specification along with a series of companion documents can be found [here](https://c2pa.org/specifications/specifications/1.2/index.html). That site offers a "Downloads" menu where PDF versions of each of the documents can be obtained.
 
 Feedback on the specification can be provided [here](https://docs.google.com/forms/d/e/1FAIpQLSevOsvZKHIc_4Dljk7IkoW37mcuItUEV3I6hoUZhR2suxRVPg/viewform?usp=sf_link) or directly in our [github issues](https://github.com/c2pa-org/specifications/issues).
 
