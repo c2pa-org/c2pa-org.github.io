@@ -10,11 +10,11 @@ Are you interested in joining C2PA to develop open standards that certify the so
 
 # Steering Committee Members
 
-{{< memberlogos type="steering" class="grid-cols-2 md:grid-cols-3 lg:grid-cols-4 2xl:grid-cols-6" >}}
+{{< memberlogos type="steering" class="grid-cols-2 md:grid-cols-3 lg:grid-cols-6 2xl:grid-cols-3" >}}
 
 # General Members
 
-{{< memberlogos type="general" class="grid-cols-3 md:grid-cols-4 lg:grid-cols-6 2xl:grid-cols-8 gap-4" >}}
+{{< memberlogos type="general" class="grid-cols-3 md:grid-cols-4 lg:grid-cols-5 2xl:grid-cols-8 gap-5" >}}
 
 # Contributor Members
 

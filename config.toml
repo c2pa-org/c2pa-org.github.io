@@ -31,25 +31,29 @@ favicon = "favicon.ico"
 github = "https://github.com/c2pa-org"
 [params.members]
 steering = [
-    { name="Adobe", img = "steering/adobe.svg", href="https://www.adobe.com/" },
-    { name="Arm", img = "steering/arm.svg", href="https://www.arm.com/" },
-    { name="BBC", img = "steering/bbc.svg", href="https://www.bbc.com/" },
-    { name="Intel", img = "steering/intel.svg", href="https://www.intel.com/" },
-    { name="Microsoft", img = "steering/microsoft.svg", href="https://www.microsoft.com/" },
-    { name="Sony", img = "steering/sony.svg", href="https://www.sony.com/" },
-    { name="Truepic", img = "steering/truepic.svg", href="https://truepic.com/" },
-    { name="Twitter", img = "steering/twitter.svg", href="https://twitter.com/" },
+    { name = "Adobe", img = "steering/adobe.svg", href="https://www.adobe.com/" },
+    { name = "BBC", img = "steering/bbc.svg", href="https://www.bbc.com/" },
+    { name = "Intel", img = "steering/intel.svg", href="https://www.intel.com/" },
+    { name = "Microsoft", img = "steering/microsoft.svg", href="https://www.microsoft.com/" },
+    { name = "Sony", img = "steering/sony.svg", href="https://www.sony.com/" },
+    { name = "Truepic", img = "steering/truepic.svg", href="https://truepic.com/" },
 ]
 general = [
+    { name = "Arm", img = "general/arm.svg", href="https://www.arm.com/" },
     { name = "WITNESS", img = "general/witness.svg", href="https://www.witness.org/" },
     { name = "RIAA", img = "general/riaa.svg", href="https://www.riaa.com/" },
-    { name = "Numbers Protocol", img = "general/Numbers_Stacked Block Black.svg", href="https://numbersprotocol.io/" },
+    { name = "Numbers Protocol", img = "general/Numbers_Stacked_Block_Black.svg", href="https://numbersprotocol.io/" },
     { name = "Society Library", img = "general/societylibrary.svg", href="https://www.societylibrary.org/" },
     { name = "Nikon", img = "general/nikon.svg", href="https://nikon.com/" },
     { name = "Identity Technologies", img = "general/Identity_Logo.svg", href="https://www.identity.com/"},
     { name = "ATEME SA", img = "general/ateme.png", href="https://www.ateme.com/"},
+    { name = "FutureWei", img = "general/futurewei_logo_rgb.png", href="https://www.futurewei.com/"},
+    { name = "Digicert", img = "general/DigiCert_Blue_Logo_Large.jpeg", href="https://www.digicert.com/"},
+#    Canon,
+#    Identity Technologies
 ]
 contributor = [
+    { name = "Blockcast", img = "contributor/bc-logo-blue.svg", href="https://blockcast.net/"},
     { name = "CBC", img = "contributor/cbc.svg", href="https://www.cbc.ca/" },
     { name = "CLink", img = "contributor/clink.svg", href="https://clink.media/" },
     { name = "Digimarc", img = "contributor/digimarc.svg", href="https://www.digimarc.com/" },
@@ -65,13 +69,25 @@ contributor = [
     { name = "Fastly", img = "contributor/fastly.svg", href="http://fastify.com/"},
     { name = "SafeCast Limited", img = "contributor/safecast.svg", href="https://safecast.co.uk/"},
     { name = "Metadata Authoring Systems", img = "contributor/is_logo_5sm.png", href="https://imagesnippets.com"},
-    { name = "ISCC Foundation", img = "contributor/serelay.png", href="https://iscc.foundation/"},
+    { name = "Serelay", img = "contributor/serelay.png", href="https://iscc.foundation/"},
     { name = "Sedicii", img = "contributor/sedicii.svg", href="https://sedicii.com/"},
     { name = "Sequence Key", img = "contributor/sequencekey.png", href="http://sequencekey.com/"},
-    { name = "Sequence Key", img = "contributor/wopolli_logo.svg", href="https://www.woplli.com/"},
-    { name = "Sequence Key", img = "contributor/smartframe_logo.svg", href="https://smartframe.io/"},
-    { name = "Sequence Key", img = "contributor/Truefy_logo.svg", href="https://truefy.ai/"},
-    { name = "Sequence Key", img = "contributor/PAI_logo.svg", href="https://partnershiponai.org/"},
+    { name = "Woplli Technologies", img = "contributor/wopolli_logo.svg", href="https://www.woplli.com/"},
+    { name = "SmartFrame", img = "contributor/smartframe_logo.svg", href="https://smartframe.io/"},
+    { name = "Truefy", img = "contributor/Truefy_logo.svg", href="https://truefy.ai/"},
+    { name = "Partnership on AI", img = "contributor/PAI_logo.svg", href="https://partnershiponai.org/"},
+    { name = "Comfact AB", img = "contributor/Comfact_AB.png", href=""},
+    { name = "Deutsche Presse-Agentur", img = "contributor/Dpa_Logo_2021.png", href="https://dpa.com/"},
+    { name = "Medex Forensics", img = "contributor/Medex_Forensics_Logo_2022.png", href="https://medexforensics.com/"},
+    { name = "Metapyxl", img = "contributor/Metapyxl.png", href="https://Metapyxl.com/"},
+#    Bank of America,
+#    Exit Velocity
+#    EZDRM
+#    Insite,
+#    ISCC Foundation,
+#    Journelism.design,
+#    The Daily Edit,
+#    Verisk Analytics,
 ]
 
 [menu]
