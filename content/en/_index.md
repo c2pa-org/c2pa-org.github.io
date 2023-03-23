@@ -2,24 +2,24 @@
 title: "Overview"
 description: "An open technical standard providing publishers, creators, and consumers the ability to trace the origin of different types of media."
 members:
-  - image: /images/logos/steering/adobe.svg
+  - image: /images/logos/hero/adobe.svg
     alt: Adobe
-    height: 128
-  - image: /images/logos/steering/bbc.svg
+    height: 32
+  - image: /images/logos/hero/bbc.svg
     alt: BBC
-    height: 128
-  - image: /images/logos/steering/intel.svg
+    height: 34
+  - image: /images/logos/hero/intel.svg
     alt: Intel
-    height: 128
-  - image: /images/logos/steering/microsoft.png
+    height: 30
+  - image: /images/logos/hero/microsoft.svg
     alt: Microsoft
-    height: 40
-  - image: /images/logos/steering/sony.svg
+    height: 33
+  - image: /images/logos/hero/sony.svg
     alt: Sony
-    height: 40
-  - image: /images/logos/steering/truepic.svg
+    height: 24
+  - image: /images/logos/hero/truepic.svg
     alt: Truepic
-    height: 128
+    height: 44
 ---
 
 The Coalition for Content Provenance and Authenticity (C2PA) addresses the prevalence of misleading information online through the development of technical standards for certifying the source and history (or provenance) of media content. C2PA is a Joint Development Foundation project, formed through an alliance between Adobe, Arm, Intel, Microsoft and Truepic.
