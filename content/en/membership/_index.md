@@ -18,4 +18,4 @@ Are you interested in joining C2PA to develop open standards that certify the so
 
 # Contributor Members
 
-{{< memberlogos type="contributor" class="grid-cols-3 md:grid-cols-4 lg:grid-cols-6 2xl:grid-cols-8 gap-4" >}}
+{{< memberlogos type="contributor" class="grid-cols-3 md:grid-cols-4 lg:grid-cols-6 2xl:grid-cols-8 gap-5" >}}
