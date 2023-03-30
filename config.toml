@@ -83,10 +83,10 @@ contributor = [
     { name = "Journelism.design", img = "contributor/journalism.design.svg", href="https://journalism.design/"},
     { name = "The Daily Edit", img = "contributor/the-daily-edit.svg", href="https://dailyedit.com/"},
     { name = "Verisk Analytics", img = "contributor/veriskanalyticsinc.svg", href="https://verisk.com/"},
-#    Exit Velocity
-#    EzDRM
-#    Insite,
-#    ISCC Foundation,
+    { name = "EZDRM", img = "contributor/ezdrm_logo_trademark.svg", href="https://ezdrm.com/"},
+    { name = "ISCC Foundation", img = "contributor/logo-black-iscc-foundation-transparent-1500.svg", href="https://iscc.codes/"},
+    { name = "Wrapt Inc.", img = "contributor/wrapt_logo.svg", href="https://wrapt.com/"},
+    { name = "Panasonic", img = "contributor/Panasonic_logo_bl_posi_EPS_RGB.svg", href="https://panasonic.com/"},
 ]
 
 [menu]
@@ -108,7 +108,7 @@ weight = 20
 [[menu.main]]
 identifier = "spec"
 title = "Specification"
-url = "https://c2pa.org/specifications/specifications/1.2/index.html"
+url = "https://c2pa.org/specifications/specifications/1.3/index.html"
 weight = 25
 [[menu.main]]
 identifier = "membership"
