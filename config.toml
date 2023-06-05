@@ -36,7 +36,8 @@ steering = [
     { name = "Intel", img = "steering/intel.svg", href="https://www.intel.com/" },
     { name = "Microsoft", img = "steering/microsoft.svg", href="https://www.microsoft.com/" },
     { name = "Sony", img = "steering/sony.svg", href="https://www.sony.com/" },
-    { name = "Truepic", img = "steering/truepic.svg", href="https://truepic.com/" },
+    { name = "Truepic", img = "steering/truepic_logo_new.png", href="https://truepic.com/" },
+    { name = "Publicis Groupe", img = "steering/publicis-groupe.svg", href="https://www.publicisgroupe.com/en/splash-en" },
 ]
 general = [
     { name = "Arm", img = "general/arm.svg", href="https://www.arm.com/" },
@@ -50,6 +51,7 @@ general = [
     { name = "FutureWei", img = "general/futurewei_logo_rgb.png", href="https://www.futurewei.com/"},
     { name = "Digicert", img = "general/DigiCert_Blue_Logo_Large.jpeg", href="https://www.digicert.com/"},
     { name = "Canon", img = "general/canon-inc.svg", href="https://www.canon.com/"},
+    { name = "Keyfactor", img = "general/logo-keyfactor_logo_charcoal.svg", href="https://www.keyfactor.com/"},
 ]
 contributor = [
     { name = "Blockcast", img = "contributor/bc-logo-blue.svg", href="https://blockcast.net/"},
@@ -87,6 +89,8 @@ contributor = [
     { name = "ISCC Foundation", img = "contributor/logo-black-iscc-foundation-transparent-1500.svg", href="https://iscc.codes/"},
     { name = "Wrapt Inc.", img = "contributor/wrapt_logo.svg", href="https://wrapt.com/"},
     { name = "Panasonic", img = "contributor/Panasonic_logo_bl_posi_EPS_RGB.svg", href="https://panasonic.com/"},
+    { name = "Tractiv", img = "contributor/tractiv_new.png", href="https://tractiv.com/"},
+    { name = "PixelStream", img = "contributor/pixelstream.svg", href="https://pixelstream.com/"},
 ]
 
 [menu]
