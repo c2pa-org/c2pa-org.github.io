@@ -14,6 +14,9 @@ members:
   - image: /images/logos/hero/microsoft.svg
     alt: Microsoft
     height: 33
+  - image: /images/logos/hero/publicis-groupe.svg
+    alt: Publicis Groupe
+    height: 60
   - image: /images/logos/hero/sony.svg
     alt: Sony
     height: 24
