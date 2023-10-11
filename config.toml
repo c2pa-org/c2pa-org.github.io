@@ -89,7 +89,7 @@ contributor = [
     { name = "ISCC Foundation", img = "contributor/logo-black-iscc-foundation-transparent-1500.svg", href="https://iscc.codes/"},
     { name = "Wrapt Inc.", img = "contributor/wrapt_logo.svg", href="https://wrapt.com/"},
     { name = "Panasonic", img = "contributor/Panasonic_logo_bl_posi_EPS_RGB.svg", href="https://panasonic.com/"},
-    { name = "Tractiv", img = "contributor/tractiv_new.png", href="https://tractiv.com/"},
+    { name = "Tractiv", img = "contributor/Tractiv_new.png", href="https://tractiv.com/"},
     { name = "PixelStream", img = "contributor/pixelstream.svg", href="https://pixelstream.com/"},
 ]
 
