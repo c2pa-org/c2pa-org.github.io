@@ -52,6 +52,10 @@ general = [
     { name = "Digicert", img = "general/DigiCert_Blue_Logo_Large.jpeg", href="https://www.digicert.com/"},
     { name = "Canon", img = "general/canon-inc.svg", href="https://www.canon.com/"},
     { name = "Keyfactor", img = "general/logo-keyfactor_logo_charcoal.svg", href="https://www.keyfactor.com/"},
+    { name = "NHK", img = "general/NHKlogo.svg", href="https://www3.nhk.or.jp/nhkworld/"},
+    { name = "Amazon Web Services", img = "general/amazon-web-services-inc.svg", href="https://www.amazon.com/"},
+    { name = "Cybertrust Japan", img = "general/cybertrust-logo.svg", href="https://www.cybertrust.co.jp/"},
+    { name = "Leica Camera", img = "general/Leica-logo.svg", href="https://www.leica-camera.com/"},
 ]
 contributor = [
     { name = "Blockcast", img = "contributor/bc-logo-blue.svg", href="https://blockcast.net/"},
@@ -91,6 +95,22 @@ contributor = [
     { name = "Panasonic", img = "contributor/Panasonic_logo_bl_posi_EPS_RGB.svg", href="https://panasonic.com/"},
     { name = "Tractiv", img = "contributor/Tractiv_new.png", href="https://tractiv.com/"},
     { name = "PixelStream", img = "contributor/pixelstream.svg", href="https://pixelstream.com/"},
+    { name = "HAND", img = "contributor/HAND_horizontal_brand_logo.jpg", href="https://handidentity.com/"},
+    { name = "TOPPAN", img = "contributor/toppan_logo_blue_4C.svg", href="https://www.toppan.com/en/"},
+    { name = "Metaphyic", img = "contributor/Metaphysic-logo-main.svg", href="https://metaphysic.ai/"},
+    { name = "StreamRoller", img = "contributor/steamroller-systems.svg", href="https://www.switchchord.com/"},
+    { name = "Universal Music Group", img = "contributor/UMG_LineworkLogo.png", href="https://www.universalmusic.com/"},
+    { name = "Monotype", img = "contributor/Monotype_Imaging_2019_logo.svg", href="https://www.monotype.com/"},
+    { name = "ShutterStock", img = "contributor/sstk_standard_rgb.png", href="https://www.shutterstock.com/"},
+    { name = "Upward Solutions", img = "contributor/UPWARD.png", href="https://usi.digital/"},
+    { name = "Friends of Justin", img = "contributor/friends_of_justin-logo.svg", href="https://www.knowbots.org/"},
+    { name = "Avid Technologies", img = "contributor/AVID-Logo-solid.svg", href="https://www.avid.com/"},
+    { name = "Vaulted Ventures", img = "contributor/VV_Logo_Text_Alpha_17.svg", href="https://vaulted.ventures/"},
+    { name = "SPEARIT", img = "contributor/spearit.svg", href="https://www.spearit.net/"},
+    { name = "Spherity", img = "contributor/Spherity-logo.svg", href="https://www.spherity.com/"},
+    { name = "Verance", img = "contributor/verance.png", href="https://www.verance.com/"},
+    { name = "Imatag", img = "contributor/imatag_primary.svg", href="https://www.imatag.com/"},
+    { name = "Perma.cc", img = "contributor/perma_logo.svg", href="https://www.perma.cc/"},
 ]
 
 [menu]
