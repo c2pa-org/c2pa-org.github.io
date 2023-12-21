@@ -67,3 +67,8 @@ limited to:
 
 -   Ensuring that content accessibility is not negatively impacted by
     digital provenance techniques
+
+
+# Technical Working Group Charter
+
+Our membership agreement, which includes the charter of our Technical Working Group, can be found [here](https://cdn.platform.linuxfoundation.org/agreements/c2pa-fund.pdf).

@@ -19,3 +19,7 @@ Are you interested in joining C2PA to develop open standards that certify the so
 # Contributor Members
 
 {{< memberlogos type="contributor" class="grid-cols-3 md:grid-cols-4 lg:grid-cols-6 2xl:grid-cols-8 gap-5" >}}
+
+# Membership Agreement
+
+Our membership agreement, as provided by the JDF, can be found [here](https://cdn.platform.linuxfoundation.org/agreements/c2pa-fund.pdf).

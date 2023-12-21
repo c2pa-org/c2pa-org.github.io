@@ -111,6 +111,7 @@ contributor = [
     { name = "Verance", img = "contributor/verance.png", href="https://www.verance.com/"},
     { name = "Imatag", img = "contributor/imatag_primary.svg", href="https://www.imatag.com/"},
     { name = "Perma.cc", img = "contributor/perma_logo.svg", href="https://www.perma.cc/"},
+    { name = "Boclips", img = "contributor/BOCLIPS.svg", href="https://www.boclips.com/"},
 ]
 
 [menu]
