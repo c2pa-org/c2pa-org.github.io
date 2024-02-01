@@ -38,6 +38,7 @@ steering = [
     { name = "Sony", img = "steering/sony.svg", href="https://www.sony.com/" },
     { name = "Truepic", img = "steering/truepic_logo_new.png", href="https://truepic.com/" },
     { name = "Publicis Groupe", img = "steering/publicis-groupe.svg", href="https://www.publicisgroupe.com/en/splash-en" },
+    { name = "Google", img = "steering/google.svg", href="https://www.google.com/" },
 ]
 general = [
     { name = "Arm", img = "general/arm.svg", href="https://www.arm.com/" },
@@ -133,7 +134,7 @@ weight = 20
 [[menu.main]]
 identifier = "spec"
 title = "Specification"
-url = "https://c2pa.org/specifications/specifications/1.4/index.html"
+url = "https://c2pa.org/specifications/specifications/2.0/index.html"
 weight = 25
 [[menu.main]]
 identifier = "membership"
