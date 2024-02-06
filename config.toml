@@ -133,7 +133,7 @@ weight = 20
 [[menu.main]]
 identifier = "spec"
 title = "Specification"
-url = "https://c2pa.org/specifications/specifications/1.4/index.html"
+url = "https://c2pa.org/specifications/specifications/2.0/index.html"
 weight = 25
 [[menu.main]]
 identifier = "membership"
