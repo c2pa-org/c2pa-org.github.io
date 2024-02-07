@@ -101,6 +101,28 @@ main {
 .hero-members > a > img {
   @apply transform origin-center scale-65;
 }
+
+@media only screen and (max-width: 548px)  {
+  .hero-members > a > #member-adobe {
+    height:23px !important;  
+  }
+  .hero-members > a > #member-bbc {
+    height:24px !important;  
+  }
+  .hero-members > a > #member-microsoft {
+    height:22px !important;  
+  }
+  .hero-members > a > #member-publicis{
+    height:45px !important;  
+  }
+  .hero-members > a > #member-sony {
+    height:20px !important;  
+  }
+  .hero-members > a > #member-truepic {
+    height:28px !important;  
+  }
+}
+
 @screen md {
   .hero-members > a {
     @apply flex flex-nowrap scale-60 space-x-10;

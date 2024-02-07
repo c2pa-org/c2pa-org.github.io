@@ -56,6 +56,8 @@ general = [
     { name = "Amazon Web Services", img = "general/amazon-web-services-inc.svg", href="https://www.amazon.com/"},
     { name = "Cybertrust Japan", img = "general/cybertrust-logo.svg", href="https://www.cybertrust.co.jp/"},
     { name = "Leica Camera", img = "general/Leica-logo.svg", href="https://www.leica-camera.com/"},
+    { name = "Alteon", img = "general/alteon.svg", href="https://alteon.io/"},
+    { name = "EADTrust", img = "general/eadtrust.svg", href="https://eadtrust.eu/en/"},
 ]
 contributor = [
     { name = "Blockcast", img = "contributor/bc-logo-blue.svg", href="https://blockcast.net/"},
@@ -112,6 +114,12 @@ contributor = [
     { name = "Imatag", img = "contributor/imatag_primary.svg", href="https://www.imatag.com/"},
     { name = "Perma.cc", img = "contributor/perma_logo.svg", href="https://www.perma.cc/"},
     { name = "Boclips", img = "contributor/BOCLIPS.svg", href="https://www.boclips.com/"},
+    { name = "American ChatGPT Certification Association", img = "contributor/american-chatgpt-certification-association.svg", href=""},
+    { name = "Rize Labs", img = "contributor/rize-labs-bannaHQ.svg", href=""},
+    { name = "Dhiway Networks Private Limited", img = "contributor/dhiway-networks-private-limited.svg", href=""},
+    { name = "Overlai", img = "contributor/overlai-llc.svg", href=""},
+    { name = "Nodle", img = "contributor/nodle.svg", href=""},
+    { name = "Cloakit.ai", img = "contributor/cloakai_logo_v3.svg", href=""},
 ]
 
 [menu]

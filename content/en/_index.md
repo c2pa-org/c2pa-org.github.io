@@ -8,9 +8,6 @@ members:
   - image: /images/logos/hero/bbc.svg
     alt: BBC
     height: 34
-  - image: /images/logos/hero/adobe.svg
-    alt: Adobe
-    height: 32
   - image: /images/logos/hero/intel.svg
     alt: Intel
     height: 30
@@ -23,9 +20,9 @@ members:
   - image: /images/logos/hero/sony.svg
     alt: Sony
     height: 24
-  - image: /images/logos/hero/truepic.svg
+  - image: /images/logos/hero/truepic_logo_blue.png
     alt: Truepic
-    height: 44
+    height: 34
 ---
 
 The Coalition for Content Provenance and Authenticity (C2PA) addresses the prevalence of misleading information online through the development of technical standards for certifying the source and history (or provenance) of media content. C2PA is a Joint Development Foundation project, formed through an alliance between Adobe, Arm, Intel, Microsoft and Truepic.
