@@ -8,6 +8,9 @@ members:
   - image: /images/logos/hero/bbc.svg
     alt: BBC
     height: 34
+  - image: /images/logos/hero/google.svg
+    alt: Google
+    height: 30
   - image: /images/logos/hero/intel.svg
     alt: Intel
     height: 30
