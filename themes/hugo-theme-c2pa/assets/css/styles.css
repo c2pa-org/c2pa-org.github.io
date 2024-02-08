@@ -121,6 +121,15 @@ main {
   .hero-members > a > #member-truepic {
     height:28px !important;  
   }
+  .hero-members > a > #member-google {
+    height:65px !important;  
+  }
+}
+
+@media only screen and (max-width:768px){
+  .hero-members {
+    height:135px ;
+  }
 }
 
 @screen md {
