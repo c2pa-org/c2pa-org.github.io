@@ -4,25 +4,28 @@ description: "An open technical standard providing publishers, creators, and con
 members:
   - image: /images/logos/hero/adobe.svg
     alt: Adobe
-    height: 32
+    height: 27
   - image: /images/logos/hero/bbc.svg
     alt: BBC
-    height: 34
+    height: 29
+  - image: /images/logos/hero/Google-Logo.wine.svg
+    alt: Google
+    height: 100
   - image: /images/logos/hero/intel.svg
     alt: Intel
-    height: 30
+    height: 25
   - image: /images/logos/hero/microsoft.svg
     alt: Microsoft
-    height: 33
+    height: 28
   - image: /images/logos/hero/publicis-groupe.svg
     alt: Publicis Groupe
-    height: 60
+    height: 55
   - image: /images/logos/hero/sony.svg
     alt: Sony
-    height: 24
+    height: 19
   - image: /images/logos/hero/truepic_logo_blue.png
     alt: Truepic
-    height: 34
+    height: 29
 ---
 
 The Coalition for Content Provenance and Authenticity (C2PA) addresses the prevalence of misleading information online through the development of technical standards for certifying the source and history (or provenance) of media content. C2PA is a Joint Development Foundation project, formed through an alliance between Adobe, Arm, Intel, Microsoft and Truepic.
