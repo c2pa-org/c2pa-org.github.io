@@ -21,6 +21,27 @@ Additionally, Google’s participation, which also includes YouTube, will help t
 
 “It is more important than ever to have a transparent approach to digital content that empowers people to make decisions,” said Andrew Jenks, C2PA Chair. “The C2PA standards are undoubtedly leading the charge in this endeavor, and we’re thrilled with the growth and adoption. Google’s membership is an important validation for the C2PA’s approach. We encourage others to join us in expanding the use of Content Credentials and contributing to the creation of a safer, more transparent digital ecosystem.”
 
+
+## Additional Supporting Quotes
+
+
+### Dana Rao, Executive Vice President, General Counsel and Chief Trust Officer, Adobe
+
+“In the critical context of this year’s global elections where the threat of misinformation looms larger than ever, the urgency to increase trust in the digital ecosystem has never been more pressing. We are thrilled to welcome Google as the newest steering committee member of the C2PA, marking a pivotal milestone in our collective effort to combat misinformation at scale. Google’s membership will help accelerate adoption of Content Credentials everywhere, from content creation to consumption.” 
+
+### Jatin Aythora, Director of BBC Research & Development
+ 
+“As a founding member of Project Origin and the C2PA we are delighted to welcome Google as members of the C2PA Steering Committee. We believe that helping audiences understand where content has come from and how it has been made will be an increasingly critical part of our news ecosystem. Integrating these standardised signals into our content is an important way to deliver on this goal. We will continue our collaboration with our news, media and technology companies and others in developing this work and look forward to this continuing as we address content authenticity. We are excited that Google’s involvement in this endeavour will help to move this work forward across the media landscape.”
+
+### Eric Horvitz, Chief Scientific Officer, Microsoft
+
+“As a co-founder of the C2PA and a key contributor to the technical underpinnings of media provenance, Microsoft warmly welcomes Google to the C2PA steering committee. We are committed to the collective effort of combating misinformation/disinformation and maintaining the integrity of our news and information ecosystem. Through ongoing collaboration with news, media and technology companies, the C2PA will continue to move this work forward to provide individuals worldwide with reliable tools to verify the origins and authenticity of online content." 
+
+### Jeffrey McGregor, CEO of Truepic
+ 
+“Google joining the C2PA marks a significant moment for content transparency across the internet. Consumers stand to gain significantly from a safer and healthier content ecosystem, given the coalition’s goals of providing end-to-end digital media transparency and Google’s unique footprint across platforms, devices, services, and browsers. We are thrilled to further collaborate with all C2PA members, including Google, on secure mobile implementations of Content Credentials to drive global scale of the specification.” 
+
+
 **About the C2PA**
 
 The Coalition for Content Provenance and Authenticity (C2PA) is an open, technical standards body addressing the prevalence of misleading information online through the development of technical standards for certifying the source and history (or provenance) of digital content. C2PA is a Joint Development Foundation project. For more information, visit c2pa.org and contentcredentials.org.
