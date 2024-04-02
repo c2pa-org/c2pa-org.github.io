@@ -65,7 +65,7 @@ contributor = [
     { name = "Web Commodore", img = "contributor/webcommodore.png", href="https://www.webcommodore.com/"},
     { name = "Akamai", img = "contributor/akamai.png", href="https://www.akamai.com/"},
     { name = "Melcher Systems", img = "contributor/melcher-systems.svg", href="https://melchersystem.com/"},
-    { name = "The New York Times", img = "contributor/new-york-times.png", href="hhttps://www.nytimes.com/"},
+    { name = "The New York Times", img = "contributor/new-york-times.png", href="https://www.nytimes.com/"},
     { name = "Steg AI", img = "contributor/stegai.png", href="https://steg.ai/"},
     { name = "Fastly", img = "contributor/fastly.svg", href="https://www.fastly.com/"},
     { name = "SafeCast Limited", img = "contributor/safecast.svg", href="https://safecast.co.uk/"},
