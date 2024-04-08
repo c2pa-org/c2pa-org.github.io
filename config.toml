@@ -33,7 +33,8 @@ github = "https://github.com/c2pa-org"
 steering = [
     { name = "Adobe", img = "steering/adobe.svg", href="https://www.adobe.com/" },
     { name = "BBC", img = "steering/bbc.svg", href="https://www.bbc.com/" },
-    { name = "Google", img = "steering/Google-Logo.wine.svg", href="https://www.google.com" },    { name = "Intel", img = "steering/intel.svg", href="https://www.intel.com/" },
+    { name = "Google", img = "steering/Google-Logo.wine.svg", href="https://www.google.com" },    
+    { name = "Intel", img = "steering/intel.svg", href="https://www.intel.com/" },
     { name = "Microsoft", img = "steering/microsoft.svg", href="https://www.microsoft.com/" },
     { name = "Sony", img = "steering/sony.svg", href="https://www.sony.com/" },
     { name = "Truepic", img = "steering/truepic_logo_new.png", href="https://truepic.com/" },
