@@ -62,6 +62,7 @@ general = [
     { name = "Polygon", img = "general/polygon_logo_purple.svg" , href="https://polygon.technology"},
     { name = "ProSieben", img = "general/pro-sieben-sat-1-supporter.svg" , href="https://www.prosiebensat1.com"},
     { name = "InfoSys", img = "general/infosys_navigate_logo.svg" , href="https://www.infosys.com"},
+    { name = "Qualcomm", img = "general/qualcomm-logo.png" , href="https://www.qualcomm.com"},
 ]
 contributor = [
     { name = "Blockcast", img = "contributor/bc-logo-blue.svg", href="https://blockcast.net/"},
@@ -152,7 +153,7 @@ contributor = [
     { name = "Rize Labs", img = "contributor/rize-labs-bannaHQ.svg" , href="https://www.bananahq.io"},
     { name = "Savage Media", img = "contributor/Savage_Media.svg" , href="https://savage.app/"},
     { name = "Toothpic", img = "contributor/ToothpicLogo_no_payoff.svg" , href="https://www.toothpic.eu"},
-    { name = "Trufo", img = "contributor/trufo_white_on_black_w_roundcorners" , href="https://trufo.ai"},
+    { name = "Trufo", img = "contributor/trufo_white_on_black_w_roundcorners.svg" , href="https://trufo.ai"},
     { name = "Verifiction", img = "contributor/verifiction-logo.svg" , href="https://verifiction.com"},
     { name = "Virtru", img = "contributor/Virtru_Logo_Blue.svg" , href="https://www.virtru.com"},
     { name = "Weavechain", img = "contributor/Weavechain.svg" , href="https://weavechain.com/"},
