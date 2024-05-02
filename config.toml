@@ -63,7 +63,7 @@ general = [
     { name = "ProSieben", img = "general/pro-sieben-sat-1-supporter.svg" , href="https://www.prosiebensat1.com"},
     { name = "InfoSys", img = "general/infosys_navigate_logo.svg" , href="https://www.infosys.com"},
     { name = "Qualcomm", img = "general/qualcomm-logo.png" , href="https://www.qualcomm.com"},
-    { name = "Overlai LLC", img = "general/OverlaiMainLogo", href="https://www.overlai.app/"},
+    { name = "Overlai LLC", img = "general/OverlaiMainLogo.svg", href="https://www.overlai.app/"},
 ]
 contributor = [
     { name = "Accurati", img = "contributor/accuratius-logo-w-tag.svg", href="https://accurati.us/"},
@@ -71,7 +71,6 @@ contributor = [
     { name = "Akamai", img = "contributor/akamai.png", href="https://www.akamai.com/"},
     { name = "Amazon Web Servcies", img = "contributor/amazon-web-services-inc.svg", href="https://aws.amazon.com"},
     { name = "American ChatGPT Cerification Association", img = "contributor/american-chatgpt-certification-association.svg", href="https://test-chatgpt.com"},
-    { name = "American ChatGPT Certification Association", img = "contributor/american-chatgpt-certification-association.svg", href=""},
     { name = "Avid Technologies", img = "contributor/AVID-Logo-solid.svg", href="https://www.avid.com/"},
     { name = "Bank of America", img = "contributor/Bank-of-America-logo.svg", href="https://www.bankofamerica.com/"},
     { name = "Blockcast", img = "contributor/bc-logo-blue.svg", href="https://blockcast.net/"},
@@ -124,7 +123,6 @@ contributor = [
     { name = "Quibee", img = "contributor/Quibee_verticale.svg", href="https://www.quibee.it"},
     { name = "Ravnur", img = "contributor/ravnur.svg", href="https://www.ravnur.com/"},
     { name = "Rize Labs", img = "contributor/rize-labs-bannaHQ.svg", href="https://www.bananahq.io"},
-    { name = "Rize Labs", img = "contributor/rize-labs-bannaHQ.svg", href=""},
     { name = "SafeCast Limited", img = "contributor/safecast.svg", href="https://safecast.co.uk/"},
     { name = "Savage Media", img = "contributor/Savage_Media.svg", href="https://savage.app/"},
     { name = "Sedicii", img = "contributor/sedicii.svg", href="https://sedicii.com/"},
