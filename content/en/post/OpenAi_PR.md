@@ -2,7 +2,7 @@
 date: 2024-05-07T6:00:00.00Z
 description: "OpenAI Joins C2PA Steering Committee"
 title: "OpenAI Joins C2PA Steering Committee"
-summary: "OpenAI joins C2PA to help increase transparency and rebuild trust in the digital ecosystem"
+summary: "**SAN FRANCISCO, Calif. --- May 07, 2024 ---** Today, the Coalition for Content Provenance and Authenticity (C2PA) announced that OpenAI, a leader in artificial intelligence research and deployment, has joined the C2PA as a steering committee member. This marks a significant milestone for the C2PA and will help advance the coalition’s mission to increase transparency around digital media as AI-generated content becomes more prevalent."
 ---
 
 ## OpenAI Joins C2PA Steering Committee
