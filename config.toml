@@ -65,7 +65,6 @@ general = [
     { name = "InfoSys", img = "general/infosys_navigate_logo.svg" , href="https://www.infosys.com"},
     { name = "Qualcomm", img = "general/qualcomm-logo.png" , href="https://www.qualcomm.com"},
     { name = "Overlai LLC", img = "general/OverlaiMainLogo.svg", href="https://www.overlai.app/"},
-    { name = "TikTok Inc. ", img = "general/TikTok-logo-CMYK-Horizontal-Black-Simplified.svg", href="https://www.tiktok.com"},
 ]
 contributor = [
     { name = "Accurati", img = "contributor/accuratius-logo-w-tag.svg", href="https://accurati.us/"},
