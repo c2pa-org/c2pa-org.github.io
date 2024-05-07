@@ -25,7 +25,7 @@ OpenAI’s membership and implementation of Content Credentials serves as a stro
 
 **About the C2PA**
 
-The Coalition for Content Provenance and Authenticity (C2PA) is an open, technical standards body addressing the prevalence of misleading information online through the development of technical standards for certifying the source and history (or provenance) of digital content. C2PA is a Joint Development Foundation project. For more information, visit c2pa.org and contentcredentials.org.
+The Coalition for Content Provenance and Authenticity (C2PA) is an open, technical standards body addressing the prevalence of misleading information online through the development of technical standards for certifying the source and history (or provenance) of digital content. C2PA is a Joint Development Foundation project. For more information, visit [(c2pa.org](https://c2pa.org/)) and ([contentcredentials.org](https://contentcredentials.org/)).
 
 **About OpenAI** 
 
