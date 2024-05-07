@@ -6,7 +6,16 @@
     <description>Recent content in Overview on C2PA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Feb 2024 16:10:52 +0530</lastBuildDate><atom:link href="https://c2pa.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 May 2024 06:00:00 +0000</lastBuildDate><atom:link href="https://c2pa.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI Joins C2PA Steering Committee</title>
+      <link>https://c2pa.org/post/openai_pr/</link>
+      <pubDate>Tue, 07 May 2024 06:00:00 +0000</pubDate>
+      
+      <guid>https://c2pa.org/post/openai_pr/</guid>
+      <description>&lt;strong&gt;SAN FRANCISCO, Calif. &amp;mdash; May 07, 2024 &amp;mdash;&lt;/strong&gt; Today, the Coalition for Content Provenance and Authenticity (C2PA) announced that OpenAI, a leader in artificial intelligence research and deployment, has joined the C2PA as a steering committee member. This marks a significant milestone for the C2PA and will help advance the coalition’s mission to increase transparency around digital media as AI-generated content becomes more prevalent.</description>
+    </item>
+    
     <item>
       <title>Google to join C2PA to help increase transparency around digital content</title>
       <link>https://c2pa.org/post/google_pr/</link>
@@ -114,15 +123,6 @@
       <guid>https://c2pa.org/jan-2022_event/</guid>
       <description>Digital Content Provenance: Possibilities &amp;amp; opportunities for the future of the internet in the deepfake and disinformation era Join us for the release and demonstration of the 1.0 version of the end-to-end open technical standard for certifying the source and history of media content. Policymakers, academics and industry leaders will discuss the future of responsible digital media creation, publication and sharing.
 Agenda    Topic Speaker(s)     Welcome and Introduction to the C2PA Dr.</description>
-    </item>
-    
-    <item>
-      <title>OpenAI Joins C2PA Steering Committee</title>
-      <link>https://c2pa.org/post/openai_pr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://c2pa.org/post/openai_pr/</guid>
-      <description>OpenAI joins C2PA to help increase transparency and rebuild trust in the digital ecosystem</description>
     </item>
     
   </channel>
