@@ -1,5 +1,5 @@
 ---
-date: 2024-05-07 06:00 AM
+date: 2024-05-07T6:00:00.00Z
 description: "OpenAI Joins C2PA Steering Committee"
 title: "OpenAI Joins C2PA Steering Committee"
 summary: "OpenAI joins C2PA to help increase transparency and rebuild trust in the digital ecosystem"
