@@ -115,6 +115,7 @@ contributor = [
     { name = "Nodle", img = "contributor/nodle.svg", href="https://nodle.com/"},
     { name = "Noosphere Technologies", img = "contributor/noosphere-technologies-logo.svg", href="https://www.noosphere.tech"},
     { name = "Omnicom", img = "contributor/omnicom-group-inc.svg", href="https://omnicomgroup.com/"},
+    { name = "Ortana Media Group", img = "contributor/ortana-media-group.svg", href="https://www.ortana.tv"},
     { name = "Panasonic", img = "contributor/Panasonic_logo_bl_posi_EPS_RGB.svg", href="https://panasonic.com/"},
     { name = "Partnership on AI", img = "contributor/PAI_logo.svg", href="https://partnershiponai.org/"},
     { name = "Perma.cc", img = "contributor/perma_logo.svg", href="https://www.perma.cc/"},
