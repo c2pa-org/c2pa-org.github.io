@@ -80,7 +80,7 @@ contributor = [
     { name = "Boclips", img = "contributor/BOCLIPS.svg", href="https://www.boclips.com/"},
     { name = "Brask", img = "contributor/brask-inc.svg", href="https://www.brask.ai"},
     { name = "Campaign Verify", img = "contributor/Campaign_Verify.svg", href="https://www.campaignverify.org"},
-    { name = "Cantina", img = "contributor/Cantina-Wordmark-Teal.svg", href="https://www.cantina.ai"},
+    { name = "Cantina", img = "contributor/Cantina_Logo_Wordmark_stack.svg", href="https://www.cantina.com"},
     { name = "CBC", img = "contributor/cbc.svg", href="https://www.cbc.ca/" },
     { name = "CLink", img = "contributor/clink.svg", href="https://clink.media/" },
     { name = "CloakAI", img = "contributor/Cloakai-FullSizeRender-PhotoRoom.svg", href="https://cloakit.ai"},
