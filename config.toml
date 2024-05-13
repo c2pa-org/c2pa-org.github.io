@@ -93,7 +93,7 @@ contributor = [
     { name = "Fastly", img = "contributor/fastly.svg", href="https://www.fastly.com/"},
     { name = "Fincons Group", img = "contributor/logo_fincons.svg", href="https://www.finconsgroup.com/industries/media/"},
     { name = "FRANCEtv", img = "contributor/France.tv_Logo.svg", href="https://www.francetvlab.fr/en" },
-    { name = "Fraunhofer", img = "contributor/Fraunhofer.png", href="https://fokus.fraunhofer.de/"},
+    { name = "Fraunhofer", img = "contributor/Fraunhofer.png", href="https://www.fokus.fraunhofer.de/"},
     { name = "Friends of Justin", img = "contributor/friends_of_justin-logo.png", href="https://friendsofjustin.knowbots.org"},
     { name = "Gearbrain", img = "contributor/Gearbrain_logo.jpg", href="https://www.gearbrain.com"},
     { name = "GiNi", img = "contributor/GiNi.Tech_Logo.svg", href="https://giniinc.tech"},
