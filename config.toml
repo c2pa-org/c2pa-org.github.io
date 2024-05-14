@@ -79,7 +79,7 @@ contributor = [
     { name = "BlockChain Commons", img = "contributor/blockchain-commons-llc.svg", href="https://www.blockchaincommons.com/home/"},
     { name = "Boclips", img = "contributor/BOCLIPS.svg", href="https://www.boclips.com/"},
     { name = "Brask", img = "contributor/brask-inc.svg", href="https://www.brask.ai"},
-    { name = "Campaign Verify", img = "contributor/Campaign_Verify.svg", href="https://www.campaignverify.org"},
+    { name = "Campaign Verify", img = "contributor/CV_logo_horizontal.png", href="https://www.campaignverify.org"},
     { name = "Cantina", img = "contributor/Cantina_Logo_Wordmark_stack.svg", href="https://www.cantina.com"},
     { name = "CBC", img = "contributor/cbc.svg", href="https://www.cbc.ca/" },
     { name = "CLink", img = "contributor/clink.svg", href="https://clink.media/" },
