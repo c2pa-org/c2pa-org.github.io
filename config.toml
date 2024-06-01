@@ -66,6 +66,9 @@ general = [
     { name = "Qualcomm", img = "general/qualcomm-logo.png" , href="https://www.qualcomm.com"},
     { name = "Overlai LLC", img = "general/OverlaiMainLogo.svg", href="https://www.overlai.app/"},
     { name = "TikTok Inc.", img = "general/TikTok-logo-CMYK-Horizontal-Black-Simplified.svg", href="https://www.tiktok.com"},
+    { name = "Fujifilm Corporation", img = "general/fujifilm_basic_il.svg", href="https://global.fujifilm.com/en/"},
+    { name = "Eleven Labs", img = "general/ElevenLabsLogo.svg", href="http://www.elevenlabs.io/"},
+    { name = "WDR", img = "general/WDR_Dachmarke.svg", href="https://www1.wdr.de/index.html"},
 ]
 contributor = [
     { name = "Accurati", img = "contributor/accuratius-logo-w-tag.svg", href="https://accurati.us/"},
@@ -159,6 +162,9 @@ contributor = [
     { name = "Woplli Technologies", img = "contributor/wopolli_logo.svg", href="https://www.woplli.com/"},
     { name = "Wrapt Inc.", img = "contributor/wrapt_logo.svg", href="https://wrapt.com/"},
     { name = "ZRImages", img = "contributor/ZRIMAGESlogo.svg", href="https://www.zrimages.com/index"},
+    { name = "Conversion Videos, Inc.", img = "contributor/convi.svg", href="https://www.convi.io/"},
+    { name = "Hubbub World", img = "contributor/hubbub.svg", href="https://www.hubbubworld.com"},
+    { name = "cheqd", img = "contributor/cheqd-Logo-Vertical-Orange_Black.svg", href="https://cheqd.io"},
 ]
 
 [menu]
