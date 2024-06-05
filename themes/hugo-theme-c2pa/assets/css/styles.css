@@ -92,11 +92,11 @@ main {
 
 .hero-members {
   @apply rounded-sm mb-5 flex items-center justify-center bg-white;
-  height: 85px;
+  height: 185px;
   box-shadow: 0 5px 20px 0 rgba(85, 106, 150, 0.18);
 }
 .hero-members > a {
-  @apply flex flex-wrap items-center justify-center transform origin-center -space-x-2;
+  @apply flex flex-wrap items-center justify-start transform origin-center -space-x-2;
 }
 .hero-members > a > img {
   @apply transform origin-center scale-65;
@@ -134,7 +134,7 @@ main {
 
 @screen md {
   .hero-members > a {
-    @apply flex flex-wrap justify-around scale-60 space-x-10;
+    @apply flex flex-wrap justify-start scale-60 space-x-10;
   }
   .hero-members > a > img {
     @apply scale-100;
