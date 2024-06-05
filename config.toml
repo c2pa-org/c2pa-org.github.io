@@ -58,7 +58,6 @@ general = [
     { name = "Amazon Web Services", img = "general/amazon-web-services-inc.svg", href="https://www.amazon.com/"},
     { name = "Cybertrust Japan", img = "general/cybertrust-logo.svg", href="https://www.cybertrust.co.jp/"},
     { name = "Leica Camera", img = "general/Leica-logo.svg", href="https://www.leica-camera.com/"},
-    { name = "Alteon", img = "general/alteon.svg", href="https://alteon.io/"},
     { name = "EADTrust", img = "general/eadtrust.svg", href="https://eadtrust.eu/en/"},
     { name = "Polygon", img = "general/polygon_logo_purple.svg" , href="https://polygon.technology"},
     { name = "ProSieben", img = "general/pro-sieben-sat-1-supporter.svg" , href="https://www.prosiebensat1.com"},
@@ -165,6 +164,9 @@ contributor = [
     { name = "Conversion Videos, Inc.", img = "contributor/convi.svg", href="https://www.convi.io/"},
     { name = "Hubbub World", img = "contributor/hubbub.svg", href="https://www.hubbubworld.com"},
     { name = "cheqd", img = "contributor/cheqd-Logo-Vertical-Orange_Black.svg", href="https://cheqd.io"},
+    { name = "Authenpiq", img = "contributor/AuthenPiQLogo.svg", href="https://authenpiq.com/en/"},
+    { name = "TRSCRT", img = "contributor/tsrct-logo-circle-white.svg", href="https://tsrct.io"},
+    { name = "Alteon", img = "contributor/alteon.svg", href="https://alteon.io/"},
 ]
 
 [menu]
