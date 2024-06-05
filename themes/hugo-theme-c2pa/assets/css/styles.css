@@ -128,13 +128,13 @@ main {
 
 @media only screen and (max-width:768px){
   .hero-members {
-    height:135px ;
+    height:235px ;
   }
 }
 
 @screen md {
   .hero-members > a {
-    @apply flex flex-wrap justify-center scale-60 space-x-10;
+    @apply flex flex-wrap justify-around scale-60 space-x-10;
   }
   .hero-members > a > img {
     @apply scale-100;
@@ -147,6 +147,6 @@ main {
 }
 @screen xl {
   .hero-members > a {
-    @apply justify-center w-full scale-95 space-x-11;
+    @apply justify-around w-full scale-95 space-x-11;
   }
 }
