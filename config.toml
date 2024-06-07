@@ -67,7 +67,7 @@ general = [
     { name = "TikTok Inc.", img = "general/TikTok-logo-CMYK-Horizontal-Black-Simplified.svg", href="https://www.tiktok.com"},
     { name = "Fujifilm Corporation", img = "general/fujifilm_basic_il.svg", href="https://global.fujifilm.com/en/"},
     { name = "WDR", img = "general/WDR_Dachmarke.svg", href="https://www1.wdr.de/index.html"},
-    { name = "Eleven Labs", img = "general/ElevenLabsLogo.svg", href="http://www.elevenlabs.io/"},
+    { name = "Eleven Labs", img = "general/Eleven_Labs.svg", href="http://www.elevenlabs.io/"},
 ]
 contributor = [
     { name = "Accurati", img = "contributor/accuratius-logo-w-tag.svg", href="https://accurati.us/"},
@@ -169,9 +169,9 @@ contributor = [
     { name = "Alteon", img = "contributor/alteon.svg", href="https://alteon.io/"},
     { name = "G&L Digital Media Engineering", img = "contributor/gl-logo.svg", href="https://www.gl-systemhaus.de/en/"},
     { name = "Liccium", img = "contributor/Licciumhorizontal.svg", href="https://liccium.com"},
-    { name = "QueryVision", img = "contributor/QueryVision.png", href="http://queryvision.com"},
+    { name = "QueryVision", img = "contributor/queryvision.png", href="http://queryvision.com"},
     { name = "Animechain", img = "contributor/animechain.svg", href="https://animechain.ai"},
-    { name = "Warner Brothers Discovery", img = "contributor/wbd.png", href="https://wbd.com"},
+    { name = "Warner Brothers Discovery", img = "contributor/WBD.png", href="https://wbd.com"},
     { name = "The Creative", img = "contributor/creativeArtboard1.svg", href="https://creativeplatform.xyz/"},
 ]
 
