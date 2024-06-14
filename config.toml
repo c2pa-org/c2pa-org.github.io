@@ -173,6 +173,11 @@ contributor = [
     { name = "Animechain", img = "contributor/animechain.svg", href="https://animechain.ai"},
     { name = "Warner Brothers Discovery", img = "contributor/WBD.png", href="https://wbd.com"},
     { name = "The Creative", img = "contributor/creativeArtboard1.svg", href="https://creativeplatform.xyz/"},
+    { name = "Certificall", img = "contributor/Certificall_logo_noir_rvb.svg", href="https://certificall.app/"},
+    { name = "Electronic Arts", img = "contributor/EA_Medallion_Black_CMYK.svg", href="https://www.ea.com/"},
+    { name = "Scenes", img = "contributor/scenes.svg", href="https://scenes.dk/"},
+    { name = "Digital Governance Institute", img = "contributor/DGILetterheadWhite.svg", href="https://digitalgovernanceinstitute.com/"},
+    { name = "Witness", img = "contributor/witness-lockup-horizontal-black.svg", href="https://witness.co"},
 ]
 
 [menu]
