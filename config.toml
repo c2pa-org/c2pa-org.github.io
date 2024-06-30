@@ -183,6 +183,7 @@ contributor = [
     { name = "Metabroadcast", img = "contributor/MetaBroadcast_Horizontal_Fullcolour_rgb.svg", href="https://metabroadcast.com/"},
     { name = "CNA", img = "contributor/CNAlogo.svg", href="https://www.channelnewsasia.com/international"},
     { name = "Imagist", img = "contributor/imagist.svg", href="https://imagist.app"},
+    { name = "Nablas", img = "contributor/nablas_logo_horizontal-svg.svg", href="https://www.nablas.com/"},
 ]
 
 [menu]
