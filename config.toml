@@ -187,7 +187,7 @@ contributor = [
     { name = "Naver Inc", img = "contributor/Logotype_Green.svg", href="https://navercorp.com"},
     { name = "Glisco Internet Services", img = "contributor/glisco-internet-services.svg", href="https://glisco.de"},
     { name = "HeyGen", img = "contributor/heygen_logo_v.svg", href="https://www.heygen.com"},
-    { name = "Zoloz Inc. ", img = "contributor/zoloz.svg", href="zoloz.com"},
+    { name = "Zoloz Inc. ", img = "contributor/Zoloz.svg", href="zoloz.com"},
 ]
 
 [menu]
