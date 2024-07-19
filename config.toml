@@ -196,6 +196,10 @@ contributor = [
     { name = "TrustNXT", img = "contributor/TrustNXT.svg", href="https://trustnxt.com/"},
     { name = "Dai Nippon Printing Co., Ltd.", img = "contributor/DaiNippon.svg", href="https://www.global.dnp"},
     { name = "Financial Times", img = "contributor/FT.svg", href="https://www.ft.com"},
+    { name = "Data Transfer Initiative", img = "contributor/DataTransfer.svg", href="https://dtinit.org"},
+    { name = "Polygraph, Inc", img = "contributor/PolygrafLogo.svg", href="https://polygraf.ai/"},
+    { name = "b<>com", img = "contributor/bcom.svg", href="https://b-com.com/"},
+    { name = "Durer AI", img = "contributor/durer.svg", href="https://exactly.ai"},
 ]
 
 [menu]
