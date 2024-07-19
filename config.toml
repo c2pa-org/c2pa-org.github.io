@@ -193,6 +193,7 @@ contributor = [
     { name = "NCC Group", img = "contributor/NCCLogo.svg", href="https://www.nccgroup.com/"},
     { name = "Welcome to the Arkage", img = "contributor/Arkage.svg", href="https://welcometothearkage.com"},
     { name = "Eluvio Inc", img = "contributor/Eluvio.svg", href="https://eluv.io"},
+    { name = "Naxa, Inc", img = "contributor/Naxa.svg", href="https://www.naxa.co.jp"},
     { name = "TrustNXT", img = "contributor/TrustNXT.svg", href="https://trustnxt.com/"},
     { name = "Dai Nippon Printing Co., Ltd.", img = "contributor/DaiNippon.svg", href="https://www.global.dnp"},
     { name = "Financial Times", img = "contributor/FT.svg", href="https://www.ft.com"},
