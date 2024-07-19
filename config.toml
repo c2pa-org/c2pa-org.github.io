@@ -68,6 +68,7 @@ general = [
     { name = "Fujifilm Corporation", img = "general/fujifilm_basic_il.svg", href="https://global.fujifilm.com/en/"},
     { name = "WDR", img = "general/WDR_Dachmarke.svg", href="https://www1.wdr.de/index.html"},
     { name = "Eleven Labs", img = "general/Eleven_Labs.svg", href="http://www.elevenlabs.io/"},
+    { name = "Vivendi", img = "general/Vivendi.svg", href="https://www.vivendi.com/en/"},
 ]
 contributor = [
     { name = "Accurati", img = "contributor/accuratius-logo-w-tag.svg", href="https://accurati.us/"},
@@ -188,6 +189,13 @@ contributor = [
     { name = "Glisco Internet Services", img = "contributor/glisco-internet-services.svg", href="https://glisco.de"},
     { name = "HeyGen", img = "contributor/heygen_logo_v.svg", href="https://www.heygen.com"},
     { name = "Zoloz Inc. ", img = "contributor/Zoloz.svg", href="zoloz.com"},
+    { name = "Audio Futures", img = "contributor/AudioFuturesLogo.svg", href="https://360ra.com"},
+    { name = "NCC Group", img = "contributor/NCCLogo.svg", href="https://www.nccgroup.com/"},
+    { name = "Welcome to the Arkage", img = "contributor/Arkage.svg", href="https://welcometothearkage.com"},
+    { name = "Eluvio Inc", img = "contributor/Eluvio.svg", href="https://eluv.io"},
+    { name = "TrustNXT", img = "contributor/TrustNXT.svg", href="https://trustnxt.com/"},
+    { name = "Dai Nippon Printing Co., Ltd.", img = "contributor/DaiNippon.svg", href="https://www.global.dnp"},
+    { name = "Financial Times", img = "contributor/FT.svg", href="https://www.ft.com"},
 ]
 
 [menu]
