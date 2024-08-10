@@ -69,6 +69,8 @@ general = [
     { name = "WDR", img = "general/WDR_Dachmarke.svg", href="https://www1.wdr.de/index.html"},
     { name = "Eleven Labs", img = "general/Eleven_Labs.svg", href="http://www.elevenlabs.io/"},
     { name = "Vivendi", img = "general/Vivendi.svg", href="https://www.vivendi.com/en/"},
+    { name = "NAGRA", img = "general/NAGRA.svg", href="https://dtv.nagra.com/"},
+    { name = "Reality Defender", img = "general/RealityDefender.svg", href="https://www.realitydefender.com"},
 ]
 contributor = [
     { name = "Accurati", img = "contributor/accuratius-logo-w-tag.svg", href="https://accurati.us/"},
@@ -201,6 +203,12 @@ contributor = [
     { name = "Polygraph, Inc", img = "contributor/PolygrafLogo.svg", href="https://polygraf.ai/"},
     { name = "b<>com", img = "contributor/bcom.svg", href="https://b-com.com/"},
     { name = "Durer AI", img = "contributor/durer.svg", href="https://exactly.ai"},
+    { name = "Hello8", img = "contributor/Hello8.svg", href="http://www.hello8.ai/"},
+    { name = "Chesapeake Systems", img = "contributor/CHESA.svg", href="https://chesa.com/"},
+    { name = "Bitmovin Inc. ", img = "contributor/bitmovin-logo.svg", href="https://bitmovin.com/"},
+    { name = "DHTA (Please Remove Quibee) ", img = "contributor/DHTA_logo.svg", href="https://www.dht.agency"},
+    { name = "AI-Spy LLC", img = "contributor/aispy.svg", href="https://www.ai-spy.xyz"},
+    { name = "ORS Group", img = "contributor/ORS.svg", href="https://www.ors.at"},
 ]
 
 [menu]
