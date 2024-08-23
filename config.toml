@@ -210,6 +210,7 @@ contributor = [
     { name = "AI-Spy LLC", img = "contributor/aispy.svg", href="https://www.ai-spy.xyz"},
     { name = "ORS Group", img = "contributor/ORS.svg", href="https://www.ors.at"},
     { name = "EQTY Labs", img = "contributor/eqty.svg", href="https://www.eqtylab.io"},
+    { name = "Future Media Concepts", img = "contributor/FMC.svg", href="https://www.fmctraining.com"},
 ]
 
 [menu]
