@@ -71,6 +71,7 @@ general = [
     { name = "Vivendi", img = "general/Vivendi.svg", href="https://www.vivendi.com/en/"},
     { name = "NAGRA", img = "general/NAGRA.svg", href="https://dtv.nagra.com/"},
     { name = "Reality Defender", img = "general/RealityDefender.svg", href="https://www.realitydefender.com"},
+    { name = "Getty Images ", img = "general/GI_logo_black.svg", href="https://gettyimages.com/"},
 ]
 contributor = [
     { name = "Accurati", img = "contributor/accuratius-logo-w-tag.svg", href="https://accurati.us/"},
@@ -211,6 +212,7 @@ contributor = [
     { name = "ORS Group", img = "contributor/ORS.svg", href="https://www.ors.at"},
     { name = "EQTY Labs", img = "contributor/eqty.svg", href="https://www.eqtylab.io"},
     { name = "Future Media Concepts", img = "contributor/FMC.svg", href="https://www.fmctraining.com"},
+    { name = "Long Tailed Leopard", img = "contributor/LTL.svg", href="https://blog.longtailedleopard.com"},
 ]
 
 [menu]
