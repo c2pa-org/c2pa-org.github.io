@@ -40,6 +40,7 @@ steering = [
     { name = "Truepic", img = "steering/truepic_logo_new.png", href="https://truepic.com/" },
     { name = "Publicis Groupe", img = "steering/publicis-groupe.svg", href="https://www.publicisgroupe.com/en/splash-en" },
     { name = "OpenAI Inc", img = "steering/openai-lockup.svg", href="https://openai.com"},
+    { name = "Meta Platforms, Inc", img = "steering/Meta.svg", href="https://meta.com/"},
 ]
 general = [
     { name = "Arm", img = "general/arm.svg", href="https://www.arm.com/" },
