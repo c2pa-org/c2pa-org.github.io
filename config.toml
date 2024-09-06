@@ -214,6 +214,9 @@ contributor = [
     { name = "EQTY Labs", img = "contributor/eqty.svg", href="https://www.eqtylab.io"},
     { name = "Future Media Concepts", img = "contributor/FMC.svg", href="https://www.fmctraining.com"},
     { name = "Long Tailed Leopard", img = "contributor/LTL.svg", href="https://blog.longtailedleopard.com"},
+    { name = "Haywirez Inc", img = "contributor/Haywirez.svg", href="https://haywirez.audio/"},
+    { name = "LiveU", img = "contributor/LiveU.svg", href="https://liveu.tv/"},
+    { name = "Furia Consulting", img = "contributor/Furia.svg", href="https://furiaconsulting.com/"},
 ]
 
 [menu]
