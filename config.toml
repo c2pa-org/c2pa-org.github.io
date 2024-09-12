@@ -41,6 +41,7 @@ steering = [
     { name = "Publicis Groupe", img = "steering/publicis-groupe.svg", href="https://www.publicisgroupe.com/en/splash-en" },
     { name = "OpenAI Inc", img = "steering/openai-lockup.svg", href="https://openai.com"},
     { name = "Meta Platforms, Inc", img = "steering/Meta.svg", href="https://meta.com/"},
+    { name = "Amazon", img = "steering/Amazon.svg", href="www.amazon.com"},
 ]
 general = [
     { name = "Arm", img = "general/arm.svg", href="https://www.arm.com/" },
@@ -56,7 +57,6 @@ general = [
     { name = "Canon", img = "general/canon-inc.svg", href="https://www.canon.com/"},
     { name = "Keyfactor", img = "general/logo-keyfactor_logo_charcoal.svg", href="https://www.keyfactor.com/"},
     { name = "NHK", img = "general/NHKlogo.svg", href="https://www3.nhk.or.jp/nhkworld/"},
-    { name = "Amazon Web Services", img = "general/amazon-web-services-inc.svg", href="https://www.amazon.com/"},
     { name = "Cybertrust Japan", img = "general/cybertrust-logo.svg", href="https://www.cybertrust.co.jp/"},
     { name = "Leica Camera", img = "general/Leica-logo.svg", href="https://www.leica-camera.com/"},
     { name = "EADTrust", img = "general/eadtrust.svg", href="https://eadtrust.eu/en/"},
@@ -78,7 +78,6 @@ contributor = [
     { name = "Accurati", img = "contributor/accuratius-logo-w-tag.svg", href="https://accurati.us/"},
     { name = "Adnkronos", img = "contributor/logo-adnkronos.svg", href="https://www.adnkronos.com"},
     { name = "Akamai", img = "contributor/akamai.png", href="https://www.akamai.com/"},
-    { name = "Amazon Web Servcies", img = "contributor/amazon-web-services-inc.svg", href="https://aws.amazon.com"},
     { name = "American ChatGPT Cerification Association", img = "contributor/american-chatgpt-certification-association.svg", href="https://test-chatgpt.com"},
     { name = "Avid Technologies", img = "contributor/AVID-Logo-solid.svg", href="https://www.avid.com/"},
     { name = "Bank of America", img = "contributor/Bank-of-America-logo.svg", href="https://www.bankofamerica.com/"},
