@@ -217,6 +217,7 @@ contributor = [
     { name = "LiveU", img = "contributor/LiveU.svg", href="https://liveu.tv/"},
     { name = "Furia Consulting", img = "contributor/Furia.svg", href="https://furiaconsulting.com/"},
     { name = "castLabs", img = "contributor/castlabs.svg", href="https://castlabs.com/"},
+    { name = "Hkdolts", img = "contributor/HKdolts.svg", href="http://www.hkdolts.com/"},
 ]
 
 [menu]
