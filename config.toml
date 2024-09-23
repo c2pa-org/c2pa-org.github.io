@@ -73,6 +73,7 @@ general = [
     { name = "NAGRA", img = "general/NAGRA.svg", href="https://dtv.nagra.com/"},
     { name = "Reality Defender", img = "general/RealityDefender.svg", href="https://www.realitydefender.com"},
     { name = "Getty Images ", img = "general/GI_logo_black.svg", href="https://gettyimages.com/"},
+    { name = "Proof", img = "general/Proof.svg", href="https://proof.com/"},
 ]
 contributor = [
     { name = "Accurati", img = "contributor/accuratius-logo-w-tag.svg", href="https://accurati.us/"},
@@ -218,6 +219,8 @@ contributor = [
     { name = "Furia Consulting", img = "contributor/Furia.svg", href="https://furiaconsulting.com/"},
     { name = "castLabs", img = "contributor/castlabs.svg", href="https://castlabs.com/"},
     { name = "Hkdolts", img = "contributor/HKdolts.svg", href="http://www.hkdolts.com/"},
+    { name = "Veritone", img = "contributor/veritone.svg", href="https://veritone.com/"},
+    { name = "Nick Didlick Consulting ", img = "contributor/nickdidlickconsulting.svg", href="https://nickdidlick.com/"},
 ]
 
 [menu]
