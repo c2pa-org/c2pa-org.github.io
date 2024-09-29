@@ -221,6 +221,8 @@ contributor = [
     { name = "Hkdolts", img = "contributor/HKdolts.svg", href="http://www.hkdolts.com/"},
     { name = "Veritone", img = "contributor/veritone.svg", href="https://veritone.com/"},
     { name = "Nick Didlick Consulting ", img = "contributor/nickdidlickconsulting.svg", href="https://nickdidlick.com/"},
+    { name = "OriginTrail", img = "contributor/origintrail.svg", href="https://origintrail.io/"},
+    { name = "CaptureOne", img = "contributor/captureone.svg", href="https://www.captureone.com/"},
 ]
 
 [menu]
