@@ -223,6 +223,8 @@ contributor = [
     { name = "Nick Didlick Consulting ", img = "contributor/nickdidlickconsulting.svg", href="https://nickdidlick.com/"},
     { name = "OriginTrail", img = "contributor/origintrail.svg", href="https://origintrail.io/"},
     { name = "CaptureOne", img = "contributor/captureone.svg", href="https://www.captureone.com/"},
+    { name = "Kebula", img = "contributor/kebula.svg", href="kebula.it"},
+    { name = "Upgrowth Digital LLC", img = "contributor/Upgrowth.svg", href="https://upgrowth.in/"},
 ]
 
 [menu]
