@@ -74,6 +74,7 @@ general = [
     { name = "Reality Defender", img = "general/RealityDefender.svg", href="https://www.realitydefender.com"},
     { name = "Getty Images ", img = "general/GI_logo_black.svg", href="https://gettyimages.com/"},
     { name = "Proof", img = "general/Proof.svg", href="https://proof.com/"},
+    { name = "Vivo", img = "general/vivo.svg", href="https://vivo.com/"},
 ]
 contributor = [
     { name = "Accurati", img = "contributor/accuratius-logo-w-tag.svg", href="https://accurati.us/"},
@@ -225,6 +226,8 @@ contributor = [
     { name = "CaptureOne", img = "contributor/captureone.svg", href="https://www.captureone.com/"},
     { name = "Kebula", img = "contributor/kebula.svg", href="kebula.it"},
     { name = "Upgrowth Digital LLC", img = "contributor/Upgrowth.svg", href="https://upgrowth.in/"},
+    { name = "Collab Ventures", img = "contributor/collab.svg", href="https://collab.ventures/"},
+    { name = "E.N.I.A", img = "contributor/ENIA.svg", href="http://www.enia.ai/"},
 ]
 
 [menu]
