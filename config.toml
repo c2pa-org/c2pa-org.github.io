@@ -75,6 +75,7 @@ general = [
     { name = "Getty Images ", img = "general/GI_logo_black.svg", href="https://gettyimages.com/"},
     { name = "Proof", img = "general/Proof.svg", href="https://proof.com/"},
     { name = "Vivo", img = "general/vivo.svg", href="https://vivo.com/"},
+    { name = "Deloitte", img = "general/deloitte.svg", href="https://deloitte.com/"},
 ]
 contributor = [
     { name = "Accurati", img = "contributor/accuratius-logo-w-tag.svg", href="https://accurati.us/"},
@@ -228,6 +229,11 @@ contributor = [
     { name = "Upgrowth Digital LLC", img = "contributor/Upgrowth.svg", href="https://upgrowth.in/"},
     { name = "Collab Ventures", img = "contributor/collab.svg", href="https://collab.ventures/"},
     { name = "E.N.I.A", img = "contributor/ENIA.svg", href="http://www.enia.ai/"},
+    { name = "Imageproof", img = "contributor/imageproof.svg", href="https://imageproof.io/"},
+    { name = "Contentlens", img = "contributor/contentlens.svg", href="https://www.contentlens.ai/"},
+    { name = "Sentra AI", img = "contributor/sentra.svg", href="https://trysentra.ai/"},
+    { name = "Valunode", img = "contributor/Valunode.svg", href="https://valunode.com/"},
+    { name = "Cadena", img = "contributor/cadena.svg", href="https://cadena.ai/"},
 ]
 
 [menu]
