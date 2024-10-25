@@ -234,6 +234,10 @@ contributor = [
     { name = "Sentra AI", img = "contributor/sentra.svg", href="https://trysentra.ai/"},
     { name = "Valunode", img = "contributor/Valunode.svg", href="https://valunode.com/"},
     { name = "Cadena", img = "contributor/cadena.svg", href="https://cadena.ai/"},
+    { name = "K72", img = "contributor/K72.svg", href="https://k72.ca/"},
+    { name = "Trustmycontent", img = "contributor/TMC.svg", href="https://trustmycontent.com/"},
+    { name = "Validia", img = "contributor/validia.svg", href="https://validia.ai/"},
+    { name = "Resillion", img = "contributor/Resillion.svg", href="https://resillion.com/"},
 ]
 
 [menu]
