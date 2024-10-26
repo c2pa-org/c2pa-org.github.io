@@ -23,12 +23,12 @@ members:
   - image: /images/logos/hero/microsoft.svg
     alt: Microsoft
     height: 28
-  - image: /images/logos/hero/publicis-groupe.svg
-    alt: Publicis Groupe
-    height: 55
   - image: /images/logos/hero/openai-lockup.svg
     alt: OpenAi
     height: 25
+  - image: /images/logos/hero/publicis-groupe.svg
+    alt: Publicis Groupe
+    height: 55
   - image: /images/logos/hero/sony.svg
     alt: Sony
     height: 19
