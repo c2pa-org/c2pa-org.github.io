@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 2000 742.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        mask: url(#mask);
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-1" d="M857.5,582.2c0,75.9-88.8,128.9-167.2,137.7-76.4,8.6-72.4-63.1-114.2-124.1-51.9-76,58.1-149.2,125.9-179.7,104.8-47.1,155.4,90.2,155.4,166.1Z"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-1" x="557.7" y="401.5" width="304.8" height="324.1"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-1" x="557.7" y="401.5" width="304.8" height="324.1"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="cls-1" x="557.7" y="401.5" width="304.8" height="324.1"/>
+    </clipPath>
+    <mask id="mask" x="557.2" y="401.2" width="305.3" height="324.5" maskUnits="userSpaceOnUse">
+      <g class="cls-6">
+        <image width="636" height="676" transform="translate(557.2 401.2) scale(.5)" xlink:href="CAPTURE-ONE_PRIMARY-LOGO-STACKED-BLACK-1.png"/>
+      </g>
+    </mask>
+    <radialGradient id="radial-gradient" cx="7539.9" cy="4078.7" fx="7539.9" fy="4078.7" r="162.9" gradientTransform="translate(-6209.8 -4492.3) rotate(7.7)" gradientUnits="userSpaceOnUse">
+      <stop offset=".6" stop-color="#95a3c8" stop-opacity="0"/>
+      <stop offset=".6" stop-color="#94a2c8" stop-opacity="0"/>
+      <stop offset=".7" stop-color="#92a1ca" stop-opacity="0"/>
+      <stop offset=".7" stop-color="#8f9fce" stop-opacity=".1"/>
+      <stop offset=".7" stop-color="#8a9cd2" stop-opacity=".2"/>
+      <stop offset=".7" stop-color="#8498d9" stop-opacity=".3"/>
+      <stop offset=".7" stop-color="#7d93e0" stop-opacity=".4"/>
+      <stop offset=".8" stop-color="#758de9" stop-opacity=".6"/>
+      <stop offset=".8" stop-color="#6b87f3" stop-opacity=".8"/>
+      <stop offset=".8" stop-color="#6180ff"/>
+      <stop offset=".9" stop-color="#7080ff" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#7b80ff" stop-opacity=".1"/>
+      <stop offset="1" stop-color="#8080ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="709.3" cy="563.4" fx="709.3" fy="563.4" r="153.2" gradientUnits="userSpaceOnUse">
+      <stop offset=".3" stop-color="#0eb0b1" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#0dafb1" stop-opacity="0"/>
+      <stop offset=".6" stop-color="#0dadb4" stop-opacity="0"/>
+      <stop offset=".7" stop-color="#0cabb8" stop-opacity="0"/>
+      <stop offset=".7" stop-color="#0ba7bd" stop-opacity=".2"/>
+      <stop offset=".8" stop-color="#0aa2c5" stop-opacity=".3"/>
+      <stop offset=".8" stop-color="#089cce" stop-opacity=".4"/>
+      <stop offset=".9" stop-color="#0695d9" stop-opacity=".5"/>
+      <stop offset=".9" stop-color="#048ce5" stop-opacity=".7"/>
+      <stop offset=".9" stop-color="#0283f3" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#007cff"/>
+    </radialGradient>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Layer_1">
+      <g>
+        <g>
+          <g>
+            <path d="M147,22c58,0,100.4,31.4,120.8,76.2l-27.4,14.1c-12.1-32.3-45.2-61.1-92.6-61.1s-104,47.1-104,107.4,45.2,107.8,104,107.8,81.3-28.1,92.7-61.4l27.7,14.3c-19.8,44.8-64.1,75.5-121.2,75.5S13,234.2,13,158.7,71.8,22,147,22Z"/>
+            <path d="M1118.9,54h-83.5v237.3h-30.7V54h-83.5v-28.2h197.6v28.2Z"/>
+            <path d="M1389.1,181V25.8h30.7v155.2c0,65.3-33.4,113.8-104.7,113.8s-104.7-48.6-104.7-113.8V25.8h30.7v155.2c0,48.9,20.5,84.6,74,84.6s74-35.7,74-84.6Z"/>
+          </g>
+          <path d="M758.1,25.8h-99v265.6h30.7v-105.9c0-6.8,5.5-12.3,12.3-12.3h55.9c62.5,0,92.2-24.2,92.2-73.1s-42.5-74.2-92.2-74.2ZM758.6,143.9s-53,0-53.5,0c-11.2,0-17.5,7.2-17.8,7.5,0,0,0,0,0,0V55h70.8c33.8,0,62.5,8.2,62.5,44.2s-29.8,44.6-62,44.6Z"/>
+          <path d="M1985.5,55v-29.2h-170.7v265.6h170.7s0-29.2,0-29.2h-140v-76.7c0-6.8,5.5-12.3,12.3-12.3,0,0,106.1,0,112.1,0v-29.2h-109.1c-11.2,0-17.5,7.2-17.8,7.5,0,0,0,0,0,0V55h142.5Z"/>
+          <path d="M1724.2,291.4l-93.2-118.3c59-1.3,87.1-25.5,87.1-73s-42.5-74.2-92.2-74.2h-99v265.6h30.7v-105.9c0-6.8,5.5-12.3,12.3-12.3h24.6l93.1,118.3h36.5ZM1555.1,151.4s0,0,0,0V55h70.8c33.8,0,62.5,8.2,62.5,44.2s-29.8,44.6-62,44.6c0,0-53,0-53.5,0-11.2,0-17.5,7.2-17.8,7.5Z"/>
+          <path d="M460.2,25.6h-18.5l-117.6,266h32.2l30.7-69.4h128.2l30.3,69.4h32.2L460.2,25.6ZM398.7,193.7l52.4-119.9,52,119.9h-104.3Z"/>
+        </g>
+        <g>
+          <polygon points="1131.4 640.7 961.8 431.1 943.4 431.1 943.4 696.5 974.1 696.5 974.1 490.6 1140.4 696.8 1162.1 696.8 1162.1 430.6 1131.4 430.6 1131.4 640.7"/>
+          <path d="M1439.1,460.2v-29.2h-170.7v265.6h170.7s0-29.2,0-29.2h-140v-76.7c0-6.8,5.5-12.3,12.3-12.3,0,0,106.1,0,112.1,0v-29.2h-109.1c-11.2,0-17.5,7.2-17.8,7.5,0,0,0,0,0,0v-96.4h142.5Z"/>
+          <g>
+            <g class="cls-8">
+              <g class="cls-5">
+                <g class="cls-7">
+                  <g class="cls-2">
+                    <image width="636" height="676" transform="translate(557.2 401.2) scale(.5)" xlink:href="CAPTURE-ONE_PRIMARY-LOGO-STACKED-BLACK-2.png"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <path class="cls-4" d="M863.8,643.9c-13.2,97.6-120.8,90.9-218.4,77.7-97.6-13.2-70.2-64.4-87.2-161.1-20.8-118.1,99.2-164,196.8-157.3,98.2,6.8,122,143.1,108.8,240.7Z"/>
+            <path class="cls-3" d="M857.5,582.2c.6,75.9-88.4,127.9-165.8,138.2-72,9.6-79.6-50.6-115.6-111.8-54-91.8,50.9-157.9,125.7-192.5,109-50.4,155.1,92,155.7,166.2Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

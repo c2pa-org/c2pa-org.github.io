@@ -5,6 +5,9 @@ members:
   - image: /images/logos/hero/adobe.svg
     alt: Adobe
     height: 27
+  - image: /images/logos/hero/Amazon.svg
+    alt: Amazon
+    height: 27
   - image: /images/logos/hero/bbc.svg
     alt: BBC
     height: 29
@@ -14,15 +17,18 @@ members:
   - image: /images/logos/hero/intel.svg
     alt: Intel
     height: 25
+  - image: /images/logos/hero/Meta.svg
+    alt: Meta
+    height: 28
   - image: /images/logos/hero/microsoft.svg
     alt: Microsoft
     height: 28
-  - image: /images/logos/hero/publicis-groupe.svg
-    alt: Publicis Groupe
-    height: 55
   - image: /images/logos/hero/openai-lockup.svg
     alt: OpenAi
     height: 25
+  - image: /images/logos/hero/publicis-groupe.svg
+    alt: Publicis Groupe
+    height: 55
   - image: /images/logos/hero/sony.svg
     alt: Sony
     height: 19
