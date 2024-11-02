@@ -76,6 +76,8 @@ general = [
     { name = "Proof", img = "general/Proof.svg", href="https://proof.com/"},
     { name = "Vivo", img = "general/vivo.svg", href="https://vivo.com/"},
     { name = "Deloitte", img = "general/deloitte.svg", href="https://deloitte.com/"},
+    { name = "Logitech", img = "general/logitech.svg", href="https://logitech.com/"},
+    { name = "vBrick", img = "general/vbrick.svg", href="https://vbrick.com/"},
 ]
 contributor = [
     { name = "Accurati", img = "contributor/accuratius-logo-w-tag.svg", href="https://accurati.us/"},
@@ -238,6 +240,9 @@ contributor = [
     { name = "Trustmycontent", img = "contributor/TMC.svg", href="https://trustmycontent.com/"},
     { name = "Validia", img = "contributor/validia.svg", href="https://validia.ai/"},
     { name = "Resillion", img = "contributor/Resillion.svg", href="https://resillion.com/"},
+    { name = "Rewire", img = "contributor/rewire.svg", href="https://rewired.jp/"},
+    { name = "Truebees", img = "contributor/truebees.svg", href="https://truebees.eu/"},
+    { name = "ESTsoft", img = "contributor/estsoft.svg", href="https://www.estsoft.ai/"},
 ]
 
 [menu]
