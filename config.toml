@@ -243,6 +243,7 @@ contributor = [
     { name = "Rewire", img = "contributor/rewire.svg", href="https://rewired.jp/"},
     { name = "Truebees", img = "contributor/truebees.svg", href="https://truebees.eu/"},
     { name = "ESTsoft", img = "contributor/estsoft.svg", href="https://www.estsoft.ai/"},
+    { name = "Verify", img = "contributor/verify.svg", href="https://joinverify.com/"},
 ]
 
 [menu]
