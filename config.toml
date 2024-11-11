@@ -239,10 +239,13 @@ contributor = [
     { name = "K72", img = "contributor/K72.svg", href="https://k72.ca/"},
     { name = "Trustmycontent", img = "contributor/TMC.svg", href="https://trustmycontent.com/"},
     { name = "Validia", img = "contributor/validia.svg", href="https://validia.ai/"},
-    { name = "Resillion", img = "contributor/Resillion.svg", href="https://resillion.com/"},
+    { name = "Resillion", img = "contributor/resillion2.svg", href="https://resillion.com/"},
     { name = "Rewire", img = "contributor/rewire.svg", href="https://rewired.jp/"},
     { name = "Truebees", img = "contributor/truebees.svg", href="https://truebees.eu/"},
     { name = "ESTsoft", img = "contributor/estsoft.svg", href="https://www.estsoft.ai/"},
+    { name = "Verify", img = "contributor/verify.svg", href="https://joinverify.com/"},
+    { name = "Resemble AI", img = "contributor/resemble.svg", href="https://www.resemble.ai"},
+    { name = "Start with WCPGW", img = "contributor/start.svg", href="https://www.startwithwcpgw.com"},
 ]
 
 [menu]
