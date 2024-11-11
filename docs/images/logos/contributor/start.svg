@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 513 513">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 70px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #231f20;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        font-size: 74px;
+      }
+
+      .cls-3 {
+        fill: #231f20;
+        font-family: Lato-Regular, Lato;
+        stroke: #333;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x=".5" y=".5" width="512" height="512"/>
+  <g id="Layer_2" data-name="Layer 2">
+    <text class="cls-3" transform="translate(104.33 227.35) scale(.96 1)"><tspan class="cls-1"><tspan x="0" y="0">Start With</tspan></tspan><tspan class="cls-4"><tspan x="8.94" y="88.8">WCPGW</tspan></tspan></text>
+  </g>
+</svg>
