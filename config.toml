@@ -246,6 +246,9 @@ contributor = [
     { name = "Verify", img = "contributor/verify.svg", href="https://joinverify.com/"},
     { name = "Resemble AI", img = "contributor/resemble.svg", href="https://www.resemble.ai"},
     { name = "Start with WCPGW", img = "contributor/start.svg", href="https://www.startwithwcpgw.com"},
+    { name = "Exifviewers", img = "contributor/exifviewers.svg", href="https://exifviewers.com/"},
+    { name = "Overtone", img = "contributor/overtone.svg", href="https://overtone.ai/"},
+    { name = "ContentSeal", img = "contributor/ContentSeal-Logo.svg", href="http://contentseal.com/"},
 ]
 
 [menu]
