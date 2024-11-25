@@ -249,6 +249,11 @@ contributor = [
     { name = "Exifviewers", img = "contributor/exifviewers.svg", href="https://exifviewers.com/"},
     { name = "Overtone", img = "contributor/overtone.svg", href="https://overtone.ai/"},
     { name = "ContentSeal", img = "contributor/ContentSeal-Logo.svg", href="http://contentseal.com/"},
+    { name = "Steelwork Strategies", img = "contributor/steelwork.svg", href="https://steelwork.io/"},
+    { name = "Harlowe", img = "contributor/harlowe.svg", href="https://harlowe.com/"},
+    { name = "Hailo", img = "contributor/hailo.svg", href="https://hailo.ai/"},
+    { name = "Trustasia Technologies", img = "contributor/TrustAsiaLogo.svg", href="https://www.trustasia.com/index-en"},
+    { name = "Atom Images", img = "contributor/atom.svg", href="https://atomimages.com/"},
 ]
 
 [menu]
