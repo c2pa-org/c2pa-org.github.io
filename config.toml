@@ -254,6 +254,9 @@ contributor = [
     { name = "Hailo", img = "contributor/hailo.svg", href="https://hailo.ai/"},
     { name = "Trustasia Technologies", img = "contributor/TrustAsiaLogo.svg", href="https://www.trustasia.com/index-en"},
     { name = "Atom Images", img = "contributor/atom.svg", href="https://atomimages.com/"},
+    { name = "Fleksy", img = "contributor/fleksy.svg", href="https://fleksy.com/"},
+    { name = "Eyevinn", img = "contributor/eyevinn.svg", href="https://eyevinntechnology.se/"},
+    { name = "Trulens", img = "contributor/Trulens.svg", href="https://trulens.ae/"},
 ]
 
 [menu]
