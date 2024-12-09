@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1014.83 1024">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #176af6;
+      }
+
+      .cls-2 {
+        fill: #4eaaf8;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="logomark">
+      <g>
+        <g>
+          <polygon class="cls-1" points="633.89 481.92 700.35 537.8 1014.83 273.91 1014.83 162.15 633.89 481.92"/>
+          <polygon class="cls-1" points="730.36 562.95 796.96 618.83 1014.83 436.06 1014.83 324.16 730.36 562.95"/>
+          <polygon class="cls-1" points="826.83 643.98 893.57 699.86 1014.83 598.1 1014.83 486.21 826.83 643.98"/>
+          <polygon class="cls-1" points="1014.76 0 1014.76 111.9 410.79 618.83 344.05 562.81 1014.76 0"/>
+        </g>
+        <g>
+          <polygon class="cls-2" points="507.41 1024 574.01 967.98 0 486.24 0 598.16 507.41 1024"/>
+          <polygon class="cls-2" points="604.02 942.82 670.62 886.94 0 324.14 0 436.11 604.02 942.82"/>
+          <polygon class="cls-2" points="314.76 538.22 381.5 482.2 0 162.14 0 274.07 314.76 538.22"/>
+          <polygon class="cls-2" points="507.41 587.82 440.67 643.84 700.49 861.93 767.23 805.91 507.41 587.82"/>
+          <polygon class="cls-2" points="411.37 457.19 478.11 401.17 0 .06 0 111.97 411.37 457.19"/>
+          <polygon class="cls-2" points="604.02 506.93 537.28 562.81 796.96 780.9 863.7 724.87 604.02 506.93"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
