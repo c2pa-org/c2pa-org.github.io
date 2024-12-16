@@ -64,7 +64,6 @@ general = [
     { name = "ProSieben", img = "general/pro-sieben-sat-1-supporter.svg" , href="https://www.prosiebensat1.com"},
     { name = "InfoSys", img = "general/infosys_navigate_logo.svg" , href="https://www.infosys.com"},
     { name = "Qualcomm", img = "general/qualcomm-logo.png" , href="https://www.qualcomm.com"},
-    { name = "Overlai LLC", img = "general/OverlaiMainLogo.svg", href="https://www.overlai.app/"},
     { name = "TikTok Inc.", img = "general/TikTok-logo-CMYK-Horizontal-Black-Simplified.svg", href="https://www.tiktok.com"},
     { name = "Fujifilm Corporation", img = "general/fujifilm_basic_il.svg", href="https://global.fujifilm.com/en/"},
     { name = "WDR", img = "general/WDR_Dachmarke.svg", href="https://www1.wdr.de/index.html"},
@@ -255,8 +254,14 @@ contributor = [
     { name = "Trustasia Technologies", img = "contributor/TrustAsiaLogo.svg", href="https://www.trustasia.com/index-en"},
     { name = "Atom Images", img = "contributor/atom.svg", href="https://atomimages.com/"},
     { name = "Fleksy", img = "contributor/fleksy.svg", href="https://fleksy.com/"},
-    { name = "Eyevinn", img = "contributor/eyevinn.svg", href="https://eyevinntechnology.se/"},
+    { name = "Eyevinn", img = "contributor/eyevinn.svg", href="https://www.eyevinntechnology.se/"},
     { name = "Trulens", img = "contributor/Trulens.svg", href="https://trulens.ae/"},
+    { name = "Provenaire", img = "contributor/provenaire.svg", href="https://provenaire.com/"},
+    { name = "Overlai", img = "contributor/overlai.svg", href="https://overlai.app/"},
+    { name = "Irdeto", img = "contributor/irdeto.svg", href="https://www.irdeto.com/"},
+    { name = "EBU", img = "contributor/EBU.svg", href="https://ebu.ch/"},
+    { name = "Markany", img = "contributor/markany.svg", href="https://en.markany.com"},
+    { name = "AETHERLAB", img = "contributor/aether.svg", href="https://aetherlab.co"},
 ]
 
 [menu]
