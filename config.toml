@@ -262,6 +262,9 @@ contributor = [
     { name = "EBU", img = "contributor/EBU.svg", href="https://ebu.ch/"},
     { name = "Markany", img = "contributor/markany.svg", href="https://en.markany.com"},
     { name = "AETHERLAB", img = "contributor/aether.svg", href="https://aetherlab.co"},
+    { name = "SyncVault", img = "contributor/syncvault.svg", href="https://syncvault.com/"},
+    { name = "Mosaic", img = "contributor/mosaic.svg", href="https://xmosaic.ai/"},
+    { name = "Dictalabs", img = "contributor/dictalabs.svg", href="https://dictalabs.com"},
 ]
 
 [menu]
