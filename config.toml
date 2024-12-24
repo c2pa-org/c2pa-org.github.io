@@ -187,7 +187,6 @@ contributor = [
     { name = "Digital Governance Institute", img = "contributor/DGILetterheadWhite.svg", href="https://digitalgovernanceinstitute.com/"},
     { name = "Witness", img = "contributor/witness-lockup-horizontal-black.svg", href="https://witness.co"},
     { name = "Aptos Labs", img = "contributor/aptoslabslogohorizontal.svg", href="https://aptoslabs.com"},
-    { name = "Mosaic Inc", img = "contributor/mosaic_c2pa_logomark.svg", href="https://try.onmosaic.com"},
     { name = "Metabroadcast", img = "contributor/MetaBroadcast_Horizontal_Fullcolour_rgb.svg", href="https://metabroadcast.com/"},
     { name = "CNA", img = "contributor/CNAlogo.svg", href="https://www.channelnewsasia.com/international"},
     { name = "Imagist", img = "contributor/imagist.svg", href="https://imagist.app"},
