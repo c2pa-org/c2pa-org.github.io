@@ -264,6 +264,8 @@ contributor = [
     { name = "SyncVault", img = "contributor/syncvault.svg", href="https://syncvault.com/"},
     { name = "Mosaic", img = "contributor/mosaic.svg", href="https://xmosaic.ai/"},
     { name = "Dictalabs", img = "contributor/dictalabs.svg", href="https://dictalabs.com"},
+    { name = "Crafture", img = "contributor/crafture.svg", href="https://crafture.com"},
+    { name = "Web3Wire", img = "contributor/web3wire.svg", href="https://web3wire.org/"},
 ]
 
 [menu]
