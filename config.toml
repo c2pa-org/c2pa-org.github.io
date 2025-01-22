@@ -77,6 +77,7 @@ general = [
     { name = "Deloitte", img = "general/deloitte.svg", href="https://deloitte.com/"},
     { name = "Logitech", img = "general/logitech.svg", href="https://logitech.com/"},
     { name = "vBrick", img = "general/vbrick.svg", href="https://vbrick.com/"},
+    { name = "Samsung", img = "general/samsung.svg", href="https://www.samsung.com"},
 ]
 contributor = [
     { name = "Accurati", img = "contributor/accuratius-logo-w-tag.svg", href="https://accurati.us/"},
