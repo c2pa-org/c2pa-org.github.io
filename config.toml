@@ -270,6 +270,7 @@ contributor = [
     { name = "Web3Wire", img = "contributor/web3wire.svg", href="https://web3wire.org/"},
     { name = "A3SA", img = "contributor/A3SA.svg", href="https://a3sa.com/"},
     { name = "OriginVault", img = "contributor/originvault_logo.svg", href="https://originvault.io/"},
+    { name = "Ai Trust", img = "contributor/aitrust.svg", href="https://aitrustllc.com/"},
 ]
 
 [menu]
