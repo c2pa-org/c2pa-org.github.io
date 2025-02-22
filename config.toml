@@ -271,6 +271,10 @@ contributor = [
     { name = "A3SA", img = "contributor/A3SA.svg", href="https://a3sa.com/"},
     { name = "OriginVault", img = "contributor/originvault_logo.svg", href="https://originvault.io/"},
     { name = "Ai Trust", img = "contributor/aitrust.svg", href="https://aitrustllc.com/"},
+    { name = "Garandor", img = "contributor/garandor.svg", href="https://www.garandor.com/"},
+    { name = "SonicAI", img = "contributor/SonicAI_logo.svg", href="http://www.sonicai.ai/"},
+    { name = "Mirror Mirror Technologies", img = "contributor/MM.svg", href="http://www.mirrormirror.io/"},
+    { name = "FastPix Inc.", img = "contributor/fastpix.svg", href="https://fastpix.io/"},
 ]
 
 [menu]
