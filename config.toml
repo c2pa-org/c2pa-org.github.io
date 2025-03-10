@@ -275,6 +275,11 @@ contributor = [
     { name = "SonicAI", img = "contributor/SonicAI_logo.svg", href="http://www.sonicai.ai/"},
     { name = "Mirror Mirror Technologies", img = "contributor/MM.svg", href="http://www.mirrormirror.io/"},
     { name = "FastPix Inc.", img = "contributor/fastpix.svg", href="https://fastpix.io/"},
+    { name = "FlikForge Holdings Inc", img = "contributor/flikforge.svg", href="https://flikforge.com/"},
+    { name = "Tauth ", img = "contributor/tauth.svg", href="https://tauth.io/"},
+    { name = "BFBS", img = "contributor/BFBS.svg", href="http://www.bfbs.com/"},
+    { name = "Netis", img = "contributor/netis.svg", href="https://netis.si/"},
+    { name = "Digicap", img = "contributor/digicap.svg", href="https://digicaps.com/"},
 ]
 
 [menu]
