@@ -280,6 +280,10 @@ contributor = [
     { name = "BFBS", img = "contributor/BFBS.svg", href="http://www.bfbs.com/"},
     { name = "Netis", img = "contributor/netis.svg", href="https://netis.si/"},
     { name = "Digicap", img = "contributor/digicap.svg", href="https://digicaps.com/"},
+    { name = "AmberWolf", img = "contributor/amberwolf.svg", href="https://amberwolf.com/"},
+    { name = "Cognizant", img = "contributor/cognizant.svg", href="https://cognizant.com/"},
+    { name = "Valid Technologies", img = "contributor/valid.svg", href="http://www.valid.tech/"},
+    { name = "OpenOrigins", img = "contributor/open.svg", href="http://openorigins.com/"},
 ]
 
 [menu]
