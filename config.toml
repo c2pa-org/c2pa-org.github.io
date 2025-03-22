@@ -284,6 +284,7 @@ contributor = [
     { name = "Cognizant", img = "contributor/cognizant.svg", href="https://cognizant.com/"},
     { name = "Valid Technologies", img = "contributor/valid.svg", href="http://www.valid.tech/"},
     { name = "OpenOrigins", img = "contributor/open.svg", href="http://openorigins.com/"},
+    { name = "Irrie", img = "contributor/irrie.svg", href="http://irrie.tv/"},
 ]
 
 [menu]
