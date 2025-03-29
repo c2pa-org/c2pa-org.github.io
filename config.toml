@@ -285,6 +285,8 @@ contributor = [
     { name = "Valid Technologies", img = "contributor/valid.svg", href="http://www.valid.tech/"},
     { name = "OpenOrigins", img = "contributor/open.svg", href="http://openorigins.com/"},
     { name = "Irrie", img = "contributor/irrie.svg", href="http://irrie.tv/"},
+    { name = "Benki", img = "contributor/benki.svg", href="http://www.ben-ki.com/"},
+    { name = "Cyberette", img = "contributor/cyberette.svg", href="https://cyberette.ai/"},
 ]
 
 [menu]
