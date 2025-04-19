@@ -290,6 +290,9 @@ contributor = [
     { name = "Group 47", img = "contributor/group47.svg", href="https://group47.com/"},
     { name = "Sensotix", img = "contributor/sensotix.svg", href="https://www.sensotix.com"},
     { name = "Ppinch", img = "contributor/ppinch.svg", href="https://ppinch.com/"},
+    { name = "Mirage Security", img = "contributor/mirage.svg", href="https://www.miragesecurity.ai/"},
+    { name = "CallRevu", img = "contributor/callrevu.svg", href="https://callrevu.com/"},
+    { name = "Yakoa", img = "contributor/yakoa.svg", href="https://yakoa.io/"},
 ]
 
 [menu]
