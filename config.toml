@@ -293,6 +293,7 @@ contributor = [
     { name = "Mirage Security", img = "contributor/mirage.svg", href="https://www.miragesecurity.ai/"},
     { name = "CallRevu", img = "contributor/callrevu.svg", href="https://callrevu.com/"},
     { name = "Yakoa", img = "contributor/yakoa.svg", href="https://yakoa.io/"},
+    { name = "River Valley", img = "contributor/rivervalley.svg", href="https://rivervalley.io"},
 ]
 
 [menu]
