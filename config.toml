@@ -294,7 +294,7 @@ contributor = [
     { name = "CallRevu", img = "contributor/callrevu.svg", href="https://callrevu.com/"},
     { name = "Yakoa", img = "contributor/yakoa.svg", href="https://yakoa.io/"},
     { name = "River Valley", img = "contributor/rivervalley.svg", href="https://rivervalley.io"},
-    { name = "Fortify Media", img = "contributor/fortify.svg", href="fortifymedia.io"},
+    { name = "Fortify Media", img = "contributor/fortify.svg", href="https://fortifymedia.io"},
     { name = "Pycla", img = "contributor/pycla.svg", href="https://pycla.com/"},
 ]
 
