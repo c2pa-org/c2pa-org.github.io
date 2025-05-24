@@ -79,6 +79,7 @@ general = [
     { name = "vBrick", img = "general/vbrick.svg", href="https://vbrick.com/"},
     { name = "Samsung", img = "general/samsung.svg", href="https://www.samsung.com"},
     { name = "Story Foundation", img = "general/Story.svg", href="https://www.story.foundation/"},
+    { name = "Ad-ID", img = "general/adid.svg", href="https://www.ad-id.org"},
 ]
 contributor = [
     { name = "Accurati", img = "contributor/accuratius-logo-w-tag.svg", href="https://accurati.us/"},
@@ -296,6 +297,7 @@ contributor = [
     { name = "River Valley", img = "contributor/rivervalley.svg", href="https://rivervalley.io"},
     { name = "Fortify Media", img = "contributor/fortify.svg", href="https://www.fortifymedia.io"},
     { name = "Pycla", img = "contributor/pycla.svg", href="https://pycla.com/"},
+    { name = "Unified Streaming", img = "contributor/unified.svg", href="https://unified-streaming.com/"},
 ]
 
 [menu]
