@@ -80,6 +80,7 @@ general = [
     { name = "Samsung", img = "general/samsung.svg", href="https://www.samsung.com"},
     { name = "Story Foundation", img = "general/Story.svg", href="https://www.story.foundation/"},
     { name = "Ad-ID", img = "general/adid.svg", href="https://www.ad-id.org"},
+    { name = "SSL", img = "general/ssl.svg", href="https://www.ssl.com"},
 ]
 contributor = [
     { name = "Accurati", img = "contributor/accuratius-logo-w-tag.svg", href="https://accurati.us/"},
