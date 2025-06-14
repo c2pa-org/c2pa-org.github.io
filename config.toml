@@ -301,6 +301,7 @@ contributor = [
     { name = "Unified Streaming", img = "contributor/unified.svg", href="https://unified-streaming.com/"},
     { name = "Qualabs", img = "contributor/qualabs.svg", href="https://www.qualabs.com/"},
     { name = "Encypher AI", img = "contributor/encypher.svg", href="https://encypherai.com/?utm_source=partners&utm_medium=website&utm_campaign=C2PA"},
+    { name = "Frontfiles", img = "contributor/frontfiles.svg", href="https://beta.frontfiles.com"},
 ]
 
 [menu]
