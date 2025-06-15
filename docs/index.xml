@@ -125,5 +125,23 @@
 Agenda    Topic Speaker(s)     Welcome and Introduction to the C2PA Dr.</description>
     </item>
     
+    <item>
+      <title>Digital Source Type: Empty</title>
+      <link>https://c2pa.org/digitalsourcetype/empty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://c2pa.org/digitalsourcetype/empty/</guid>
+      <description>   { &amp;#34;@context&amp;#34;: &amp;#34;https://www.c2pa.org/dstEmpty.jsonld&amp;#34;, &amp;#34;uri&amp;#34; : &amp;#34;http://c2pa.org/digitalsourcetype/empty&amp;#34;, &amp;#34;inScheme&amp;#34; : [ &amp;#34;http://c2pa.org/digitalsourcetype/&amp;#34; ], &amp;#34;modified&amp;#34; : &amp;#34;2025-06-15T19:58:50.916Z&amp;#34;, &amp;#34;definition&amp;#34; : { &amp;#34;en-GB&amp;#34; : &amp;#34;Media whose digital content is effectively empty, such as a blank canvas or zero-length video.&amp;#34; }, &amp;#34;created&amp;#34; : &amp;#34;2025-06-15T19:59:42.509Z&amp;#34; } </description>
+    </item>
+    
+    <item>
+      <title>Digital Source Type: Trained Algorithmic Data</title>
+      <link>https://c2pa.org/digitalsourcetype/trainedalgorithmicdata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://c2pa.org/digitalsourcetype/trainedalgorithmicdata/</guid>
+      <description>{ &amp;#34;@context&amp;#34;: &amp;#34;https://www.c2pa.org/dstTrainedAlgorithmicData.jsonld&amp;#34;, &amp;#34;uri&amp;#34; : &amp;#34;http://c2pa.org/digitalsourcetype/trainedAlgorithmicData&amp;#34;, &amp;#34;inScheme&amp;#34; : [ &amp;#34;http://c2pa.org/digitalsourcetype/&amp;#34; ], &amp;#34;modified&amp;#34; : &amp;#34;2025-06-15T19:58:50.916Z&amp;#34;, &amp;#34;definition&amp;#34; : { &amp;#34;en-GB&amp;#34; : &amp;#34;Data that is the result of algorithmically using a model derived from sampled content and data. Differs from http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia in that the result isn’t a media type (e.g., image or video) but is a data format (e.g., CSV, pickle).&amp;#34; }, &amp;#34;created&amp;#34; : &amp;#34;2025-06-15T19:59:42.509Z&amp;#34; } </description>
+    </item>
+    
   </channel>
 </rss>
