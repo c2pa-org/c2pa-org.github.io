@@ -1,0 +1,22 @@
+---
+title: "Digital Source Type: Empty"
+featured_image: ''
+---
+
+
+[%noheader]
+[cols="1,1,1,1"]
+|===
+4+| *Concept* ID (QCode) = digsrctype:empty,  ID (URI) = http://c2pa.org/digitalsourcetype/empty
+
+| *Type*: cpnat:abstract
+| *Created*: 2025-06-15T19:58:50.916Z
+| *Modified*: 2025-06-15T19:58:50.916Z
+| *Retired*:
+
+4+| *Name* (en): Empty media
+
+4+| *Definition* (en): Media whose digital content is effectively empty, such as a blank canvas or zero-length video.
+
+4+| *Member of scheme*: http://c2pa.org/digitalsourcetype/
+|===

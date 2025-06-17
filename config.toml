@@ -6,7 +6,7 @@ title = "Coalition for Content Provenance and Authenticity"
 
 defaultContentLanguage = "en" 
 paginate = 10
-sectionPagesMenu = "main" 
+# sectionPagesMenu = "main" 
 enableRobotsTXT = false
 googleAnalytics = "" 
 
@@ -350,3 +350,17 @@ writeStats = true
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[security]
+enableInlineShortcodes = false
+
+[security.exec]
+allow = ["^dart-sass-embedded$", "^go$", "^npx$", "^postcss$", "^asciidoctor$"]
+osEnv = ["(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM|RUBYLIB)$"]
+
+[security.funcs]
+getenv = ["^HUGO_"]
+
+[security.http]
+methods = ["(?i)GET|POST"]
+urls = [".*"]

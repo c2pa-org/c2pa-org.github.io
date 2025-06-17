@@ -28,7 +28,9 @@ if [ "${machine}" == "MinGw" ]; then
 fi
 
 # run it!
-docker run --rm -it -v "${curPath}/${OUTPUT_DIR}":/src/${OUTPUT_DIR} -e "HUGO_DESTINATION=/src/${OUTPUT_DIR}" "${DOCKER_IMG}"
+docker run --rm -it -v "${curPath}/${OUTPUT_DIR}":/src/${OUTPUT_DIR} \
+            -e "HUGO_DESTINATION=/src/${OUTPUT_DIR}" \
+            "${DOCKER_IMG}"
 
 # make sure we add the CNAME file for Github pages
 \cp -fv etc/CNAME docs

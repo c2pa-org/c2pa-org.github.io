@@ -122,7 +122,7 @@
       
       <guid>https://c2pa.org/jan-2022_event/</guid>
       <description>Digital Content Provenance: Possibilities &amp;amp; opportunities for the future of the internet in the deepfake and disinformation era Join us for the release and demonstration of the 1.0 version of the end-to-end open technical standard for certifying the source and history of media content. Policymakers, academics and industry leaders will discuss the future of responsible digital media creation, publication and sharing.
-Agenda    Topic Speaker(s)     Welcome and Introduction to the C2PA Dr.</description>
+Agenda Topic Speaker(s) Welcome and Introduction to the C2PA Dr.</description>
     </item>
     
     <item>
@@ -131,7 +131,14 @@ Agenda    Topic Speaker(s)     Welcome and Introduction to the C2PA Dr.</descrip
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://c2pa.org/digitalsourcetype/empty/</guid>
-      <description>   { &amp;#34;@context&amp;#34;: &amp;#34;https://www.c2pa.org/dstEmpty.jsonld&amp;#34;, &amp;#34;uri&amp;#34; : &amp;#34;http://c2pa.org/digitalsourcetype/empty&amp;#34;, &amp;#34;inScheme&amp;#34; : [ &amp;#34;http://c2pa.org/digitalsourcetype/&amp;#34; ], &amp;#34;modified&amp;#34; : &amp;#34;2025-06-15T19:58:50.916Z&amp;#34;, &amp;#34;definition&amp;#34; : { &amp;#34;en-GB&amp;#34; : &amp;#34;Media whose digital content is effectively empty, such as a blank canvas or zero-length video.&amp;#34; }, &amp;#34;created&amp;#34; : &amp;#34;2025-06-15T19:59:42.509Z&amp;#34; } </description>
+      <description>Concept ID (QCode) = digsrctype:empty, ID (URI) = http://c2pa.org/digitalsourcetype/empty
+Type: cpnat:abstract
+Created: 2025-06-15T19:58:50.916Z
+Modified: 2025-06-15T19:58:50.916Z
+Retired:
+Name (en): Empty media
+Definition (en): Media whose digital content is effectively empty, such as a blank canvas or zero-length video.
+Member of scheme: http://c2pa.org/digitalsourcetype/</description>
     </item>
     
     <item>
@@ -140,7 +147,14 @@ Agenda    Topic Speaker(s)     Welcome and Introduction to the C2PA Dr.</descrip
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://c2pa.org/digitalsourcetype/trainedalgorithmicdata/</guid>
-      <description>{ &amp;#34;@context&amp;#34;: &amp;#34;https://www.c2pa.org/dstTrainedAlgorithmicData.jsonld&amp;#34;, &amp;#34;uri&amp;#34; : &amp;#34;http://c2pa.org/digitalsourcetype/trainedAlgorithmicData&amp;#34;, &amp;#34;inScheme&amp;#34; : [ &amp;#34;http://c2pa.org/digitalsourcetype/&amp;#34; ], &amp;#34;modified&amp;#34; : &amp;#34;2025-06-15T19:58:50.916Z&amp;#34;, &amp;#34;definition&amp;#34; : { &amp;#34;en-GB&amp;#34; : &amp;#34;Data that is the result of algorithmically using a model derived from sampled content and data. Differs from http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia in that the result isn’t a media type (e.g., image or video) but is a data format (e.g., CSV, pickle).&amp;#34; }, &amp;#34;created&amp;#34; : &amp;#34;2025-06-15T19:59:42.509Z&amp;#34; } </description>
+      <description>Concept ID (QCode) = digsrctype:trainedAlgorithmicMedia, ID (URI) = http://c2pa.org/digitalsourcetype/trainedAlgorithmicData
+Type: cpnat:abstract
+Created: 2025-06-15T19:58:50.916Z
+Modified: 2025-06-15T19:58:50.916Z
+Retired:
+Name (en): Data created using Generative AI
+Definition (en): Data that is the result of algorithmically using a model derived from sampled content and data. Differs from http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia in that the result isn’t a media type (e.g., image or video) but is a data format (e.g., CSV, pickle).
+Member of scheme: http://c2pa.org/digitalsourcetype/</description>
     </item>
     
   </channel>
