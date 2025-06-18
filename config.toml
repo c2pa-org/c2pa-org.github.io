@@ -341,9 +341,14 @@ title = "Contact"
 url = "/contact/"
 weight = 50
 [[menu.main]]
+identifier = "conformance"
+title = "Conformance"
+url = "/conformance/"
+weight = 60
+[[menu.main]]
 identifier = "_github"
 title = "GitHub"
-weight = 60
+weight = 70
 
 [build]
 writeStats = true
