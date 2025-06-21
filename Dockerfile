@@ -1,1 +1,1 @@
-FROM klakegg/hugo:0.82.1-ext-alpine-onbuild
+FROM klakegg/hugo:0.101.0-ext-asciidoctor-onbuild

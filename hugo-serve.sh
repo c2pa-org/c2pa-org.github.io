@@ -30,7 +30,7 @@ fi
 
 # run it!
 docker run --rm -it -v "${curPath}":/src -v /src/themes/hugo-theme-c2pa -p 1313:1313 \
-	"${DOCKER_IMG}" server
+	        "${DOCKER_IMG}" server
 
 
 

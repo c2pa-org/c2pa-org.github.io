@@ -6,7 +6,7 @@ title = "Coalition for Content Provenance and Authenticity"
 
 defaultContentLanguage = "en" 
 paginate = 10
-sectionPagesMenu = "main" 
+# sectionPagesMenu = "main" 
 enableRobotsTXT = false
 googleAnalytics = "" 
 
@@ -325,7 +325,7 @@ weight = 20
 [[menu.main]]
 identifier = "spec"
 title = "Specification"
-url = "https://c2pa.org/specifications/specifications/2.1/index.html"
+url = "https://c2pa.org/specifications/specifications/2.2/index.html"
 weight = 25
 [[menu.main]]
 identifier = "membership"
@@ -343,12 +343,31 @@ title = "Contact"
 url = "/contact/"
 weight = 50
 [[menu.main]]
+identifier = "conformance"
+title = "Conformance"
+url = "/conformance/"
+weight = 60
+[[menu.main]]
 identifier = "_github"
 title = "GitHub"
-weight = 60
+weight = 70
 
 [build]
 writeStats = true
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[security]
+enableInlineShortcodes = false
+
+[security.exec]
+allow = ["^dart-sass-embedded$", "^go$", "^npx$", "^postcss$", "^asciidoctor$"]
+osEnv = ["(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM|RUBYLIB)$"]
+
+[security.funcs]
+getenv = ["^HUGO_"]
+
+[security.http]
+methods = ["(?i)GET|POST"]
+urls = [".*"]

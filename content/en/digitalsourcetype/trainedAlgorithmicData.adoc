@@ -1,0 +1,21 @@
+---
+title: "Digital Source Type: Trained Algorithmic Data"
+featured_image: ''
+---
+
+[%noheader]
+[cols="1,1,1,1"]
+|===
+4+| *Concept* ID (QCode) = digsrctype:trainedAlgorithmicMedia,  ID (URI) = http://c2pa.org/digitalsourcetype/trainedAlgorithmicData
+
+| *Type*: cpnat:abstract
+| *Created*: 2025-06-15T19:58:50.916Z
+| *Modified*: 2025-06-15T19:58:50.916Z
+| *Retired*:
+
+4+| *Name* (en): Data created using Generative AI
+
+4+| *Definition* (en): Data that is the result of algorithmically using a model derived from sampled content and data. Differs from http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia in that the result isn’t a media type (e.g., image or video) but is a data format (e.g., CSV, pickle).
+
+4+| *Member of scheme*: http://c2pa.org/digitalsourcetype/
+|===

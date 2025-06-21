@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Source Types on C2PA</title>
+    <link>https://c2pa.org/digitalsourcetype/</link>
+    <description>Recent content in Digital Source Types on C2PA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://c2pa.org/digitalsourcetype/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Source Type: Empty</title>
+      <link>https://c2pa.org/digitalsourcetype/empty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://c2pa.org/digitalsourcetype/empty/</guid>
+      <description>Concept ID (QCode) = digsrctype:empty, ID (URI) = http://c2pa.org/digitalsourcetype/empty
+Type: cpnat:abstract
+Created: 2025-06-15T19:58:50.916Z
+Modified: 2025-06-15T19:58:50.916Z
+Retired:
+Name (en): Empty media
+Definition (en): Media whose digital content is effectively empty, such as a blank canvas or zero-length video.
+Member of scheme: http://c2pa.org/digitalsourcetype/</description>
+    </item>
+    
+    <item>
+      <title>Digital Source Type: Trained Algorithmic Data</title>
+      <link>https://c2pa.org/digitalsourcetype/trainedalgorithmicdata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://c2pa.org/digitalsourcetype/trainedalgorithmicdata/</guid>
+      <description>Concept ID (QCode) = digsrctype:trainedAlgorithmicMedia, ID (URI) = http://c2pa.org/digitalsourcetype/trainedAlgorithmicData
+Type: cpnat:abstract
+Created: 2025-06-15T19:58:50.916Z
+Modified: 2025-06-15T19:58:50.916Z
+Retired:
+Name (en): Data created using Generative AI
+Definition (en): Data that is the result of algorithmically using a model derived from sampled content and data. Differs from http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia in that the result isn’t a media type (e.g., image or video) but is a data format (e.g., CSV, pickle).
+Member of scheme: http://c2pa.org/digitalsourcetype/</description>
+    </item>
+    
+  </channel>
+</rss>
