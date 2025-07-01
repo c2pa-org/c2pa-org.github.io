@@ -1,4 +1,4 @@
-baseURL = "https://c2pa.org/"
+baseURL = "https://spec.c2pa.org/"
 languageCode = "en-us"
 resourceDir = "../resources"
 theme = "hugo-theme-c2pa"
