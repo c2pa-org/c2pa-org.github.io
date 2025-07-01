@@ -1,6 +1,7 @@
 ---
 title: "Overview"
 description: "An open technical standard providing publishers, creators, and consumers the ability to trace the origin of different types of media."
+redirect: "/specifications/"
 members:
   - image: /images/logos/hero/adobe.svg
     alt: Adobe
