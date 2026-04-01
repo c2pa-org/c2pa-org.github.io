@@ -1,0 +1,414 @@
+[
+    {
+        "identifier": 1,
+        "alg": "com.digimarc.validate.1",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "audio",
+            "video",
+            "text",
+            "image"
+        ],
+        "entryMetadata": {
+            "description": "Digimarc Validate Digital Watermarking algorithm",
+            "dateEntered": "2024-05-17T17:00:00.000Z",
+            "contact": "info@digimarc.com",
+            "informationalUrl": "https://www.digimarc.com/products/digital-content-authentication"
+        }
+    },
+    {
+        "identifier": 2,
+        "alg": "org.atsc.a336",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "audio",
+            "video",
+            "image"
+        ],
+        "entryMetadata": {
+            "description": "ATSC watermarking (A/334, A/335, A/336)",
+            "dateEntered": "2024-05-17T15:43:00.000Z",
+            "contact": "atsc@atsc.org",
+            "informationalUrl": "https://www.atsc.org/atsc-documents/a3362017-content-recovery-redistribution-scenarios/"
+        }
+    },
+    {
+        "identifier": 3,
+        "alg": "io.iscc.v0",
+        "type": "fingerprint",
+        "decodedMediaTypes": [
+            "text",
+            "image",
+            "audio",
+            "video",
+            "application"
+        ],
+        "entryMetadata": {
+            "description": "ISO 24138 - International Standard Content Code (ISCC) V0 algorithm",
+            "dateEntered": "2024-05-17T16:00:00Z",
+            "contact": "info@iscc.io",
+            "informationalUrl": "https://www.iso.org/standard/77899.html"
+        }
+    },
+    {
+        "identifier": 4,
+        "alg": "com.adobe.trustmark.Q",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "image"
+        ],
+        "entryMetadata": {
+            "description": "Adobe Trustmark variant Q",
+            "dateEntered": "2024-05-17T17:00:00.000Z",
+            "contact": "collomos@adobe.com",
+            "informationalUrl": "https://github.com/adobe/trustmark/"
+        }
+    },
+    {
+        "identifier": 5,
+        "alg": "com.adobe.trustmark.C",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "image"
+        ],
+        "entryMetadata": {
+            "description": "Adobe Trustmark variant C",
+            "dateEntered": "2024-05-17T17:00:00.000Z",
+            "contact": "collomos@adobe.com",
+            "informationalUrl": "https://github.com/adobe/trustmark/"
+        }
+    },
+    {
+        "identifier": 6,
+        "alg": "com.adobe.icn.dense",
+        "type": "fingerprint",
+        "decodedMediaTypes": [
+            "image"
+        ],
+        "entryMetadata": {
+            "description": "Adobe Image Comparator Network Dense Fingerprint",
+            "dateEntered": "2024-05-17T17:00:00.000Z",
+            "contact": "collomos@adobe.com",
+            "informationalUrl": "https://openaccess.thecvf.com/content/CVPR2021W/WMF/html/Black_Deep_Image_Comparator_Learning_To_Visualize_Editorial_Change_CVPRW_2021_paper.html"
+        }
+    },
+    {
+        "identifier": 7,
+        "alg": "ai.steg.api",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "image",
+            "video",
+            "application"
+        ],
+        "entryMetadata": {
+            "description": "Steg.AI invisible watermarking",
+            "dateEntered": "2024-05-20T10:50:00.000Z",
+            "contact": "info@steg.ai",
+            "informationalUrl": "https://openaccess.thecvf.com/content_CVPR_2019/papers/Wengrowski_Light_Field_Messaging_With_Deep_Photographic_Steganography_CVPR_2019_paper.pdf"
+        }
+    },
+    {
+        "identifier": 8,
+        "alg": "ai.trufo.gen1.image",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "image"
+        ],
+        "entryMetadata": {
+            "description": "Trufo image watermark.",
+            "dateEntered": "2024-08-14T15:00:00.000Z",
+            "contact": "tech@trufo.ai",
+            "informationalUrl": "https://trufo.ai/publications/"
+        }
+    },
+    {
+        "identifier": 9,
+        "alg": "ai.trufo.gen1.image-lite",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "image"
+        ],
+        "entryMetadata": {
+            "description": "Trufo image watermark (lite version).",
+            "dateEntered": "2024-08-14T15:00:00.000Z",
+            "contact": "tech@trufo.ai",
+            "informationalUrl": "https://trufo.ai/publications/"
+        }
+    },
+    {
+        "identifier": 10,
+        "alg": "app.overlai.watermark.1",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "image"
+        ],
+        "entryMetadata": {
+            "description": "Overlai Watermark version 1",
+            "dateEntered": "2024-08-14T16:00:00.000Z",
+            "contact": "luke@overlai.app",
+            "informationalUrl": "https://overlai.app/watermark"
+        }
+    },
+    {
+        "identifier": 11,
+        "alg": "tv.kinetiq.watercast.48.1",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "video"
+        ],
+        "entryMetadata": {
+            "description": "Teletrax Watermarking algorithm",
+            "dateEntered": "2024-10-16T17:00:00.000Z",
+            "contact": "c2pa@kinetiq.tv",
+            "informationalUrl": "https://kinetiq.tv/broadcasting-syndication/"
+        }
+    },
+    {
+        "identifier": 12,
+        "alg": "castLabs.watermark.1",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "video"
+        ],
+        "entryMetadata": {
+            "description": "castLabs Single Frame Forensic Watermarking",
+            "dateEntered": "2024-11-13T12:00:00.000Z",
+            "contact": "info@castlabs.com",
+            "informationalUrl": "https://castlabs.com/image-watermarking/"
+        }
+    },
+    {
+        "identifier": 13,
+        "alg": "com.adobe.trustmark.P",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "image"
+        ],
+        "entryMetadata": {
+            "description": "Adobe Trustmark variant P",
+            "dateEntered": "2025-02-05T17:00:00.000Z",
+            "contact": "collomos@adobe.com",
+            "informationalUrl": "https://github.com/adobe/trustmark/"
+        }
+    },
+    {
+        "identifier": 14,
+        "alg": "com.imatag.lamark.v1",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "image"
+        ],
+        "entryMetadata": {
+            "description": "Imatag invisible watermarking for images",
+            "dateEntered": "2025-02-26T15:00:00.000Z",
+            "contact": "c2pa@imatag.com",
+            "informationalUrl": "https://www.imatag.com/digital-watermarking/"
+        }
+    },
+    {
+        "identifier": 15,
+        "alg": "com.nagra.nexguard.watermark.1",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "video",
+            "audio",
+            "image"
+        ],
+        "entryMetadata": {
+            "description": "NAGRA NexGuard Watermarking with Single Frame Detection Capability",
+            "dateEntered": "2025-02-26T13:53:25.000Z",
+            "contact": "gabriel.cantin@nagra.com",
+            "informationalUrl": "https://nagra.vision/security-solutions/forensic-watermarking/"
+        }
+    },
+    {
+        "identifier": 16,
+        "alg": "com.mentaport.watermark.1",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "video",
+            "audio",
+            "image"
+        ],
+        "entryMetadata": {
+            "description": "Mentaport Watermarking Engine",
+            "dateEntered": "2025-03-12T13:00:00.000Z",
+            "contact": "hello@mentaport.com",
+            "informationalUrl": "https://docs.mentaport.xyz"
+        }
+    },
+    {
+        "identifier": 17,
+        "alg": "com.digicaps.fingerprint.1",
+        "type": "fingerprint",
+        "decodedMediaTypes": [
+            "image"
+        ],
+        "entryMetadata": {
+            "description": "DigiCAP Fingerprint Engine",
+            "dateEntered": "2025-06-16T17:00:00.000Z",
+            "contact": "info.bornid@digicaps.com",
+            "informationalUrl": "https://docs.bornid.io"
+        }
+    },
+    {
+        "identifier": 18,
+        "alg": "com.sonicorigin.watermark.1",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "audio",
+            "video"
+        ],
+        "entryMetadata": {
+            "description": "SonicOrigin Watermarking Engine",
+            "dateEntered": "2025-08-13T18:25:00.000Z",
+            "contact": "info@sonicai.ai",
+            "informationalUrl": "https://sonicai.ai"
+        }
+    },
+    {
+        "identifier": 19,
+        "alg": "com.microsoft.invismark.1",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "image",
+            "video"
+        ],
+        "entryMetadata": {
+            "description": "Microsoft Responsible AI InvisMark",
+            "dateEntered": "2025-10-12T18:25:00.000Z",
+            "contact": "rai_provenance@microsoft.com",
+            "informationalUrl": "https://arxiv.org/abs/2411.07795"
+        }
+    },
+    {
+        "identifier": 20,
+        "alg": "com.microsoft.wavmark.1",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "audio",
+            "video"
+        ],
+        "entryMetadata": {
+            "description": "Microsoft Responsible AI WavMark",
+            "dateEntered": "2025-10-12T15:00:00.000Z",
+            "contact": "rai_provenance@microsoft.com",
+            "informationalUrl": "https://arxiv.org/abs/2308.12770"
+        }
+    },
+    {
+        "identifier": 21,
+        "alg": "ai.contentlens.image.basewmk",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "image"
+        ],
+        "entryMetadata": {
+            "description": "ContentLens Image Watermarking (Base)",
+            "dateEntered": "2025-11-26T14:30:00.000Z",
+            "contact": "team@contentlens.ai",
+            "informationalUrl": "https://api.contentlens.tech/docs"
+        }
+    },
+    {
+        "identifier": 22,
+        "alg": "ai.contentlens.image.ensemblewmk",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "image"
+        ],
+        "entryMetadata": {
+            "description": "ContentLens Image Watermarking (Ensemble)",
+            "dateEntered": "2025-11-26T14:30:00.000Z",
+            "contact": "team@contentlens.ai",
+            "informationalUrl": "https://api.contentlens.tech/docs"
+        }
+    },
+    {
+        "identifier": 23,
+        "alg": "ai.contentlens.image.customwmk",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "image"
+        ],
+        "entryMetadata": {
+            "description": "ContentLens Image Watermarking (Custom)",
+            "dateEntered": "2025-11-26T14:30:00.000Z",
+            "contact": "team@contentlens.ai",
+            "informationalUrl": "https://api.contentlens.tech/docs"
+        }
+    },
+    {
+        "identifier": 24,
+        "alg": "ai.contentlens.audio.mono",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "audio"
+        ],
+        "entryMetadata": {
+            "description": "ContentLens Audio Watermarking (Mono)",
+            "dateEntered": "2025-11-26T14:30:00.000Z",
+            "contact": "team@contentlens.ai",
+            "informationalUrl": "https://api.contentlens.tech/audio/docs"
+        }
+    },
+    {
+        "identifier": 25,
+        "alg": "ai.contentlens.audio.stereo",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "audio"
+        ],
+        "entryMetadata": {
+            "description": "ContentLens Audio Watermarking (Stereo)",
+            "dateEntered": "2025-11-26T14:30:00.000Z",
+            "contact": "team@contentlens.ai",
+            "informationalUrl": "https://api.contentlens.tech/audio/docs"
+        }
+    },
+    {
+        "identifier": 26,
+        "alg": "es.lumatrace",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "image"
+        ],
+        "entryMetadata": {
+            "description": "Java-native Adaptive Spatial Watermarking using Blue-channel injection. Reference implementation (v4.0) with Cloud Soft-Binding API",
+            "dateEntered": "2026-01-26T17:30:00.000Z",
+            "contact": "contact@lumatrace.es",
+            "informationalUrl": "https://github.com/Cyrah2R/lumatrace-cloud"
+        }
+    },
+    {
+        "identifier": 27,
+        "alg": "com.markany.watermark.1",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "image",
+            "video",
+            "audio"
+        ],
+        "entryMetadata": {
+            "description": "MarkAny invisible watermarking with robustness against cropping, resizing, and compression",
+            "dateEntered": "2026-02-25T00:00:00.000Z",
+            "contact": "c2pa@markany.co.kr",
+            "informationalUrl": "https://en.markany.com/contentssecurity"
+        }
+    },
+    {    
+        "identifier": 28,
+        "alg": "com.verimatrix.watermark.1",
+        "type": "watermark",
+        "decodedMediaTypes": [
+            "video"
+        ],
+        "entryMetadata": {
+            "description": "Verimatrix watermarking algorithm: provides an essence-based forensic watermarking mechanism that may be used as a C2PA soft-binding technology. The algorithm embeds an imperceptible identifier payload directly into the audiovisual signal, enabling persistent association between a media asset and an external provenance record or manifest reference even when file-level cryptographic bindings are broken by transcoding, re-packaging, streaming workflows, or other common transformations. The embedded payload is designed to be robust against compression and typical distribution modifications and can be recovered from derivative copies via blind extraction without requiring access to the original master file. This supports C2PA soft-binding requirements by enabling downstream verification and traceability through extraction of a durable identifier that can be resolved to provenance or distribution metadata maintained outside the media file",
+            "dateEntered": "2026-02-26T14:16:00.000Z",
+            "contact": "c2pa@verimatrix.com",
+            "informationalUrl": "https://www.verimatrix.com/c2pa/watermarking/"
+        }
+    }
+]
