@@ -304,6 +304,7 @@ contributor = [
     { name = "Frontfiles", img = "contributor/frontfiles.svg", href="https://beta.frontfiles.com"},
     { name = "Web3Adam", img = "contributor/w3.svg", href="https://web3dam.com/"},
     { name = "Signly", img = "contributor/signly.svg", href="https://signly.co"},
+    { name = "Menra", img = "contributor/menra-ai.svg", href="https://menra.ai"},
 ]
 
 [menu]
