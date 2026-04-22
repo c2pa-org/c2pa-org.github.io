@@ -18,7 +18,7 @@ case "${unameOut}" in
     *)          machine="UNKNOWN:${unameOut}"
 esac
 
-docker build -t "${DOCKER_IMG}" .
+docker build --platform linux/amd64 -t "${DOCKER_IMG}" .
 
 # setup the current path currently for Mac, Win or Linux
 curPath=`pwd`
@@ -28,7 +28,7 @@ if [ "${machine}" == "MinGw" ]; then
 fi
 
 # run it!
-docker run --rm -it -v "${curPath}/${OUTPUT_DIR}":/src/${OUTPUT_DIR} -e "HUGO_DESTINATION=/src/${OUTPUT_DIR}" "${DOCKER_IMG}"
+docker run --rm -v "${curPath}/${OUTPUT_DIR}":/src/${OUTPUT_DIR} -e "HUGO_DESTINATION=/src/${OUTPUT_DIR}" "${DOCKER_IMG}"
 
 # make sure we add the CNAME file for Github pages
 \cp -fv etc/CNAME docs

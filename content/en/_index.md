@@ -1,3 +1,6 @@
+---
+title: "C2PA"
+---
 {{< rawhtml >}}
 <!DOCTYPE HTML>
 <html lang="en-US">
