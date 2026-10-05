@@ -15,10 +15,10 @@ jobs:
       - name: Download JSON file
         run: |
           # UPDATE THIS PATH to wherever you want the JSON to live in c2pa-org.github.io
-          mkdir -p sbal/softbinding-alg-list
+          mkdir -p docs/softbinding-alg-list
           
           # Download the file directly from the source repository
-          curl -s https://raw.githubusercontent.com/c2pa-org/softbinding-algorithm-list/refs/heads/main/softbinding-algorithm-list.json -o sbal/softbinding-alg-list/softbinding-algorithm-list.json
+          curl -s https://raw.githubusercontent.com/c2pa-org/softbinding-algorithm-list/refs/heads/main/softbinding-algorithm-list.json -o docs/softbinding-alg-list/softbinding-algorithm-list.json
 
       - name: Commit and push if changed
         run: |
@@ -26,6 +26,6 @@ jobs:
           git config --local user.name "GitHub Action"
           
           # UPDATE THIS PATH to match the destination folder above
-          git add sbal/softbinding-alg-list/softbinding-algorithm-list.json
+          git add docs/softbinding-alg-list/softbinding-algorithm-list.json
           
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update softbinding algorithm list to latest" && git push)
