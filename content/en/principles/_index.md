@@ -79,6 +79,16 @@ C2PA specifications **SHOULD** result in an ecosystem of tools for each of the a
 
 - A piece of content encoded with one C2PA-compliant tool **MUST** be readable by another C2PA-complaint tool.
 
+## Compatibility and Evolution 
+
+C2PA specification **SHOULD** evolve in a way that promotes long-term ecosystem stability. This includes striving for both backward and forward compatibility across specification versions.
+
+### Details
+
+- Content created under a newer version of the standard **SHOULD** remain readable and safely processable by older implementations, even if newer features cannot be fully understood.
+- The specification **MUST** support graceful degradation which minimizes disruption for update-constrained environments (such as embedded or edge devices), and supports the trustworthiness and continuity of C2PA-enabled provenance data over time.
+- When forward or backward compatibility cannot reasonably be maintained, the C2PA Technical Working Group **SHOULD** document the rationale, expected impact, and mitigation strategies.
+
 ## Fit with Existing Workflows
 
 C2PA specifications **MUST** fit into the existing workflows of each of the target users named earlier, typically through incremental additions to existing tools.
